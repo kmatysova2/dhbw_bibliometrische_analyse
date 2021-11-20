@@ -1,49 +1,54 @@
-employee,first_matched_job_title
-"Avella, Prof. Dr. Felice-Alfredo",Professor Fakultät Wirtschaft
-"Berkling, Ph.D., Prof. Kay Margarethe",Professorin Fakultät Technik
-"Bonaudo,  Patricia",akademische Mitarbeiterin im Bereich „Lerntechnologien und Digitalisierung“
-"Brandstetter,  Christian",akademischer Mitarbeiter im Bereich Entrepreneurial Education
-"Brunner,  Marina",akademische Mitarbeiterin im Bereich Lerntechnologien und Digitalisierung
-"Buske, Prof. Dr. Antje",Professorin Fakultät Wirtschaft
-"Dannenmayer, Prof. Bernd",Professor Fakultät Wirtschaft
-"Ehlers, Prof. Dr. Ulf-Daniel",Professor Fakultät Wirtschaft
-"Eigbrecht,  Laura",akademische Mitarbeiterin im Bereich „Lerntechnologien und Digitalisierung“
-"Erb, Prof. Dr. Jürgen",Professor Fakultät Technik
-"Franken, Prof. Dr. Birgit",Professorin Fakultät Wirtschaft
-"Freytag, Prof. Dr. Thomas",Professor Fakultät Wirtschaft Wissenschaftlicher Leiter International Office
-"Ganninger, Prof. Dr. Aline",Professorin Fakultät Technik
-"Geier,  Nicole",Akademische Mitarbeiterin (Lerntechnologie und Digitalisierung)
-"Grün, Prof. Dr. Markus",Professor Fakultät Wirtschaft
-"Haas, Prof. Martin",Professor Fakultät Technik
-"Harms, Prof. Dr. Torsten",Professor Fakultät Wirtschaft
-"Heck,  Regina",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft
-"Heinemann,  Sonja",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft
-"Klink, Prof. Dr. Stefan",Professor Fakultät WirtschaftFachliche Beratung zum Master Wirtschaftsinformatik
-"Kopra-Schäfer, Prof. Dr. Monika",Professorin Fakultät Technik
-"Korbmann,  Monika",Aakademische Mitarbeiterin im Projekt 3D-ThermoCell
-"Kühn, Prof. Dr.-Ing. Ralf",Professor Fakultät Technik
-"Kunze,  Katharina",Akademische Mitarbeiterin (Lerntechnologie und Digitalisierung)
-"Landwehr-Zloch, Prof. Dr. Sabine",Professorin Fakultät Wirtschaft
-"Lauer, Prof. Dr. Silvia",Professorin Fakultät TechnikLeiterin Multimedia Lernzentrum / Sprachenzentrum
-"Lausen, Prof. Dr. Ralph",Professor Fakultät Technik
-"Lautenschlager,  Evelyn",Akademische Mitarbeiterin im Fachbereich Gesundheit
-"Lee, Prof. Dr. Andrew",Professor Fakultät Wirtschaft
-"Lennerts, Prof. Dr. Silke",Professor Fakultät Wirtschaft
-"Marschall,  Tanja",Akademische Mitarbeiterin im Fachbereich Gesundheit
-"Möbius, Prof. Dr. Christian",Professor Fakultät Wirtschaft
-"Müller, Prof. Dr. Margitte",Studiengangsleiterin
-"Oberschmidt, Prof. Dr.-Ing. Gerald",Professor Fakultät Technik Fachliche Beratung Master Elektrotechnik und Integrated Engineering Wissenschaftliche Leitung Master Elektrotechnik
-"Paulsen, Prof. Dr. Pay-Uwe",Professor Fakultät Wirtschaft
-"Reinhard,  Stefan",Akademischer Mitarbeiter im Projekt ExGra
-"Reitze, Prof. Dr. Clemens",Professor Fakultät Technik
-"Röthig, Prof. Dr. Jürgen",Professor Fakultät Technik
-"Schindler, Prof. Dr. Darius",Professor Fakultät WirtschaftJustiziar
-"Schmitt,  Wibke",akademische Mitarbeiterin im Projekt BioPCM
-"Tometten-Iseke, Prof. Dr. Anneliese",Professorin im Studiengang Angewandte Hebammenwissenschaft
-"Volkmann,  Anna",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft
-"Walter,  Lukas",als akademischer Mitarbeiter im Projekt PolyProg bei Herrn Prof. Kauffmann
-"Weber, Prof. Dr. Andreas",Professor Fakultät Wirtschaft
-"Wuttke-Hilke,  Iris",Akademische Mitarbeiterin Fakultät Wirtschaft - Industrie
-"Zeller,  Tanja",Akademische Mitarbeiterin im Studiengang Physician Assistant
-"Zimmerman, Prof. Dr. Eric",Professor Fakultät Technik
-"Zimmermann, Prof. Dr. Ruth-Caroline",Professorin Fakultät Wirtschaft
+employee_name,first_matched_job_title,employee_name_clean,location
+"Avella, Prof. Dr. Felice-Alfredo",Professor Fakultät Wirtschaft,Felice-Alfredo Avella,karlsruhe
+"Berkling, Ph.D., Prof. Kay Margarethe",Professorin Fakultät Technik,Kay Margarethe Berkling,karlsruhe
+"Bonaudo,  Patricia",akademische Mitarbeiterin im Bereich „Lerntechnologien und Digitalisierung“,Patricia Bonaudo,karlsruhe
+"Brandstetter,  Christian",akademischer Mitarbeiter im Bereich Entrepreneurial Education,Christian Brandstetter,karlsruhe
+"Braun, Prof. Dr. Heinrich",Leiter Studiengang Informatik Fachliche Beratung Master Informatik Wissenschaftliche Leitung Master Informatik,Heinrich Braun,karlsruhe
+"Brunner,  Marina",akademische Mitarbeiterin im Bereich Lerntechnologien und Digitalisierung,Marina Brunner,karlsruhe
+"Buske, Prof. Dr. Antje",Professorin Fakultät Wirtschaft,Antje Buske,karlsruhe
+"Dannenmayer, Prof. Bernd",Professor Fakultät Wirtschaft,Bernd Dannenmayer,karlsruhe
+"Ehlers, Prof. Dr. Ulf-Daniel",Professor Fakultät Wirtschaft,Ulf-Daniel Ehlers,karlsruhe
+"Eigbrecht,  Laura",akademische Mitarbeiterin im Bereich „Lerntechnologien und Digitalisierung“,Laura Eigbrecht,karlsruhe
+"Erb, Prof. Dr. Jürgen",Professor Fakultät Technik,Jürgen Erb,karlsruhe
+"Franken, Prof. Dr. Birgit",Professorin Fakultät Wirtschaft,Birgit Franken,karlsruhe
+"Freytag, Prof. Dr. Thomas",Professor Fakultät Wirtschaft Wissenschaftlicher Leiter International Office,Thomas Freytag,karlsruhe
+"Ganninger, Prof. Dr. Aline",Professorin Fakultät Technik,Aline Ganninger,karlsruhe
+"Geier,  Nicole",Akademische Mitarbeiterin (Lerntechnologie und Digitalisierung),Nicole Geier,karlsruhe
+"Grün, Prof. Dr. Markus",Professor Fakultät Wirtschaft,Markus Grün,karlsruhe
+"Haas, Prof. Martin",Professor Fakultät Technik,Martin Haas,karlsruhe
+"Harms, Prof. Dr. Torsten",Professor Fakultät Wirtschaft,Torsten Harms,karlsruhe
+"Heck,  Regina",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft,Regina Heck,karlsruhe
+"Heinemann,  Sonja",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft,Sonja Heinemann,karlsruhe
+"Heinz,  Aneta","Wissenschaftliche Mitarbeiterin im IPF-Projekt „Weiterbildungsstrategien in der IT-Branche“, Projekt Z",Aneta Heinz,karlsruhe
+"Klink, Prof. Dr. Stefan",Professor Fakultät WirtschaftFachliche Beratung zum Master Wirtschaftsinformatik,Stefan Klink,karlsruhe
+"Kopra-Schäfer, Prof. Dr. Monika",Professorin Fakultät Technik,Monika Kopra-Schäfer,karlsruhe
+"Korbmann,  Monika",Aakademische Mitarbeiterin im Projekt 3D-ThermoCell,Monika Korbmann,karlsruhe
+"Kühn, Prof. Dr.-Ing. Ralf",Professor Fakultät Technik,Ralf Kühn,karlsruhe
+"Kunze,  Katharina",Akademische Mitarbeiterin (Lerntechnologie und Digitalisierung),Katharina Kunze,karlsruhe
+"Landwehr-Zloch, Prof. Dr. Sabine",Professorin Fakultät Wirtschaft,Sabine Landwehr-Zloch,karlsruhe
+"Lauer, Prof. Dr. Silvia",Professorin Fakultät TechnikLeiterin Multimedia Lernzentrum / Sprachenzentrum,Silvia Lauer,karlsruhe
+"Lausen, Prof. Dr. Ralph",Professor Fakultät Technik,Ralph Lausen,karlsruhe
+"Lautenschlager,  Evelyn",Akademische Mitarbeiterin im Fachbereich Gesundheit,Evelyn Lautenschlager,karlsruhe
+"Lee, Prof. Dr. Andrew",Professor Fakultät Wirtschaft,Andrew Lee,karlsruhe
+"Lennerts, Prof. Dr. Silke",Professor Fakultät Wirtschaft,Silke Lennerts,karlsruhe
+"Marschall,  Tanja",Akademische Mitarbeiterin im Fachbereich Gesundheit,Tanja Marschall,karlsruhe
+"Möbius, Prof. Dr. Christian",Professor Fakultät Wirtschaft,Christian Möbius,karlsruhe
+"Müller, Prof. Dr. Margitte",Studiengangsleiterin,Margitte Müller,karlsruhe
+"Nick, Prof. Dr. Albrecht",Leiter Studiengang Maschinenbau Wissenschaftlicher Leiter International Office,Albrecht Nick,karlsruhe
+"Oberschmidt, Prof. Dr.-Ing. Gerald",Professor Fakultät Technik Fachliche Beratung Master Elektrotechnik und Integrated Engineering Wissenschaftliche Leitung Master Elektrotechnik,Gerald Oberschmidt,karlsruhe
+"Paulsen, Prof. Dr. Pay-Uwe",Professor Fakultät Wirtschaft,Pay-Uwe Paulsen,karlsruhe
+"Reinhard,  Stefan",Akademischer Mitarbeiter im Projekt ExGra,Stefan Reinhard,karlsruhe
+"Reitze, Prof. Dr. Clemens",Professor Fakultät Technik,Clemens Reitze,karlsruhe
+"Röthig, Prof. Dr. Jürgen",Professor Fakultät Technik,Jürgen Röthig,karlsruhe
+"Schindler, Prof. Dr. Darius",Professor Fakultät WirtschaftJustiziar,Darius Schindler,karlsruhe
+"Schmitt,  Wibke",akademische Mitarbeiterin im Projekt BioPCM,Wibke Schmitt,karlsruhe
+"Schorr, Prof. Dr. Dietmar",Leiter Studiengang MaschinenbauWissenschaftliche Leitung Master MaschinenbauFachliche Beratung Master Maschinenbau und Wirtschaftsingenieurwesen,Dietmar Schorr,karlsruhe
+"Schwär,  Florian",wissenschaftlicher Mitarbeiter bei Herrn Prof. Kauffmann,Florian Schwär,karlsruhe
+"Tometten-Iseke, Prof. Dr. Anneliese",Professorin im Studiengang Angewandte Hebammenwissenschaft,Anneliese Tometten-Iseke,karlsruhe
+"Volkmann,  Anna",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft,Anna Volkmann,karlsruhe
+"Walter,  Lukas",als akademischer Mitarbeiter im Projekt PolyProg bei Herrn Prof. Kauffmann,Lukas Walter,karlsruhe
+"Weber, Prof. Dr. Andreas",Professor Fakultät Wirtschaft,Andreas Weber,karlsruhe
+"Wuttke-Hilke,  Iris",Akademische Mitarbeiterin Fakultät Wirtschaft - Industrie,Iris Wuttke-Hilke,karlsruhe
+"Zeller,  Tanja",Akademische Mitarbeiterin im Studiengang Physician Assistant,Tanja Zeller,karlsruhe
+"Zimmerman, Prof. Dr. Eric",Professor Fakultät Technik,Eric Zimmerman,karlsruhe
+"Zimmermann, Prof. Dr. Ruth-Caroline",Professorin Fakultät Wirtschaft,Ruth-Caroline Zimmermann,karlsruhe
