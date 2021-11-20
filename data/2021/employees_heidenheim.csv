@@ -1,119 +1,57 @@
-employee,first_matched_job_title
-"Adamy, Kevin",Akademischer Mitarbeiter BWL - Digital Business Management
-"Amerein, Bärbel, Prof. Dr.",Professorin Studiengang Kinder- und Jugendhilfe
-"Assfalg, Rolf, Prof. Dr.",Studiengangsleiter Informatik
-"Bärwald, Andreas, Prof. Dr.",Studiengangsleiter BWL - Digital Business Management
-"Batz, Michael, Prof. Dr.",Studiengangsleiter Sozialmanagement
-"Bendele, Léa",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen
-"Berninger, Sabine, Dr. -Ing.",Professorin im Studiengang Informatik
-"Bierer, Martin, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau
-"Blessing, Nico, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau
-"Büchele, Stefanie",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen
-"Burmeister, Jürgen, Prof. Dr.","Studiengangsleiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe"
-"Eisinger, Bernd, Prof. Dr.",Studiengangsleiter BWL - Handel
-"Falterbaum, Johannes, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe
-"Froböse, Michael, Prof. Dr.",Studiengangsleiter BWL - Marketing Management
-"Gramlich, Dieter, Prof. Dr.",Studiengangsleiter BWL - Bank / Head of Banking Department
-"Grinblat, Roman, Prof. Dr.",Professor Studiengang Sozialmanagement
-"Hänisch, Till, Prof. Dipl.-Phys.",Studiengangsleiter Informatik
-"Hascher, Hansgert, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen
-"Helmer-Denzel, Andrea, Prof. Dr.",Studiengangsleiterin Case Management im Sozial- und Gesundheitswesen
-"Henle, Ramona Lucy",Akademische Mitarbeiterin Wirtschaftsingenieurwesen
-"Hilp, Jürgen, Prof. Dr.",Studiengangsleiter BWL - Versicherung
-"Hoffmann, Elvira, Prof. Dr.",Studiengangsleiterin Angewandte Hebammenwissenschaft
-"Hofweber, Peter, Prof. Dr.",Studiengangsleiter BWL - Industrie
-"Huestegge, Sujata, Prof. Dr. rer. nat.",Studiengangsleiterin Interprofessionelle Gesundheitsversorgung
-"Jozsa, Anita",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Jusic, Hanifa, Prof. Dr.",Studiengangsleiterin BWL - Industrie
-"Klisch, Sina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Kolb, Alexander, Prof. Dr.-Ing.",Professor Fakultät Wirtschaft
-"Kühlmuß, Bernd, Prof. Dr.",Professor für Gesundheitswissenschaften
-"Leykauf, Gerhard, Prof. Dr.",Studiengangsleiter BWL - Handel
-"Lohmann, Florian, Prof. Dr.",Studiengangsleiter BWL - Bank
-"Maier, Simone, Prof. Dr.",Studiengangsleiterin BWL - International Business
-"Martinez Marquez, Luis Roberto",Akademischer Mitarbeiter Projekt ZIM - DARC 1000
-"Minges, Roland, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau
-"Nandi, Gerrit, Prof. Dr.",Studiengangsleiter Wirtschaftsingenieurwesen
-"Oberle, Christina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Reiff, Georg","Akademischer Mitarbeiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe"
-"Rief, Alexander, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik"
-"Romanowski-Kirchner, Christopher, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe
-"Rupp, Klaus-Dieter, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen
-"Sager, Britta",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Sailer, Marcel, Prof. Dr.",Studiengangsleiter Angewandte Gesundheits- und Pflegewissenschaften
-"Sakowski, Klaus, Prof. Dr.",Professor BWL - Marketing Management
-"Schenk, Gerald, Prof. Dr.",Studiengangsleiter BWL - Industrie
-"Schlund, Manfred, Prof. Dr.",Professor Studiengang Sozialmanagement
-"Schütz, Franziska",Akademische Mitarbeiterin Informatik
-"Seitz, Jürgen, Prof. Dr.",Studiengangsleiter Wirtschaftsinformatik
-"Shidende, Deogratias",Akademischer Mitarbeiter BWL - Digital Business Management
-"Speer, Sigrid",Akademische Mitarbeiterin BWL - Digital Business Management
-"Stötter, Stephan",Akademischer Mitarbeiter
-"Thomisch, Marco, Prof. Dr.-Ing.",Professor Studiengang Wirtschaftsingenieurwesen
-"Wander, Carsten, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik"
-"Weber, Sonja",Akademische Mitarbeiterin BWL - Marketing Management
-"Weidemann, Wolfgang, Prof. Dr.",Studiengangsleiter Medizintechnische Wissenschaften
-"Wind, Tanja","Akademische Mitarbeiterin Soziale Dienste der Jugend-, Sozial- und Familienhilfe"
-"Witt, Alexander",Akademischer Mitarbeiter Sozialmanagement
-"Berninger, Sabine, Dr. -Ing.",Professorin im Studiengang Informatik
-"Helmer-Denzel, Andrea, Prof. Dr.",Studiengangsleiterin Case Management im Sozial- und Gesundheitswesen
-"Amerein, Bärbel, Prof. Dr.",Professorin Studiengang Kinder- und Jugendhilfe
-"Batz, Michael, Prof. Dr.",Studiengangsleiter Sozialmanagement
-"Bendele, Léa",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen
-"Büchele, Stefanie",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen
-"Burmeister, Jürgen, Prof. Dr.","Studiengangsleiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe"
-"Falterbaum, Johannes, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe
-"Grinblat, Roman, Prof. Dr.",Professor Studiengang Sozialmanagement
-"Helmer-Denzel, Andrea, Prof. Dr.",Studiengangsleiterin Case Management im Sozial- und Gesundheitswesen
-"Reiff, Georg","Akademischer Mitarbeiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe"
-"Romanowski-Kirchner, Christopher, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe
-"Schlund, Manfred, Prof. Dr.",Professor Studiengang Sozialmanagement
-"Wind, Tanja","Akademische Mitarbeiterin Soziale Dienste der Jugend-, Sozial- und Familienhilfe"
-"Witt, Alexander",Akademischer Mitarbeiter Sozialmanagement
-"Assfalg, Rolf, Prof. Dr.",Studiengangsleiter Informatik
-"Berninger, Sabine, Dr. -Ing.",Professorin im Studiengang Informatik
-"Bierer, Martin, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau
-"Blessing, Nico, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau
-"Hänisch, Till, Prof. Dipl.-Phys.",Studiengangsleiter Informatik
-"Hascher, Hansgert, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen
-"Henle, Ramona Lucy",Akademische Mitarbeiterin Wirtschaftsingenieurwesen
-"Minges, Roland, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau
-"Nandi, Gerrit, Prof. Dr.",Studiengangsleiter Wirtschaftsingenieurwesen
-"Rupp, Klaus-Dieter, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen
-"Schütz, Franziska",Akademische Mitarbeiterin Informatik
-"Stötter, Stephan",Akademischer Mitarbeiter
-"Thomisch, Marco, Prof. Dr.-Ing.",Professor Studiengang Wirtschaftsingenieurwesen
-"Adamy, Kevin",Akademischer Mitarbeiter BWL - Digital Business Management
-"Bärwald, Andreas, Prof. Dr.",Studiengangsleiter BWL - Digital Business Management
-"Eisinger, Bernd, Prof. Dr.",Studiengangsleiter BWL - Handel
-"Froböse, Michael, Prof. Dr.",Studiengangsleiter BWL - Marketing Management
-"Gramlich, Dieter, Prof. Dr.",Studiengangsleiter BWL - Bank / Head of Banking Department
-"Hilp, Jürgen, Prof. Dr.",Studiengangsleiter BWL - Versicherung
-"Hofweber, Peter, Prof. Dr.",Studiengangsleiter BWL - Industrie
-"Jusic, Hanifa, Prof. Dr.",Studiengangsleiterin BWL - Industrie
-"Leykauf, Gerhard, Prof. Dr.",Studiengangsleiter BWL - Handel
-"Lohmann, Florian, Prof. Dr.",Studiengangsleiter BWL - Bank
-"Maier, Simone, Prof. Dr.",Studiengangsleiterin BWL - International Business
-"Martinez Marquez, Luis Roberto",Akademischer Mitarbeiter Projekt ZIM - DARC 1000
-"Rief, Alexander, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik"
-"Sakowski, Klaus, Prof. Dr.",Professor BWL - Marketing Management
-"Schenk, Gerald, Prof. Dr.",Studiengangsleiter BWL - Industrie
-"Seitz, Jürgen, Prof. Dr.",Studiengangsleiter Wirtschaftsinformatik
-"Shidende, Deogratias",Akademischer Mitarbeiter BWL - Digital Business Management
-"Speer, Sigrid",Akademische Mitarbeiterin BWL - Digital Business Management
-"Wander, Carsten, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik"
-"Weber, Sonja",Akademische Mitarbeiterin BWL - Marketing Management
-"Hoffmann, Elvira, Prof. Dr.",Studiengangsleiterin Angewandte Hebammenwissenschaft
-"Huestegge, Sujata, Prof. Dr. rer. nat.",Studiengangsleiterin Interprofessionelle Gesundheitsversorgung
-"Jozsa, Anita",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Klisch, Sina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Kühlmuß, Bernd, Prof. Dr.",Professor für Gesundheitswissenschaften
-"Oberle, Christina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Sager, Britta",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft
-"Sailer, Marcel, Prof. Dr.",Studiengangsleiter Angewandte Gesundheits- und Pflegewissenschaften
-"Weidemann, Wolfgang, Prof. Dr.",Studiengangsleiter Medizintechnische Wissenschaften
-"Batz, Michael, Prof. Dr.",Studiengangsleiter Sozialmanagement
-"Hascher, Hansgert, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen
-"Jusic, Hanifa, Prof. Dr.",Studiengangsleiterin BWL - Industrie
-"Lohmann, Florian, Prof. Dr.",Studiengangsleiter BWL - Bank
-"Nandi, Gerrit, Prof. Dr.",Studiengangsleiter Wirtschaftsingenieurwesen
+employee_name,first_matched_job_title,employee_name_clean,location
+"Adamy, Kevin",Akademischer Mitarbeiter BWL - Digital Business Management,Kevin Adamy,heidenheim
+"Amerein, Bärbel, Prof. Dr.",Professorin Studiengang Kinder- und Jugendhilfe,Bärbel Amerein,heidenheim
+"Assfalg, Rolf, Prof. Dr.",Studiengangsleiter Informatik,Rolf Assfalg,heidenheim
+"Bärwald, Andreas, Prof. Dr.",Studiengangsleiter BWL - Digital Business Management,Andreas Bärwald,heidenheim
+"Batz, Michael, Prof. Dr.",Studiengangsleiter Sozialmanagement,Michael Batz,heidenheim
+"Bendele, Léa",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen,Léa Bendele,heidenheim
+"Berninger, Sabine, Dr. -Ing.",Professorin im Studiengang Informatik,Sabine Berninger,heidenheim
+"Bierer, Martin, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau,Martin Bierer,heidenheim
+"Blessing, Nico, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau,Nico Blessing,heidenheim
+"Büchele, Stefanie",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen,Stefanie Büchele,heidenheim
+"Burmeister, Jürgen, Prof. Dr.","Studiengangsleiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe",Jürgen Burmeister,heidenheim
+"Eisinger, Bernd, Prof. Dr.",Studiengangsleiter BWL - Handel,Bernd Eisinger,heidenheim
+"Falterbaum, Johannes, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe,Johannes Falterbaum,heidenheim
+"Froböse, Michael, Prof. Dr.",Studiengangsleiter BWL - Marketing Management,Michael Froböse,heidenheim
+"Gramlich, Dieter, Prof. Dr.",Studiengangsleiter BWL - Bank / Head of Banking Department,Dieter Gramlich,heidenheim
+"Grinblat, Roman, Prof. Dr.",Professor Studiengang Sozialmanagement,Roman Grinblat,heidenheim
+"Hänisch, Till, Prof. Dipl.-Phys.",Studiengangsleiter Informatik,Till Hänisch,heidenheim
+"Hascher, Hansgert, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen,Hansgert Hascher,heidenheim
+"Helmer-Denzel, Andrea, Prof. Dr.",Studiengangsleiterin Case Management im Sozial- und Gesundheitswesen,Andrea Helmer-Denzel,heidenheim
+"Henle, Ramona Lucy",Akademische Mitarbeiterin Wirtschaftsingenieurwesen,Ramona Lucy Henle,heidenheim
+"Hilp, Jürgen, Prof. Dr.",Studiengangsleiter BWL - Versicherung,Jürgen Hilp,heidenheim
+"Hoffmann, Elvira, Prof. Dr.",Studiengangsleiterin Angewandte Hebammenwissenschaft,Elvira Hoffmann,heidenheim
+"Hofweber, Peter, Prof. Dr.",Studiengangsleiter BWL - Industrie,Peter Hofweber,heidenheim
+"Huestegge, Sujata, Prof. Dr. rer. nat.",Studiengangsleiterin Interprofessionelle Gesundheitsversorgung,Sujata Huestegge,heidenheim
+"Jozsa, Anita",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Anita Jozsa,heidenheim
+"Jusic, Hanifa, Prof. Dr.",Studiengangsleiterin BWL - Industrie,Hanifa Jusic,heidenheim
+"Klisch, Sina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Sina Klisch,heidenheim
+"Kolb, Alexander, Prof. Dr.-Ing.",Professor Fakultät Wirtschaft,Alexander Kolb,heidenheim
+"Kühlmuß, Bernd, Prof. Dr.",Professor für Gesundheitswissenschaften,Bernd Kühlmuß,heidenheim
+"Leykauf, Gerhard, Prof. Dr.",Studiengangsleiter BWL - Handel,Gerhard Leykauf,heidenheim
+"Lohmann, Florian, Prof. Dr.",Studiengangsleiter BWL - Bank,Florian Lohmann,heidenheim
+"Maier, Simone, Prof. Dr.",Studiengangsleiterin BWL - International Business,Simone Maier,heidenheim
+"Martinez Marquez, Luis Roberto",Akademischer Mitarbeiter Projekt ZIM - DARC 1000,Luis Roberto Martinez Marquez,heidenheim
+"Minges, Roland, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau,Roland Minges,heidenheim
+"Nandi, Gerrit, Prof. Dr.",Studiengangsleiter Wirtschaftsingenieurwesen,Gerrit Nandi,heidenheim
+"Oberle, Christina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Christina Oberle,heidenheim
+"Reiff, Georg","Akademischer Mitarbeiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe",Georg Reiff,heidenheim
+"Rief, Alexander, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik",Alexander Rief,heidenheim
+"Romanowski-Kirchner, Christopher, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe,Christopher Romanowski-Kirchner,heidenheim
+"Rupp, Klaus-Dieter, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen,Klaus-Dieter Rupp,heidenheim
+"Sager, Britta",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Britta Sager,heidenheim
+"Sailer, Marcel, Prof. Dr.",Studiengangsleiter Angewandte Gesundheits- und Pflegewissenschaften,Marcel Sailer,heidenheim
+"Sakowski, Klaus, Prof. Dr.",Professor BWL - Marketing Management,Klaus Sakowski,heidenheim
+"Schenk, Gerald, Prof. Dr.",Studiengangsleiter BWL - Industrie,Gerald Schenk,heidenheim
+"Schlund, Manfred, Prof. Dr.",Professor Studiengang Sozialmanagement,Manfred Schlund,heidenheim
+"Schütz, Franziska",Akademische Mitarbeiterin Informatik,Franziska Schütz,heidenheim
+"Seitz, Jürgen, Prof. Dr.",Studiengangsleiter Wirtschaftsinformatik,Jürgen Seitz,heidenheim
+"Shidende, Deogratias",Akademischer Mitarbeiter BWL - Digital Business Management,Deogratias Shidende,heidenheim
+"Speer, Sigrid",Akademische Mitarbeiterin BWL - Digital Business Management,Sigrid Speer,heidenheim
+"Stötter, Stephan",Akademischer Mitarbeiter,Stephan Stötter,heidenheim
+"Thomisch, Marco, Prof. Dr.-Ing.",Professor Studiengang Wirtschaftsingenieurwesen,Marco Thomisch,heidenheim
+"Wander, Carsten, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik",Carsten Wander,heidenheim
+"Weber, Sonja",Akademische Mitarbeiterin BWL - Marketing Management,Sonja Weber,heidenheim
+"Weidemann, Wolfgang, Prof. Dr.",Studiengangsleiter Medizintechnische Wissenschaften,Wolfgang Weidemann,heidenheim
+"Wind, Tanja","Akademische Mitarbeiterin Soziale Dienste der Jugend-, Sozial- und Familienhilfe",Tanja Wind,heidenheim
+"Witt, Alexander",Akademischer Mitarbeiter Sozialmanagement,Alexander Witt,heidenheim
