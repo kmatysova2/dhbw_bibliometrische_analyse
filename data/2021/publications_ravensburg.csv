@@ -1,12 +1,6 @@
 AUTHOR_NAME,PUB_TITLE,PUB_YEAR,PUB_AUTHORS,PUB_TYPE,PUB_PUBLISHER,PUB_ISBN,PUB_DOI,PUB_CITATIONS,JOU_RATING_VHB,JOU_RATING_SCIMAGO,UPDATED
 Heike Schwadorf,[BOOK][B] Investition und Finanzierung,2011.0,"['H Putnoki', ' H Schwadorf', ' FT Bergh ']",,,,,16.0,,8.0,2022-02-22
 Heike Schwadorf,Einflussfaktoren auf den Erfolg interner betrieblicher Lehrveranstaltungen bei der Daimler AG–Empirische Ergebnisse aus Teilnehmersicht,2009.0,"['W Bihler', ' H Schwadorf…']",, Zeitschrift für Berufs …,,,3.0,k.R.,,2022-02-22
-Thomas Kibler,Optical data buses for automotive applications,2004.0,"['T Kibler', ' S Poferl', ' G Bock', ' HP Huber…']",, Journal of lightwave …,,,154.0,D,299.0,2022-02-22
-Thomas Kibler,Optical communication systems for automobiles,2004.0,"['T Schaal', ' T Kibler', ' E Zeeb']",, Eur. Conf. Optical Commun.(ECOC),,,13.0,,,2022-02-22
-Thomas Kibler,Optical data links for automotive applications,2004.0,"['T Kibler', ' E Zeeb']",, … and Technology Conference (IEEE Cat. No …,,,13.0,,116.0,2022-02-22
-Thomas Kibler,Optical transceiver module for star networks in cars,2003.0,"['T Kibler', ' K Pregitzer', ' C Rief', ' E Zeeb…']",, VCSELs and …,,,8.0,,,2022-02-22
-Thomas Kibler,Planar star couplers for 200/spl mu/m multimode PCS fibers,2003.0,"['T Kibler', ' J Guttmann', ' HP Huber…']",, The Annual Meeting …,,,,,1.0,2022-02-22
-Thomas Kibler,Optical connector system for data busses,2005.0,"['T KIBLER', ' J MOISEL', ' M RODE', ' E ZEEB ']",,,,,,,8.0,2022-02-22
 Thomas Asche,Validation of the COMPASS force field for complex inorganic–organic hybrid polymers,2017.0,"['TS Asche', ' P Behrens', ' AM Schneider']",,,,,18.0,,8.0,2022-02-22
 Thomas Asche,[BOOK][B] Das Sicherheitsverhalten von Konsumenten,1990.0,['T Asche '],,,,,27.0,,8.0,2022-02-22
 Thomas Asche,Die Ergebnisse der empirischen Analyse zum Sicherheitsverhalten,1990.0,['T Asche'],, Das Sicherheitsverhalten von Konsumenten,,,,,,2022-02-22
@@ -15,6 +9,13 @@ Thomas Asche,Validation of the COMPASS force field for complex inorganic–organ
 Thomas Asche,Atomistic Simulation of Sol–Gel-Derived Hybrid Materials,2016.0,"['Thomas Sebastian Asche', 'Mirja Duderstaedt', 'Peter Behrens', 'Andreas M. Schneider']",Chapter,,,10.1007/978-3-319-19454-7_109-1,,,8.0,2022-03-02
 Thomas Asche,Two-photon polymerization of inorganic-organic polymers for biomedical and microoptical applications,2015.0,"['F. Burmeister', 'Sönke Steenhusen', 'Ruth Houbertz', 'Heike Walles']",Chapter,,,10.1515/9783110354324-016,,,8.0,2022-03-02
 Thomas Asche,Die Datengewinnung zur Analyse des Sicherheitsverhaltens,1990.0,['T Asche'],, Das Sicherheitsverhalten von Konsumenten,,,,,,2022-02-22
+Atheer Al-Tameemi,Estimation of planetary surface ages using image based automatic crater detection algorithms,2018.0,['A Al'],,,,,,,8.0,2022-02-22
+Thomas Kibler,Optical data buses for automotive applications,2004.0,"['T Kibler', ' S Poferl', ' G Bock', ' HP Huber…']",, Journal of lightwave …,,,154.0,D,299.0,2022-02-22
+Thomas Kibler,Optical communication systems for automobiles,2004.0,"['T Schaal', ' T Kibler', ' E Zeeb']",, Eur. Conf. Optical Commun.(ECOC),,,13.0,,,2022-02-22
+Thomas Kibler,Optical data links for automotive applications,2004.0,"['T Kibler', ' E Zeeb']",, … and Technology Conference (IEEE Cat. No …,,,13.0,,116.0,2022-02-22
+Thomas Kibler,Optical transceiver module for star networks in cars,2003.0,"['T Kibler', ' K Pregitzer', ' C Rief', ' E Zeeb…']",, VCSELs and …,,,8.0,,,2022-02-22
+Thomas Kibler,Planar star couplers for 200/spl mu/m multimode PCS fibers,2003.0,"['T Kibler', ' J Guttmann', ' HP Huber…']",, The Annual Meeting …,,,,,1.0,2022-02-22
+Thomas Kibler,Optical connector system for data busses,2005.0,"['T KIBLER', ' J MOISEL', ' M RODE', ' E ZEEB ']",,,,,,,8.0,2022-02-22
 Frank Lehmann,Durability of the resin bond strength to zirconia ceramic after using different surface conditioning methods,2007.0,"['M Wolfart', ' F Lehmann', ' S Wolfart', ' M Kern']",, Dental Materials,,,635.0,,150.0,2022-02-22
 Frank Lehmann,Symptoms of depression and anxiety are independently associated with clinical recurrence of inflammatory bowel disease,2016.0,['A Mikocka'],,Walus,,,209.0,,,2022-02-22
 Frank Lehmann,The role and utility of faecal markers in inflammatory bowel disease,2015.0,"['FS Lehmann', ' E Burri…']",, Therapeutic advances in …,,,164.0,C,116.0,2022-02-22
@@ -528,4 +529,3 @@ Frank Lehmann,Spinale Motorik,2019.0,"['F Weber', ' F Lehmann']",,,,,,,8.0,2022-
 Frank Lehmann,Höhere Motorik,2019.0,"['F Weber', ' F Lehmann']",,,,,,,8.0,2022-02-22
 Frank Lehmann,Maligne Hyperthermie und andere neuromuskuläre Erkrankungen–Ist immer eine triggerfreie Anästhesie indiziert?,,"['W Klingler', ' S Heiderich', ' F Lehmann']",,Horn,,,,,,2022-02-22
 Frank Lehmann,Tipps zum Leben mit hypokaliämischer periodischer Paralyse,,"['MM Segal', ' K Jurkat']",,Rott,,,,,,2022-02-22
-Atheer Al-Tameemi,Estimation of planetary surface ages using image based automatic crater detection algorithms,2018.0,['A Al'],,,,,,,8.0,2022-02-22
