@@ -1,0 +1,138 @@
+AUTHOR_NAME,PUB_TITLE,PUB_YEAR,PUB_AUTHORS,PUB_PUBLISHER,PUB_TYPE,PUB_ISBN,PUB_DOI,UPDATED
+Alexander Auch,Highly Parallelized Inference of Large Genome-Based Phylogenies,2014.0,"['Jan P. Meier-Kolthoff', 'Alexander Auch', 'Hans-Peter Klenk', 'Markus Göker']",Concurrency and Computation Practice and Experience,Article,,10.1002/cpe.3112,2022-04-08
+Alexander Auch,GBDP on the grid: a genome-based approach for species delimitation adjusted for an automated and highly parallel processing of large data sets,2014.0,"['Jan P. Meier-Kolthoff', 'Alexander Auch', 'Hans-Peter Klenk', 'Markus Göker']",,Article,,,2022-04-08
+Alexander Auch,Genome sequence-based species delimitation with confidence intervals and improved distance functions,2013.0,"['Jan P. Meier-Kolthoff', 'Alexander Auch', 'Hans-Peter Klenk', 'Markus Göker']",BMC Bioinformatics,Article,,10.1186/1471-2105-14-60,2022-04-08
+Alexander Auch,Large-Scale Co-Phylogenetic Analysis on the Grid,2011.0,"['Heinz Stockinger', 'Alexander Auch', 'Markus Göker', 'Alexandros Stamatakis']",International Journal of Grid and High Performance Computing,Article,,10.4018/jghpc.2009010104,2022-04-08
+Alexander Auch,Large-Scale Co-Phylogenetic Analysis on the Grid,2011.0,"['Emmanuel Udoh', 'Heinz Stockinger', 'Alexander Auch', 'Alexandros Stamatakis']",,Chapter,,10.4018/978-1-60960-603-9.ch014,2022-04-08
+Alexander Auch,A Clustering Optimization Strategy for Molecular Taxonomy Applied to Planktonic Foraminifera SSU rDNA – Supplementary Material 2,2010.0,"['Markus Göker', 'Guido W Grimm', 'Alexander Auch', 'Michal Kucera']",,Data,,,2022-04-08
+Alexander Auch,A Clustering Optimization Strategy for Molecular Taxonomy Applied to Planktonic Foraminifera SSU rDNA – Supplementary Material 3,2010.0,"['Markus Göker', 'Guido W Grimm', 'Alexander Auch', 'Michal Kucera']",,Data,,,2022-04-08
+Alexander Auch,A Clustering Optimization Strategy for Molecular Taxonomy Applied to Planktonic Foraminifera SSU rDNA – Supplementary Material 1,2010.0,"['Markus Göker', 'Guido W Grimm', 'Alexander Auch', 'Michal Kucera']",,Data,,,2022-04-08
+Alexander Auch,A Clustering Optimization Strategy for Molecular Taxonomy Applied to Planktonic Foraminifera SSU rDNA,2010.0,"['Markus Göker', 'Guido W Grimm', 'Alexander Auch', 'Michal Kucera']",Evolutionary Bioinformatics Online,Article,,10.4137/EBO.S5504,2022-04-08
+Alexander Auch,"Auch AF, von Jan M, Klenk H-P, Göker M.. Digital DNA-DNA hybridization for microbial species delineation by means of genome-to-genome sequence comparison. Stand Genomic Sci 2: 117-134",2010.0,"['Alexander Auch', 'Mathias von Jan', 'Hans-Peter Klenk', 'Markus Göker']",Standards in Genomic Sciences,Article,,10.4056/sigs.531120,2022-04-08
+Alexander Auch,Standard operating procedure for calculating genome-to-genome distances based on high-scoring segment pairs,2010.0,"['Alexander Auch', 'Hans-Peter Klenk', 'Markus Göker']",Standards in Genomic Sciences,Article,,10.4056/sigs.541628,2022-04-08
+Alexander Auch,Computational phylogenetics: Methods for analysing genome-scale data,2010.0,['Alexander Auch'],Südwestdeutscher Verlag für Hochschulschriften,Chapter,,,2022-04-08
+Alexander Auch,Methods for comparative metagenomics,2009.0,"['Daniel H Huson', 'Daniel C Richter', 'Suparna Mitra', 'Stephan C Schuster']",BMC Bioinformatics,Article,,10.1186/1471-2105-10-S1-S12,2022-04-08
+Alexander Auch,Large-Scale Co-Phylogenetic Analysis on the Grid,2009.0,"['Heinz Stockinger', 'Heinz', 'Alexander Auch', 'Alexandros']",International Journal of Grid and High Performance Computing,Article,,,2022-04-08
+Alexander Auch,Text S1,2008.0,"['Daniel C. Richter', 'Felix Ott', 'Alexander Auch', 'Daniel H Huson']",,Data,,,2022-04-08
+Alexander Auch,Table S1,2008.0,"['Daniel C. Richter', 'Felix Ott', 'Alexander Auch', 'Daniel H Huson']",,Data,,,2022-04-08
+Alexander Auch,MetaSim—A Sequencing Simulator for Genomics and Metagenomics,2008.0,"['Daniel C Richter', 'Felix Ott', 'Alexander Auch', 'Daniel H Huson']",PLoS ONE,Article,,10.1371/journal.pone.0003373,2022-04-08
+Alexander Auch,COPYCAT : cophylogenetic analysis tool,2007.0,"['Jan P. Meier-Kolthoff', 'Alexander Auch', 'Daniel H Huson', 'Markus Göker']",Bioinformatics,Article,,10.1093/bioinformatics/btm027,2022-04-08
+Alexander Auch,MEGAN analysis of metagenomic data,2007.0,"['Daniel H Huson', 'Alexander Auch', 'Ji Qi', 'Stephan C Schuster']",Genome Research,Article,,10.1101/gr.5969107,2022-04-08
+Alexander Auch,AxPcoords & parallel AxParafit: Statistical co-phylogenetic analyses on thousands of taxa,2007.0,"['Alexandros Stamatakis', 'Alexander Auch', 'Jan P. Meier-Kolthoff', 'Markus Göker']",BMC Bioinformatics,Article,,10.1186/1471-2105-8-405,2022-04-08
+Alexander Auch,Metagenome analysis using MEGAN,2007.0,"['Daniel H Huson', 'Daniel H', 'Alexander Auch', 'Stephan C']",,Conference Paper,,10.1142/9781860947995_0004,2022-04-08
+Alexander Auch,Additional File 1,2006.0,"['Alexander Auch', 'Stefan R Henz', 'Barbara R Holland', 'Markus Göker']",,Data,,,2022-04-08
+Alexander Auch,Genome BLAST distance phylogenies inferred from whole plastid and whole mitochondrion genome sequences,2006.0,"['Alexander Auch', 'Stefan R Henz', 'Barbara R Holland', 'Markus Göker']",BMC Bioinformatics,Article,,10.1186/1471-2105-7-350,2022-04-08
+Alexander Auch,Metagenomics to Paleogenomics: Large-Scale Sequencing of Mammoth DNA,2006.0,"['Hendrik N Poinar', 'Carsten Schwarz', 'Ji Qi', 'Stephan C Schuster']",Science,Article,,10.1126/science.1123360,2022-04-08
+Alexander Auch,Phylogenies from whole genomes: Methodological update within a distance-based framework,2006.0,"['Alexander Auch', 'Alexander F', 'Stefan R Henz', 'Markus']",,Article,,,2022-04-08
+Alexander Auch,Whole-genome prokaryote phylogeny,2005.0,"['Stefan R Henz', 'Daniel H Huson', 'Alexander Auch', 'Stephan C Schuster']",Bioinformatics,Article,,10.1093/bioinformatics/bth324,2022-04-08
+Alexander Auch,MEGAN A Metagenome Analysis Tool,,"['Daniel H Huson', 'Alexander Auch', 'Ji Qi', 'Stephan C. Schuster']",,Article,,,2022-04-08
+Alexander Auch,User Manual for MetaSim V0.5,,"['Daniel C. Richter', 'Felix Ott', 'Alexander Auch', 'Daniel H Huson']",,Article,,,2022-04-08
+Bernd Bachert,Time dependant measurements of cavitation damage,2009.0,"['Bernd Bachert', 'Matevž Dular', 'Brane Širok', 'Aljaž Osterman']",Wear,Article,,10.1016/j.wear.2008.12.002,2022-04-08
+Bernd Bachert,Relationship between cavitation structures and cavitation damage,2004.0,"['Bernd Bachert', 'B. Stoffel', 'Matevž Dular', 'Brane Širok']",Wear,Article,,10.1016/j.wear.2004.08.004,2022-04-08
+Bernd Bachert,Experimental Investigations Concerning Influences on Cavitation Inception at an Axial Test Pump,2003.0,"['Bernd Bachert', 'Bernhard Brunn', 'B. Stoffel']",,Conference Paper,,10.1115/FEDSM2003-45319,2022-04-08
+Jens Bender,"Entwicklung der Tidekennwerte in den deutschen Nordseeästuaren Ems, Weser und Elbe unter dem Einfluss der Tidedynamik in der Nordsee und den Oberwasserzuflüssen",2021.0,"['Andra Ebener', 'Jens Bender', 'Mailin Eberle', 'Mareike Rieken']",Hydrologie und Wasserbewirtschaftung,Article,,10.5675/HyWa_2021.5_1,2022-04-08
+Jens Bender,When Environmental Forces Collide,2018.0,"['Thomas Wahl', 'P. Ward', 'H. Winsemius', 'Seth Westra']",Eos Transactions American Geophysical Union,Article,,10.1029/2018EO099745,2022-04-08
+Jens Bender,Multivariate Wahrscheinlichkeiten: ein Mehrgewinn – nicht nur für die Wissenschaft,2018.0,"['Jens Bender', 'Jürgen Jensen', 'Christoph Mudersbach', 'Benedikt Rothe']",,Article,,,2022-04-08
+Jens Bender,Ermittlung von Bemessungswasserständen im Thi-Vai-Ästuar in Südvietnam unter Berücksichtigung des Klimawandels (Determination of design Levels along the Thi Vai Estuary in South Vietnam under consideration of Climate Change),2017.0,"['Kristina Fehler', 'Jürgen Jensen', 'Jens Bender', 'Hong-Quan Nguyen']",Hydrologie und Wasserbewirtschaftung,Article,,"10.5675/HyWa_2017,6_3",2022-04-08
+Jens Bender,Die Verwendung von diskretisierten Abflussreihen für die statistische Ermittlung von Hochwasserwerten,2017.0,"['Jens Bender', 'Sebastian Niehüser', 'Jürgen Jensen', 'Christoph Mudersbach']",Wasserwirtschaft,Article,,10.1007/s35147-017-0101-9,2022-04-08
+Jens Bender,Entwicklung und Untersuchung eines Prototyps zur Energiewandlung (StECon),2017.0,"['Jens Metzger', 'Jessica Kelln', 'Jens Bender', 'Hans-Ludwig Stiller']",10.3243/kwe2017.05.003,Article,,10.3243/kwe2017.05.003,2022-04-08
+Jens Bender,Ein Bemessungsansatz für wasserwirtschaftliche Infrastruktur bei instationären Bedingungen,2017.0,"['Christoph Mudersbach', 'Jens Bender']",Hydrologie und Wasserbewirtschaftung,Article,,"10.5675/HyWa_2017,2_1",2022-04-08
+Jens Bender,An approach to the assessment of designing water infrastructure under nonstationary conditions,2017.0,"['Christoph Mudersbach', 'Jens Bender']",Hydrologie und Wasserbewirtschaftung,Article,,"10.5675/HyWa_2017,2-1",2022-04-08
+Jens Bender,Sea-level rise induced amplification of coastal protection design heights,2017.0,"['Arne Arns', 'Sönke Dangendorf', 'Jürgen Jensen', 'Charitha Pattiaratchi']",Scientific Reports,Article,,10.1038/srep40171,2022-04-08
+Jens Bender,"Supplementary Information on ""Sea-level rise induced amplification of coastal protection design heights""",2017.0,"['Arne Arns', 'Sönke Dangendorf', 'Jürgen Jensen', 'Charitha Pattiaratchi']",,Data,,,2022-04-08
+Jens Bender,An analysis of changes in flood quantiles at the gauge Neu Darchau (Elbe River) from 1875 to 2013,2017.0,"['Christoph Mudersbach', 'Jens Bender', 'Fabian Netzel']",Stochastic Environmental Research and Risk Assessment,Article,,10.1007/s00477-015-1173-7,2022-04-08
+Jens Bender,Instationäre Extremwertstatistik – Den hydrologischen Wandel bei der Bemessung wasserwirtschaftlicher Anlagen berücksichtigen,2017.0,"['Christoph Mudersbach', 'Jens Bender', 'Fabian Netzel']",Tag der Hydrologie 2017,Conference Paper,,,2022-04-08
+Jens Bender,Bemessung von wasserbaulichen Anlagen unter instationären Bedingungen,2017.0,"['Christoph Mudersbach', 'Jens Bender', 'Fabian Netzel']",,Conference Paper,,,2022-04-08
+Jens Bender,An analysis of changes in flood quantiles at the gauge Neu Darchau (Elbe River) from 1875 to 2013,2016.0,"['Christoph Mudersbach', 'Jens Bender', 'Fabian Netzel']",Proceedings of the International Association of Hydrological Sciences,Article,,10.5194/piahs-373-193-2016,2022-04-08
+Jens Bender,Bemessungsereignisse für vorübergehende Bau- bzw. Revisionsphasen bei Hochwasserschutzbauwerken,2016.0,"['Sebastian Niehüser', 'Jürgen Jensen', 'Jens Bender']",Bautechnik,Article,,10.1002/bate.201600023,2022-04-08
+Jens Bender,Hochwasserschutz,2016.0,"['Christoph Mudersbach', 'Jens Bender', 'Jürgen Jensen']",,Chapter,,,2022-04-08
+Jens Bender,Küstenwasserbau,2016.0,"['Jürgen Jensen', 'Christoph Mudersbach', 'Jens Bender']",,Chapter,,,2022-04-08
+Jens Bender,Changing failure probabilities of individual dike sections within their operating time under non-stationary conditions,2015.0,"['Sebastian Niehüser', 'Jens Bender', 'Jürgen Jensen']",EVAN 2015,Conference Paper,,,2022-04-08
+Jens Bender,Increasing risk of compound flooding from storm surge and rainfall for major US cities,2015.0,"['Thomas Wahl', 'Shaleen Jain', 'Jens Bender', 'Mark Luther']",Nature Climate Change,Article,,10.1038/nclimate2736,2022-04-08
+Jens Bender,A multivariate design framework for river confluences,2015.0,"['Jens Bender', 'Thomas Wahl', 'Alfred Müller', 'Jürgen Jensen']",Hydrological Sciences Journal/Journal des Sciences Hydrologiques,Article,,10.1080/02626667.2015.1052816,2022-04-08
+Jens Bender,Multivariate design in the presence of non-stationarity,2014.0,"['Jens Bender', 'Thomas Wahl', 'Jürgen Jensen']",Journal of Hydrology,Article,,10.1016/j.jhydrol.2014.04.017,2022-04-08
+Jens Bender,Hochwasserschutz und Küstenwasserbau,2014.0,"['Jürgen Jensen', 'Christoph Mudersbach', 'Jens Bender']",,Chapter,,,2022-04-08
+Jens Bender,ON INFLUENCE OF OPERATION TIME OF A DYKE ON THE PROBABILITY OF FAILURE UNDER NON-STATIONARY CONDITIONS,2014.0,"['Sebastian Niehüser', 'Jens Bender', 'Jürgen Jensen']",CG Joint,Conference Paper,,,2022-04-08
+Jens Bender,"Hochwasserschutz und Küstenwasserbau, Schneider Bautabellen für Ingenieure",2014.0,"['Jürgen Jensen', 'Jens Bender', 'Christoph Mudersbach']",,Chapter,,,2022-04-08
+Jens Bender,"Koppelung statistischer und wasserwirtschaftlicher Modelle Wasserbaukolloquium 2014, Simulationsverfahren für Wasserbau und Wasserwirtschaft",2014.0,"['Jens Bender', 'Jürgen Jensen']",,Article,,,2022-04-08
+Jens Bender,On Considering the Operationg Time in the Probabilistic Design of Dyke Structures under non-stationary conditions,2014.0,"['Jens Bender', 'Jürgen Jensen', 'Christoph Mudersbach', 'B. Elsche']",,Conference Paper,,,2022-04-08
+Jens Bender,Wasserbauliche Modellversuche als Grundlage städtebaulicher Entwicklung - das wasserbauliche und städtebauliche modell der Sieg in Siegen,2014.0,"['Jürgen Jensen', 'Jens Bender', 'Christoph Mudersbach', 'Jörg Wieland']",IWASA,Conference Paper,,,2022-04-08
+Jens Bender,On analyzing the marine-hydrological boundary conditions for the flood risk in the Thi-Vai region.,2014.0,"['Sönke Dangendorf', 'Jens Bender', 'Hong-Quan Nguyen', 'Jürgen Jensen']",,Conference Paper,,,2022-04-08
+Jens Bender,On the influence of operation time of a dyke on the probability of overtopping under non-stationary conditions.,2014.0,"['Sebastian Niehüser', 'Jens Bender', 'Jürgen Jensen']",CG JOINT,Conference Paper,,,2022-04-08
+Jens Bender,Wasserbauliches und städtebauliches Modell als Grundlage der Umgestaltung der Sieg in der Siegener Innenstadt,2013.0,"['Torsten Frank', 'Jens Bender', 'Jörg Wieland', 'Thomas Griese']",Wasserwirtschaft,Article,,10.1365/s35147-013-0491-2,2022-04-08
+Jens Bender,Erfassung hydraulischer Wechselwirkungen bei wasserbaulichen Modellversuchen am Beispiel der Sieg im Bereich der Siegener Innenstadt,2013.0,"['Jens Bender', 'Jörg Wieland', 'Torsten Frank', 'Jürgen Jensen']",Wasserwirtschaft,Article,,10.1365/s35147-013-0492-1,2022-04-08
+Jens Bender,Detection of Hydraulic Interactions in Hydraulic Models Exemplarily at the River Sieg in the City Centre of Siegen,2013.0,"['Jens Bender', 'Joerg Wieland', 'Torsten Frank', 'Jürgen Jensen']",Wasserwirtschaft,Article,,,2022-04-08
+Jens Bender,A Hydraulic and Architectural Model as Basis for Reconstruction Measures at River Sieg in the City Centre of Siegen,2013.0,"['Torsten Frank', 'Jens Bender', 'Joerg Wieland', 'Thomas Griese']",Wasserwirtschaft,Article,,,2022-04-08
+Jens Bender,An Enhanced Approach to Generate Synthetic Hydrographs with Low Probability of Occurrence,2012.0,"['Jens Bender', 'J. Jensen']",,Article,,,2022-04-08
+Jens Bender,Ein erweitertes Verfahren zur Generierung synthetischer Bemessungshochwasserganglinien,2012.0,"['Jens Bender', 'Jürgen Jensen']",Wasserwirtschaft,Article,,10.1365/s35147-012-0229-6,2022-04-08
+Jens Bender,Variability of discharge and flood risk on the rhine river from 1820 to 2011,2012.0,"['Jens Bender', 'Christoph Mudersbach', 'J. Jensen']",,Article,,,2022-04-08
+Jens Bender,A Modified Synthetic Hydrograph Generator,2012.0,"['Jens Bender', 'Jürgen Jensen']",Wasserwirtschaft,Article,,,2022-04-08
+Eva Maria Boder,ZukunftsDesign - offen.innovativ.machen,2017.0,"['Mark Hoffmann', 'Josef Loeffl', 'Xun Luo', 'Werner Thar', 'Milena Valeva']",Cuvillier Verlag Götingen,Book, 978-3-7369-8565-0,,2022-04-08
+Frank Brühl,Ductility in Timber Structures: Investigations on Over-Strength Factors,2014.0,"['Frank Brühl', 'Jörg Schänzlin', 'Ulrike Kuhlmann']",RILEM International Symposium on Materials and Joints in Timber,Conference Paper,,10.1007/978-94-007-7811-5_17,2022-04-08
+Moritz Brüstle,Konzeption und praktische Umsetzung eines Mathematik-Brückenkurses im virtuellen Inverted-Classroom-Format,2021.0,"['Moritz Brüstle', 'Gerhard Götz']",Mathematics education: Bridging course,Article,,,2022-04-08
+Moritz Brüstle,GDM_2019.pptx,2019.0,"['Christian Düsi', 'Moritz Brüstle', 'Gerhard Götz']",,Data,,,2022-04-08
+Moritz Brüstle,Was wünschen sich Studierende von Mathematikvorkursen? – Eine qualitative Befragung zu Studienbeginn,2019.0,"['Christian Düsi', 'Moritz Brüstle', 'Gerhard Götz']",,Conference Paper,,,2022-04-08
+Moritz Brüstle,TALE-Teachers' Assessment Literacy Enhancement: Needs analysis report,2018.0,"['Karin Vogt', 'Moritz Brüstle', 'Ines Sperling']",,Experiment Findings,,,2022-04-08
+Dietrich Emmert,Kundenabwanderung vermeiden,2021,['Dietrich Emmert'],10.1007/s35141-021-0688-4,Article,,10.1007/s35141-021-0688-4,2022-04-09
+Seon-Su Kim,Messung innerer Markenbilder,2019,"['Joern Redler', 'Gabi Jeck-Schlottmann', 'Seon-Su Kim']",,Chapter,,10.1007/978-3-658-13342-9_56,2022-04-09
+Seon-Su Kim,Messung innerer Markenbilder,2016,"['Joern Redler', 'Gabi Jeck-Schlottmann', 'Seon-Su Kim']",,Chapter,,10.1007/978-3-658-13361-0_56-1,2022-04-09
+Seon-Su Kim,Hochschulmarketing 2010 — Aktuelle Herausfoi derungen und Marketingansätze für deutsche Hochschulen,2006,"['Martin Reckenfelderbaümer', 'Seon-Su Kim']",,Chapter,,10.1007/978-3-8350-9489-5_8,2022-04-09
+Seon-Su Kim,Internationale Wettbewerbsfähigkeit von Dienstleistungsunternehmungen — Ansatzpunkte für das Interne Marketing,2005,"['Martin Reckenfelderbäumer', 'Seon-Su Kim']",,Chapter,,10.1007/978-3-322-90866-7_12,2022-04-09
+Seon-Su Kim,Markenführung im Weiterbildungsbereich — Überlegungen auf Basis eines integrierten image- und identitätsorientierten Ansatzes,2004,"['Martin Reckenfelderbäumer', 'Seon-Su Kim']",,Chapter,,10.1007/978-3-322-81903-1_3,2022-04-09
+Frank Deser,Analysephase,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_12,2022-04-09
+Frank Deser,Erhebungsphase,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_11,2022-04-09
+Frank Deser,"Zielsetzung, Abgrenzung und Vorgehensweise",1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_2,2022-04-09
+Frank Deser,Chaosforschung,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_4,2022-04-09
+Frank Deser,Die Methodik der Cognitive Maps,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_10,2022-04-09
+Frank Deser,Chaos,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_3,2022-04-09
+Frank Deser,Darstellung des Themas,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_1,2022-04-09
+Frank Deser,Chaos und Interaktion,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_7,2022-04-09
+Frank Deser,Chaos und Organisation,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_6,2022-04-09
+Frank Deser,Chaos und Individuum,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_8,2022-04-09
+Frank Deser,Kritische Würdigung,1997,['Frank Deser'],,Chapter,,10.1007/978-3-642-59255-3_13,2022-04-09
+Frank Elste,Klinik-Patientenservice Online – Eine Analyse der Patientenorientierung am Beispiel des Awards „Deutschlands Beste Klinik-Website“,2017,"['Frank Elste', 'Thorsten Weis']",,Chapter,,10.1007/978-3-658-12393-2_9,2022-04-09
+Frank Elste,Der Gesundheitsmarkt,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_4,2022-04-09
+Frank Elste,Werben = informieren?,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_2,2022-04-09
+Frank Elste,Gestaltung von wemedien in der Medizin,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_6,2022-04-09
+Frank Elste,Markforschung in Medizin,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_5,2022-04-09
+Frank Elste,Werbegesetze und -verbote,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_3,2022-04-09
+Frank Elste,"Marketing und Werbung in der Medizin: Erfolgreiche Strategien für Praxis, Klinik und Krankenhaus",2004,['Frank Elste'],,Book, 978-3-211-83875-4,10.1007/978-3-7091-4063-5,2022-04-09
+Frank Elste,Betriebswirtschaftliches Basiswissen,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_1,2022-04-09
+Frank Elste,Psychologische Aspektes Patientenverhaltens,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_7,2022-04-09
+Frank Elste,Werberichtlinien für Mediziner,2004,['Frank Elste'],,Chapter,,10.1007/978-3-7091-4063-5_8,2022-04-09
+Frank Elste,Werbung von Ärzten und Krankenhäusern unter dem Aspekt von Patienteninformierung und Patientenschutz Die Studie MiM (Marketing in der Medizin):Eine Untersuchung von Printmedien...,2003,['Frank Elste'],,Article,,,2022-04-09
+Frank Elste,Datenanalyse und Konzepte zur Strukturierung von Krankenblättern am Beispiel der Diagnose Bandscheibenvorfall,1999,['Frank Elste'],,Article,,,2022-04-09
+Marco Albert Öttl,Transient seepage in dikes for reliability calculation,2022,['Marco Albert Öttl'],,Presentation,,,2022-04-09
+Tobias Riegmann,Zehn Jahre Digitale Fabrik in der Automobilindustrie: Vergangenheit und Zukunft der Digitalen Fabrik – DIFA-Status Quo,2010,"['Tobias Riegmann', 'Ulrich Günther', 'Mathias Engel', 'Achim Schäfer']",ZWF Zeitschrift fuer Wirtschaftlichen Fabrikbetrieb,Article,,10.3139/104.110285,2022-04-09
+Tobias Riegmann,Referenzprozesse zur effektiven Implementierung der Digitalen Fabrik: Vier Stufen Ansatz mit flexibel einsetzbaren Implementierungsinstrumenten,2011,"['Tobias Riegmann', 'Stephan Buerkner', 'Ulrich Günther']",ZWF Zeitschrift fuer Wirtschaftlichen Fabrikbetrieb,Article,,10.3139/104.110517,2022-04-09
+Jens Schütte,Jahresabschluss 2020 im Lichte der Corona-Pandemie,2021,"['Jens Schuette', 'Christian Goetz']",,Article,,,2022-04-09
+Jens Schütte,Der Ausweis Sonstiger Rückstellungen im handelsrechtlichen Jahresabschluss - Eine empirische Analyse anhand der im DAX gelisteten Unternehmen,2021,"['Jens Schuette', 'Jochen Zimmermann', 'Christian Goetz']",,Article,,,2022-04-09
+Jens Schütte,Rechnungslegungspolitik und Selbstprüfung - Eine empirische Analyse der Rolle des Wirtschaftsprüfers bei nicht-kapitalmarktorientierten Unternehmen,2020,"['Jens Schuette', 'Jochen Zimmermann', 'Christian Goetz']",,Article,,,2022-04-09
+Jens Schütte,GoBD 2019 - Eine Übersicht über die wesentlichen Neuerungen,2020,"['Jens Schuette', 'Christian Goetz']",,Article,,,2022-04-09
+Jens Schütte,Der Ausweis von Ansprüchen und Verbindlichkeiten ggü. Gesellschaftern - Probleme mit der Transparenz?,2016,"['Jens Schuette', 'Aaron Hemmerich']",,Article,,,2022-04-09
+Jens Schütte,Der Referentenentwurf (BilRUG) zur Umsetzung der Richtlinie 2013/34/EU in deutsches Recht – Überblick über die wesentlichen Änderungen im Konzernabschluss,2014,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Inhalt und Offenlegung des Jahresabschlusses von (Kleinst-)Kapitalgesellschaften,2014,['Jens Schuette'],10.15358/0340-1650_2014_11_622,Article,,10.15358/0340-1650_2014_11_622,2022-04-09
+Jens Schütte,BilRUG-Entwurf und indirekte Abschreibungen - Neue Ausweismöglichkeiten für KapGes.?,2014,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,BilRUG-Entwurf - Das Ende der Wertaufholung im Anlagevermögen?,2014,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Der Referentenentwurf (BilRUG) zur Umsetzung der Richtlinie 2013/34/EU in deutsches Recht – Überblick über die wesentlichen Neuerungen im Jahresabschluss,2014,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Offenlegung von Angaben unter der Bilanz - Zweifelsfragen bei der Interpretation des MicroBilG am Beispiel der Haftungsverhältnisse nach § 251 HGB,2013,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Neuregelungen für Kleinstkapitalgesellschaften durch das MicroBilG - Nur Vorteile durch die Erleichterungsvorschriften?,2013,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Working Capital Management als eine Möglichkeit der Liquiditätsoptimierung im Mittelstand,2012,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Ergebnis je Aktie,2011,"['Jens Schuette', 'Frank Beine']",,Chapter,,,2022-04-09
+Jens Schütte,Handelsrechtliche Betrachtung der mezzaninen Finanzierungsinstrumente,2011,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Earnings per Share,2010,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Ergebnis je Aktie,2010,"['Jens Schuette', 'Frank Beine']",,Chapter,,,2022-04-09
+Jens Schütte,Der Alternativentest des ED IAS 33,2010,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Der Standardentwurf ED IAS 33 „Simplifying Earnings per Share“ im Überblick,2009,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Ergebnis je Aktie,2009,"['Jens Schuette', 'Frank Beine']",,Chapter,,,2022-04-09
+Jens Schütte,Ergebnis je Aktie,2008,"['Jens Schuette', 'Frank Beine']",,Chapter,,,2022-04-09
+Jens Schütte,Ergebnis je Aktie,2007,"['Jens Schuette', 'Frank Beine']",,Chapter,,,2022-04-09
+Jens Schütte,Aktivierungskonzepte immaterieller Vermögenswerte,2006,['Jens Schuette'],,Book,,,2022-04-09
+Jens Schütte,Aktivierungsgrundsatz nach IFRS: Widersprüchliche Regelung oder Inkonsistenzen in der bisherigen Interpretation? – Darstellung am Beispiel der Aktivierungsvoraussetzungen für immaterielle Vermögenswerte nach IAS 38 (rev. 2004),2005,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Intangibles,2004,"['Jochen Zimmermann', 'Jens Schuette']",Futures,Article,,10.1016/S0016-3287(96)00064-X,2022-04-09
+Jens Schütte,Fair Values,2004,"['Jens Schuette', 'Jochen Zimmermann']",,Article,,,2022-04-09
+Jens Schütte,Value Reporting.,2004,"['Jochen Zimmermann', 'Jens Schuette']",,Article,,,2022-04-09
+Jens Schütte,Kostenzurechnungsprinzipien,2003,['Jens Schuette'],,Research,,,2022-04-09
+Jens Schütte,Zur erweiterten Berichterstattung nach DRS-11.,2003,['Jens Schuette'],,Article,,,2022-04-09
+Jens Schütte,Risikomanagementsysteme - Ausgestaltung und Prüfung durch den Abschlussprüfer gemäß § 317 Abs. 4 HGB,2002,['Jens Schuette'],,Book,,,2022-04-09
+Jens Schütte,Earnings Management under Different Accounting Regimes in Germany.,2002,"['Jochen Zimmermann', 'Igor Gontcharov', 'Jens Schuette']",,Article,,,2022-04-09
