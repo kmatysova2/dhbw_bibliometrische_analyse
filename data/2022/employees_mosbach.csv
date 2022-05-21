@@ -1,97 +1,98 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-Prof. Dr. rer. nat. Alexander Auch,Professor Angewandte Informatik,Alexander Auch,mosbach
-Prof. Dr. Christine Azarmi,Programmleiterin International Program in Business,Christine Azarmi,mosbach
-Prof. Dr. Bernd Bachert,Studiengangsleitung MB - Konstruktion und Entwicklung,Bernd Bachert,mosbach
-Prof. Dr.-Ing. Jens Bender,Studiengangsleitung Bauingenieurwesen - Öffentliches Bauen,Jens Bender,mosbach
-Prof. Dr. Eva Maria Boder,Studiengangsleitung International Business,Eva Maria Boder,mosbach
-Anna-Magdalena Bröckl,Stellvertretende Leiterin International Office (Akademisches Auslandsamt) / Deputy Head of International Office,Anna-Magdalena Bröckl,mosbach
-Prof.  Dr. Frank Brühl,Professor Bauingenieurwesen,Frank Brühl,mosbach
-Moritz Brüstle,Akademischer Mitarbeiter im Projekt HAW.International,Moritz Brüstle,mosbach
-Sven Christian,Akademischer Mitarbeiter ZIM Kooperationsprojekt,Sven Christian,mosbach
-Prof. Dr. Klaus-Georg Deck,Akademischer Mitarbeiter,Klaus-Georg Deck,mosbach
-Prof. Dr. Frank Deser,Studiengangsleitung BWL - Industrie,Frank Deser,mosbach
-Prof. Dr. Markus Dirnberger,Professor Mechatronik,Markus Dirnberger,mosbach
-Prof. Dr. Hasan Doluca,Professor Fakultät Wirtschaft,Hasan Doluca,mosbach
-Prof. Dr. Dr. Frank Elste,Professor BWL - Gesundheitsmanagement,Frank Elste,mosbach
-Prof. Dr. Dietrich Emmert,Studiengangsleitung Digital Business Management,Dietrich Emmert,mosbach
-Heiko Fischer,Akademischer Mitarbeiter Wirtschaftsingenieurwesen,Heiko Fischer,mosbach
-Prof. Dr. Axel Gerloff,Professor International Business,Axel Gerloff,mosbach
-Prof. Dr. Alois Göpfert,Professor Informationstechnik,Alois Göpfert,mosbach
-Prof. Dr. Gerhard Götz,Professor für mathematisch-naturwissenschaftliche Grundlagen,Gerhard Götz,mosbach
-Prof. Dr. Jan Greitens,Professor Fakultät Wirtschaft,Jan Greitens,mosbach
-Prof. Dr. Annette Grinôt,Professorin Fakultät Wirtschaft,Annette Grinôt,mosbach
-Dr. Julia-Catrin Haas,Stellvertretende Teamleitung Prüfungsamt,Julia-Catrin Haas,mosbach
-Prof. Dr. Stephan Hähre,Studiengangsleitung WIW - Internationale Produktion und Logistik,Stephan Hähre,mosbach
-Myriam Hamich,Akademische Mitarbeiterin Bauingenieurwesen,Myriam Hamich,mosbach
-Prof. Dr.-Ing. Gunter Hauf,Professor Bauingenieurwesen,Gunter Hauf,mosbach
-Prof. Dr. Ruth Heine,Professorin Elektrotechnik,Ruth Heine,mosbach
-Prof. Dr. Elke Heizmann,Prorektorin,Elke Heizmann,mosbach
-Prof. Dr. Manfred Hentz,Studiengangsleitung BWL - Industrie,Manfred Hentz,mosbach
-Prof. Dr. Boris Hubert,Studiengangsleitung BWL - Gesundheitsmanagement,Boris Hubert,mosbach
-Prof. Dr. Gabi Jeck-Schlottmann,Rektorin,Gabi Jeck-Schlottmann,mosbach
-Prof. Dr. Rainer Jochum,Studiengangsleitung International Business,Rainer Jochum,mosbach
-Prof. Dr. Norbert Kallis,Studiengangsleitung MB - Verfahrenstechnik,Norbert Kallis,mosbach
-Prof. Dr. Marthe Kaufholz,Professorin Mechatronik,Marthe Kaufholz,mosbach
-Prof. Dr. Anja Kern,Studiengangsleitung BWL - HD - Internationaler Handel,Anja Kern,mosbach
-Prof. Dr. Seon-Su Kim,Leiter Campus Bad Mergentheim,Seon-Su Kim,mosbach
-Prof. Dr. Rainer Klein,Studiengangsleitung Mechatronik,Rainer Klein,mosbach
-Prof. Dr. Gisela Köberle,Professorin für Quantitative Methoden und Allgemeine Betriebswirtschaftslehre,Gisela Köberle,mosbach
-Prof. Dr. Gangolf Kohnen,Studiengangsleitung MB - Virtual Engineering,Gangolf Kohnen,mosbach
-Prof. Dr. Ansgard Kopatz,Professorin MB - Lebensmitteltechnik,Ansgard Kopatz,mosbach
-Prof. Dr.-Ing. Markus Koschlik,Professor Bauingenieurwesen,Markus Koschlik,mosbach
-Prof. Dr. Christian Kuhn,Studiengangsleitung Elektrotechnik,Christian Kuhn,mosbach
-Prof. Dr. Matthias Laforsch,Leiter Studiengang Master Business Management - Marketing,Matthias Laforsch,mosbach
-Sven Langenecker,Akademischer Mitarbeiter Wirtschaftsinformatik,Sven Langenecker,mosbach
-Prof. Dr. Stefan Leukel,"Studiengangsleitung Betriebswirtschaftliche Steuerlehre, Unternehmensrechnung und Finanzen",Stefan Leukel,mosbach
-Prof. Dr. Manuel Ludwig,Professor Maschinenbau,Manuel Ludwig,mosbach
-Prof. Dr. Tobias Lutz,Professor BWL - Gesundheitsmanagement,Tobias Lutz,mosbach
-Nadja Markof,Leiterin International Office (Akademisches Auslandsamt) / Head of International Office,Nadja Markof,mosbach
-Prof. Dr. Arnulf Mester,Studiengangsleitung Onlinemedien,Arnulf Mester,mosbach
-Prof. Dr. Jörg Mielebacher,Studiengangsleitung Angewandte Informatik,Jörg Mielebacher,mosbach
-Prof. Dr. Simon Möhringer,Studiengangsleitung Wirtschaftsingenieurwesen,Simon Möhringer,mosbach
-Prof. Dr. Petra Morschheuser,Studiengangsleitung BWL - Handel,Petra Morschheuser,mosbach
-Prof. Dr. Max Mühlhäuser,Prorektor,Max Mühlhäuser,mosbach
-Prof. Dr. Carsten Müller,Professor Angewandte Informatik,Carsten Müller,mosbach
-Dr. Albrecht Mund,Labor MB - Verfahrenstechnik,Albrecht Mund,mosbach
-Prof.  Dr.-Ing.  Dipl.-Wirt.-Ing. Eugen Nachtigall,Studiengangsleitung Bauingenieurwesen - Projektmanagement - Hochbau,Eugen Nachtigall,mosbach
-Prof. Dr. Alexandros Nanopoulos,Professor Wirtschaftsinformatik,Alexandros Nanopoulos,mosbach
-Prof. Dr. Helmut Neemann,Professor Elektrotechnik,Helmut Neemann,mosbach
-Prof. Dr. Herbert Neuendorf,Studiendekan Studienzentrum WION,Herbert Neuendorf,mosbach
-Prof. Dr. Alexander Neumann,Studiengangsleitung BWL - HD - Internationaler technischer Handel,Alexander Neumann,mosbach
-Marco Albert Öttl,Akademischer Mitarbeiter Bauingenieurwesen,Marco Albert Öttl,mosbach
-Prof. Dr. Dirk Palleduhn,Studiengangsleitung Wirtschaftsinformatik,Dirk Palleduhn,mosbach
-Prof. Dr. Klaus Pfuhl,Studiengangsleitung Holztechnik,Klaus Pfuhl,mosbach
-Prof. Dr. Dietmar W. Polzin,Studiengangsleitung BWL - HD - Warenwirtschaft und Logistik,Dietmar Polzin,mosbach
-Prof. Dr. Enrico Purle,Studiengangsleitung International Program in Business,Enrico Purle,mosbach
-Prof. Gudrun Reichert,Professorin Allgemeine BWL Fakultät Wirtschaft,Gudrun Reichert,mosbach
-Prof. Dr. Reinhard Reimann,Studiengangsleitung Mechatronik,Reinhard Reimann,mosbach
-Prof. Dr.-Ing. Thomas Reinke,Studiengangsleitung Bauingenieurwesen - Projektmanagement - Hochbau,Thomas Reinke,mosbach
-Prof. Dr. Tobias Riegmann,Studiengangsleitung WIW - Internationales Technisches Projektmanagement,Tobias Riegmann,mosbach
-Prof. Dr. Jens Saffenreuther,Studiengangsleitung BWL - Bank,Jens Saffenreuther,mosbach
-Prof. Dr. Dirk Saller,Studiengangsleitung Angewandte Informatik,Dirk Saller,mosbach
-Prof. Dr. Christian Schalles,Studiengangsleitung Wirtschaftsinformatik,Christian Schalles,mosbach
-Prof. Dr. Christoph Schinke,Prodekan Fakultät Wirtschaft,Christoph Schinke,mosbach
-Prof. Dr.-Ing. Markus Schönit,Studiengangsleitung Bauingenieurwesen - Projektmanagement - Tiefbau,Markus Schönit,mosbach
-Prof. Dr. Andreas Schramm,Professor Mechatronik,Andreas Schramm,mosbach
-Prof. Dr. Michael Schrodt,Professor Maschinenbau,Michael Schrodt,mosbach
-Prof. Dr. Jens Schütte,Professor für Finanz- und Rechnungswesen sowie Controlling,Jens Schütte,mosbach
-Prof. Dr.-Ing. Sven Seidenstricker,Studiengangsleitung Wirtschaftsingenieurwesen,Sven Seidenstricker,mosbach
-Prof. Dr.-Ing. Volker Siegismund,Professor Wirtschaftsingenieurwesen,Volker Siegismund,mosbach
-Prof. Dr.-Ing. Isabelle Simons,Studiendekanin Studienzentrum Bauingenieurwesen,Isabelle Simons,mosbach
-Prof. Dr. Hubert Speth,Studiengangsleitung BWL - HD - Holzwirtschaft,Hubert Speth,mosbach
-Prof. Dr. Volker Stadie,Professor Recht Fakultät Wirtschaft,Volker Stadie,mosbach
-Prof. Dr. Sabine Staritz,Studiengangsleitung BWL - HD - Marketing,Sabine Staritz,mosbach
-Peter Steinert,Akademischer Mitarbeiter Digitale Fabrik,Peter Steinert,mosbach
-Prof. Dr. Jürgen Steinle,Studiengangsleitung MB - Verfahrenstechnik,Jürgen Steinle,mosbach
-Prof. Dr. Markus Stephan,Professor Maschinenbau/Virtual Engineering,Markus Stephan,mosbach
-Prof. Dr. Ralf Stiehler,Studiengangsleitung Elektrotechnik,Ralf Stiehler,mosbach
-Prof. Dr. Karl Albert Strecker,Professor BWL - Bank,Karl Albert Strecker,mosbach
-Prof. Dr. Christoph Sturm,Studiengangsleitung Wirtschaftsinformatik,Christoph Sturm,mosbach
-Prof. Dr. Jens Teifel,Professor Wirtschaftsingenieurwesen,Jens Teifel,mosbach
-Sebastian Wankerl,Akademischer Mitarbeiter Forschungsprojekt Optes,Sebastian Wankerl,mosbach
-Prof. Dr. Andreas Weißenbach,Studiengangsleitung MB - Konstruktion und Entwicklung,Andreas Weißenbach,mosbach
-Prof. Dr.-Ing. Hartmut Werner,Studiengangsleitung Bauingenieurwesen - Projektmanagement - Hochbau,Hartmut Werner,mosbach
-Prof. Dr. Felix Winkelmann,Studiengangsleitung Maschinenbau,Felix Winkelmann,mosbach
-Prof. Dr. Thomas Wirth,Professor Onlinemedien,Thomas Wirth,mosbach
-Prof. Dr. rer. nat. Volkhard Wolf,Studiengangsleitung BWL - Industrie,Volkhard Wolf,mosbach
-Prof. Wolf Wössner,Studiengangsleitung BWL - Bank,Wolf Wössner,mosbach
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+Dr. Konstanze Alex,dr.,Konstanze Alex,mosbach,2022
+Prof. Dr. rer. nat. Alexander Auch,professor,Alexander Auch,mosbach,2022
+Prof. Dr. Christine Azarmi,professor,Christine Azarmi,mosbach,2022
+Prof. Dr. Bernd Bachert,studiengangsleitung,Bernd Bachert,mosbach,2022
+Prof. Dr.-Ing. Jens Bender,studiengangsleitung,Jens Bender,mosbach,2022
+Prof. Dr. Eva Maria Boder,studiengangsleitung,Eva Maria Boder,mosbach,2022
+Anna-Magdalena Bröckl,akademisch,Anna-Magdalena Bröckl,mosbach,2022
+Prof.  Dr. Frank Brühl,professor,Frank Brühl,mosbach,2022
+Moritz Brüstle,akademisch,Moritz Brüstle,mosbach,2022
+Prof. Dr. Klaus-Georg Deck,akademisch,Klaus-Georg Deck,mosbach,2022
+Prof. Dr. Frank Deser,studiengangsleitung,Frank Deser,mosbach,2022
+Prof. Dr. Markus Dirnberger,professor,Markus Dirnberger,mosbach,2022
+Prof. Dr. Hasan Doluca,professor,Hasan Doluca,mosbach,2022
+Prof. Dr. Dr. Frank Elste,professor,Frank Elste,mosbach,2022
+Prof. Dr. Dietrich Emmert,studiengangsleitung,Dietrich Emmert,mosbach,2022
+Heiko Fischer,akademisch,Heiko Fischer,mosbach,2022
+Prof. Dr. Axel Gerloff,professor,Axel Gerloff,mosbach,2022
+Prof. Dr. Alois Göpfert,professor,Alois Göpfert,mosbach,2022
+Prof. Dr. Gerhard Götz,professor,Gerhard Götz,mosbach,2022
+Prof. Dr. Jan Greitens,professor,Jan Greitens,mosbach,2022
+Prof. Dr. Annette Grinôt,professor,Annette Grinôt,mosbach,2022
+Dr. Julia-Catrin Haas,dr.,Julia-Catrin Haas,mosbach,2022
+Prof. Dr. Stephan Hähre,studiengangsleitung,Stephan Hähre,mosbach,2022
+Dr. Myriam Hamich,akademisch,Myriam Hamich,mosbach,2022
+Prof. Dr.-Ing. Gunter Hauf,professor,Gunter Hauf,mosbach,2022
+Prof. Dr. Ruth Heine,professor,Ruth Heine,mosbach,2022
+Prof. Dr. Elke Heizmann,prof.,Elke Heizmann,mosbach,2022
+Prof. Dr. Manfred Hentz,studiengangsleitung,Manfred Hentz,mosbach,2022
+Prof. Dr. Boris Hubert,studiengangsleitung,Boris Hubert,mosbach,2022
+Prof. Dr. Gabi Jeck-Schlottmann,prof.,Gabi Jeck-Schlottmann,mosbach,2022
+Prof. Dr. Rainer Jochum,studiengangsleitung,Rainer Jochum,mosbach,2022
+Prof. Dr. Norbert Kallis,studiengangsleitung,Norbert Kallis,mosbach,2022
+Prof. Dr. Marthe Kaufholz,professor,Marthe Kaufholz,mosbach,2022
+Prof. Dr. Anja Kern,studiengangsleitung,Anja Kern,mosbach,2022
+Prof. Dr. Seon-Su Kim,studiengangsleitung,Seon-Su Kim,mosbach,2022
+Prof. Dr. Rainer Klein,studiengangsleitung,Rainer Klein,mosbach,2022
+Prof. Dr. Gisela Köberle,professor,Gisela Köberle,mosbach,2022
+Prof. Dr. Gangolf Kohnen,studiengangsleitung,Gangolf Kohnen,mosbach,2022
+Prof. Dr. Ansgard Kopatz,professor,Ansgard Kopatz,mosbach,2022
+Prof. Dr.-Ing. Markus Koschlik,professor,Markus Koschlik,mosbach,2022
+Prof. Dr. Christian Kuhn,studiengangsleitung,Christian Kuhn,mosbach,2022
+Prof. Dr. Matthias Laforsch,professor,Matthias Laforsch,mosbach,2022
+Sven Langenecker,akademisch,Sven Langenecker,mosbach,2022
+Prof. Dr. Stefan Leukel,studiengangsleitung,Stefan Leukel,mosbach,2022
+Prof. Dr. Manuel Ludwig,professor,Manuel Ludwig,mosbach,2022
+Prof. Dr. Tobias Lutz,professor,Tobias Lutz,mosbach,2022
+Nadja Markof,akademisch,Nadja Markof,mosbach,2022
+Prof. Dr. Arnulf Mester,studiengangsleitung,Arnulf Mester,mosbach,2022
+Prof. Dr. Jörg Mielebacher,studiengangsleitung,Jörg Mielebacher,mosbach,2022
+Prof. Dr. Simon Möhringer,studiengangsleitung,Simon Möhringer,mosbach,2022
+Prof. Dr. Petra Morschheuser,studiengangsleitung,Petra Morschheuser,mosbach,2022
+Prof. Dr. Max Mühlhäuser,prof.,Max Mühlhäuser,mosbach,2022
+Prof. Dr. Carsten Müller,professor,Carsten Müller,mosbach,2022
+Dr. Albrecht Mund,dr.,Albrecht Mund,mosbach,2022
+Prof.  Dr.-Ing.  Dipl.-Wirt.-Ing. Eugen Nachtigall,studiengangsleitung,Eugen Nachtigall,mosbach,2022
+Prof. Dr. Alexandros Nanopoulos,professor,Alexandros Nanopoulos,mosbach,2022
+Prof. Dr. Helmut Neemann,professor,Helmut Neemann,mosbach,2022
+Prof. Dr. Herbert Neuendorf,professor,Herbert Neuendorf,mosbach,2022
+Prof. Dr. Alexander Neumann,studiengangsleitung,Alexander Neumann,mosbach,2022
+Marco Albert Öttl,akademisch,Marco Albert Öttl,mosbach,2022
+Prof. Dr. Dirk Palleduhn,studiengangsleitung,Dirk Palleduhn,mosbach,2022
+Prof. Dr. Klaus Pfuhl,studiengangsleitung,Klaus Pfuhl,mosbach,2022
+Prof. Dr. Dietmar W. Polzin,studiengangsleitung,Dietmar Polzin,mosbach,2022
+Prof. Dr. Enrico Purle,studiengangsleitung,Enrico Purle,mosbach,2022
+Prof. Gudrun Reichert,professor,Gudrun Reichert,mosbach,2022
+Prof. Dr. Reinhard Reimann,studiengangsleitung,Reinhard Reimann,mosbach,2022
+Prof. Dr.-Ing. Thomas Reinke,studiengangsleitung,Thomas Reinke,mosbach,2022
+Prof. Dr. Tobias Riegmann,studiengangsleitung,Tobias Riegmann,mosbach,2022
+Prof. Dr. Jens Saffenreuther,studiengangsleitung,Jens Saffenreuther,mosbach,2022
+Prof. Dr. Dirk Saller,studiengangsleitung,Dirk Saller,mosbach,2022
+Prof. Dr. Christian Schalles,studiengangsleitung,Christian Schalles,mosbach,2022
+Prof. Dr. Christoph Schinke,prof.,Christoph Schinke,mosbach,2022
+Prof. Dr.-Ing. Markus Schönit,studiengangsleitung,Markus Schönit,mosbach,2022
+Prof. Dr. Andreas Schramm,professor,Andreas Schramm,mosbach,2022
+Prof. Dr. Michael Schrodt,professor,Michael Schrodt,mosbach,2022
+Prof. Dr. Jens Schütte,professor,Jens Schütte,mosbach,2022
+Prof. Dr.-Ing. Sven Seidenstricker,studiengangsleitung,Sven Seidenstricker,mosbach,2022
+Prof. Dr.-Ing. Volker Siegismund,professor,Volker Siegismund,mosbach,2022
+Prof. Dr.-Ing. Isabelle Simons,studiengangsleitung,Isabelle Simons,mosbach,2022
+Prof. Dr. Hubert Speth,studiengangsleitung,Hubert Speth,mosbach,2022
+Prof. Dr. Volker Stadie,professor,Volker Stadie,mosbach,2022
+Prof. Dr. Sabine Staritz,studiengangsleitung,Sabine Staritz,mosbach,2022
+Peter Steinert,akademisch,Peter Steinert,mosbach,2022
+Prof. Dr. Jürgen Steinle,studiengangsleitung,Jürgen Steinle,mosbach,2022
+Prof. Dr. Markus Stephan,professor,Markus Stephan,mosbach,2022
+Prof. Dr. Ralf Stiehler,studiengangsleitung,Ralf Stiehler,mosbach,2022
+Prof. Dr. Karl Albert Strecker,professor,Karl Albert Strecker,mosbach,2022
+Prof. Dr. Christoph Sturm,studiengangsleitung,Christoph Sturm,mosbach,2022
+Prof. Dr. Jens Teifel,professor,Jens Teifel,mosbach,2022
+Sebastian Wankerl,akademisch,Sebastian Wankerl,mosbach,2022
+Prof. Dr. Andreas Weißenbach,studiengangsleitung,Andreas Weißenbach,mosbach,2022
+Prof. Dr.-Ing. Hartmut Werner,studiengangsleitung,Hartmut Werner,mosbach,2022
+Prof. Dr. Felix Winkelmann,studiengangsleitung,Felix Winkelmann,mosbach,2022
+Julia Winkler,akademisch,Julia Winkler,mosbach,2022
+Prof. Dr. Thomas Wirth,professor,Thomas Wirth,mosbach,2022
+Prof. Dr. rer. nat. Volkhard Wolf,studiengangsleitung,Volkhard Wolf,mosbach,2022
+Prof. Wolf Wössner,studiengangsleitung,Wolf Wössner,mosbach,2022

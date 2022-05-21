@@ -1,65 +1,64 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-Kelly Avon,"Akademische Mitarbeiterin BWL-Tourismus, Hotellerie und Gastronomie",Kelly Avon,loerrach
-Prof. Dr.  Frank O. Bayer,,Frank Bayer,loerrach
-Prof. Dr.  Erik Behrends,,Erik Behrends,loerrach
-Prof. Dr.  Peter Billen,,Peter Billen,loerrach
-Prof. Dr.  Jürgen Brinkmann,,Jürgen Brinkmann,loerrach
-Dr.  Rosalia Maria Danz,,Rosalia Maria Danz,loerrach
-Dr.  Wendy Fehlner,,Wendy Fehlner,loerrach
-Prof. Dr.  Sebastian Feichtmair,,Sebastian Feichtmair,loerrach
-Prof. Dr.  Thomas Glökler,,Thomas Glökler,loerrach
-Prof. Dr.  Sylvia Gnad,,Sylvia Gnad,loerrach
-Prof. Dr.  Reiner Göppert,,Reiner Göppert,loerrach
-Markus Greß-Heister,Akademischer Mitarbeiter BWL-Gesundheitsmanagement,Markus Greß-Heister,loerrach
-Prof. Dr.  Rudi Grunau,,Rudi Grunau,loerrach
-Prof. Dr.  Christian Gruninger-Hermann,,Christian Gruninger-Hermann,loerrach
-Prof. Dr.  Eckhart Hanser,,Eckhart Hanser,loerrach
-Prof. Dr.  Winfried Heinzler,,Winfried Heinzler,loerrach
-Dr.  Antje Hempel,,Antje Hempel,loerrach
-Prof. Dr.  Stefan Hess,,Stefan Hess,loerrach
-Prof. Dr.  Reiner Max Hillemanns,,Reiner Max Hillemanns,loerrach
-Prof.  Gerhard Jäger,,Gerhard Jäger,loerrach
-Prof. Dr.  Matthias Kaltenbacher,,Matthias Kaltenbacher,loerrach
-Dr.  Paul-Thomas Kandzia,,Paul-Thomas Kandzia,loerrach
-Prof. Dr.  Ossmane Krini,,Ossmane Krini,loerrach
-Prof. Dr.  Frank Andreas Krone,,Frank Andreas Krone,loerrach
-Prof. Dr.  Lutz-Peter Kurdelski,,Lutz-Peter Kurdelski,loerrach
-Lukas Latuska,Akademischer Mitarbeiter Diagnostik-Beratungs-Center,Lukas Latuska,loerrach
-Prof. Dr.  Michael Lindemann,,Michael Lindemann,loerrach
-Prof. Dr.  Benedikt Link,,Benedikt Link,loerrach
-Prof. Dr.  Ekkehart Meroth,,Ekkehart Meroth,loerrach
-Prof. Dr.  Thomas Messner,,Thomas Messner,loerrach
-Prof. Dr.  Carsten Münster,,Carsten Münster,loerrach
-Prof. Dr.  Harald Nicolai,,Harald Nicolai,loerrach
-Dr.  Martin Nolte,,Martin Nolte,loerrach
-Prof. Dr.  Jan Michael Olaf,,Jan Michael Olaf,loerrach
-Prof. Dr.  Claudia Ossola-Haring,,Claudia Ossola-Haring,loerrach
-Aymen Ouertani,Akademischer Mitarbeiter Elektrotechnik,Aymen Ouertani,loerrach
-Prof. Dr.  Matthias Paul,,Matthias Paul,loerrach
-Prof. Dr.  Tilmann Raff,,Tilmann Raff,loerrach
-Prof. Dr.  Joachim Schäfer,,Joachim Schäfer,loerrach
-Prof. Dr.  Jürgen Schenk,,Jürgen Schenk,loerrach
-Prof. Dr.  Veit Schenk,,Veit Schenk,loerrach
-Prof. Dr.  Uwe Schirmer,,Uwe Schirmer,loerrach
-Prof. Dr.  Andreas Schlageter,,Andreas Schlageter,loerrach
-Mona Schmauß,Akademische Mitarbeiterin Interprofessionelle Gesundheitsversorgung,Mona Schmauß,loerrach
-Prof. Dr.  Wolfgang Schmid-Grotjohann,,Wolfgang Schmid-Grotjohann,loerrach
-Prof. Dr.  Klemens Schnattinger,,Klemens Schnattinger,loerrach
-Pengyu Si,Akademischer Mitarbeiter Elektrotechnik,Pengyu Si,loerrach
-Prof. Dr.  Vanja Spoo,,Vanja Spoo,loerrach
-Prof. Dr.  Theodor Karl Sproll,,Theodor Karl Sproll,loerrach
-Prof. Dr.  Daniel Stehle,,Daniel Stehle,loerrach
-Dr.  Björn Steiert,,Björn Steiert,loerrach
-Prof. Dr.  Frauke Steinhagen,,Frauke Steinhagen,loerrach
-Prof. Dr.  Christopher Stoller,,Christopher Stoller,loerrach
-Prof. Dr.  Jörg Thietke,,Jörg Thietke,loerrach
-Cordula von Haxthausen,Akademische Mitarbeiterin Interprofessionelle Gesundheitsversorgung,Cordula von Haxthausen,loerrach
-Prof. Dr.  Christian Wachten,,Christian Wachten,loerrach
-Prof. Dr.  Heike Walterscheid,,Heike Walterscheid,loerrach
-Prof. Dr.  Julia Wearing,,Julia Wearing,loerrach
-Prof. Dr.  Valentin Weislämle,,Valentin Weislämle,loerrach
-Prof. Dr.  Guy Wennmacher,,Guy Wennmacher,loerrach
-Prof. Dr.  Christian Werner,,Christian Werner,loerrach
-Prof. Dr.  Paul Wittenbrink,,Paul Wittenbrink,loerrach
-Prof. Dr.  Joachim Wölle,,Joachim Wölle,loerrach
-Prof. Dr.  Katarzyna Zukowska-Gagelmann,,Katarzyna Zukowska-Gagelmann,loerrach
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+Kelly Avon,akademisch,Kelly Avon,loerrach,2022
+Prof. Dr.  Frank O. Bayer,prof.,Frank Bayer,loerrach,2022
+Prof. Dr.  Erik Behrends,professor,Erik Behrends,loerrach,2022
+Prof. Dr.  Peter Billen,professor,Peter Billen,loerrach,2022
+Prof. Dr.  Jürgen Brinkmann,professor,Jürgen Brinkmann,loerrach,2022
+Dr.  Rosalia Maria Danz,dr.,Rosalia Maria Danz,loerrach,2022
+Constantin Demidov,akademisch,Constantin Demidov,loerrach,2022
+Dr.  Wendy Fehlner,professor,Wendy Fehlner,loerrach,2022
+Prof. Dr.  Sebastian Feichtmair,studiengangsleiter,Sebastian Feichtmair,loerrach,2022
+Prof. Dr.  Thomas Glökler,studiengangsleiter,Thomas Glökler,loerrach,2022
+Prof. Dr.  Sylvia Gnad,prof.,Sylvia Gnad,loerrach,2022
+Prof. Dr.  Reiner Göppert,professor,Reiner Göppert,loerrach,2022
+Markus Greß-Heister,akademisch,Markus Greß-Heister,loerrach,2022
+Prof. Dr.  Rudi Grunau,professor,Rudi Grunau,loerrach,2022
+Prof. Dr.  Christian Gruninger-Hermann,studiengangsleiter,Christian Gruninger-Hermann,loerrach,2022
+Prof. Dr.  Eckhart Hanser,prof.,Eckhart Hanser,loerrach,2022
+Prof. Dr.  Winfried Heinzler,studiengangsleiter,Winfried Heinzler,loerrach,2022
+Dr.  Antje Hempel,dr.,Antje Hempel,loerrach,2022
+Prof. Dr.  Stefan Hess,studiengangsleiter,Stefan Hess,loerrach,2022
+Prof. Dr.  Reiner Max Hillemanns,professor,Reiner Max Hillemanns,loerrach,2022
+Prof.  Gerhard Jäger,prof.,Gerhard Jäger,loerrach,2022
+Prof. Dr.  Matthias Kaltenbacher,professor,Matthias Kaltenbacher,loerrach,2022
+Dr.  Paul-Thomas Kandzia,dr.,Paul-Thomas Kandzia,loerrach,2022
+Prof. Dr.  Johannes Kern,professor,Johannes Kern,loerrach,2022
+Prof. Dr.  Ossmane Krini,studiengangsleiter,Ossmane Krini,loerrach,2022
+Prof. Dr.  Lutz-Peter Kurdelski,professor,Lutz-Peter Kurdelski,loerrach,2022
+Lukas Latuska,akademisch,Lukas Latuska,loerrach,2022
+Prof. Dr.  Michael Lindemann,studiengangsleiter,Michael Lindemann,loerrach,2022
+Prof. Dr.  Benedikt Link,professor,Benedikt Link,loerrach,2022
+Prof. Dr.  Ekkehart Meroth,professor,Ekkehart Meroth,loerrach,2022
+Prof. Dr.  Thomas Messner,studiengangsleiter,Thomas Messner,loerrach,2022
+Prof. Dr.  Carsten Münster,professor,Carsten Münster,loerrach,2022
+Prof. Dr.  Harald Nicolai,studiengangsleiter,Harald Nicolai,loerrach,2022
+Dr.  Martin Nolte,dr.,Martin Nolte,loerrach,2022
+Prof. Dr.  Jan Michael Olaf,prof.,Jan Michael Olaf,loerrach,2022
+Prof. Dr.  Claudia Ossola-Haring,professor,Claudia Ossola-Haring,loerrach,2022
+Aymen Ouertani,akademisch,Aymen Ouertani,loerrach,2022
+Prof. Dr.  Matthias Paul,prof.,Matthias Paul,loerrach,2022
+Prof. Dr.  Tilmann Raff,professor,Tilmann Raff,loerrach,2022
+Prof. Dr.  Joachim Schäfer,studiengangsleiter,Joachim Schäfer,loerrach,2022
+Prof. Dr.  Jürgen Schenk,studiengangsleiter,Jürgen Schenk,loerrach,2022
+Prof. Dr.  Veit Schenk,professor,Veit Schenk,loerrach,2022
+Prof. Dr.  Uwe Schirmer,studiengangsleiter,Uwe Schirmer,loerrach,2022
+Prof. Dr.  Andreas Schlageter,professor,Andreas Schlageter,loerrach,2022
+Mona Schmauß,akademisch,Mona Schmauß,loerrach,2022
+Prof. Dr.  Wolfgang Schmid-Grotjohann,studiengangsleiter,Wolfgang Schmid-Grotjohann,loerrach,2022
+Prof. Dr.  Klemens Schnattinger,studiengangsleiter,Klemens Schnattinger,loerrach,2022
+Prof. Dr.  Vanja Spoo,professor,Vanja Spoo,loerrach,2022
+Prof. Dr.  Daniel Stehle,studiengangsleiter,Daniel Stehle,loerrach,2022
+Dr.  Björn Steiert,dr.,Björn Steiert,loerrach,2022
+Prof. Dr.  Frauke Steinhagen,professor,Frauke Steinhagen,loerrach,2022
+Prof. Dr.  Christopher Stoller,studiengangsleiter,Christopher Stoller,loerrach,2022
+Prof. Dr.  Jörg Thietke,prof.,Jörg Thietke,loerrach,2022
+Cordula von Haxthausen,akademisch,Cordula von Haxthausen,loerrach,2022
+Prof. Dr.  Christian Wachten,professor,Christian Wachten,loerrach,2022
+Prof. Dr.  Heike Walterscheid,professor,Heike Walterscheid,loerrach,2022
+Prof. Dr.  Julia Wearing,professor,Julia Wearing,loerrach,2022
+Prof. Dr.  Valentin Weislämle,studiengangsleiter,Valentin Weislämle,loerrach,2022
+Prof. Dr.  Guy Wennmacher,professor,Guy Wennmacher,loerrach,2022
+Prof. Dr.  Christian Werner,professor,Christian Werner,loerrach,2022
+Prof. Dr.  Paul Wittenbrink,professor,Paul Wittenbrink,loerrach,2022
+Prof. Dr.  Joachim Wölle,studiengangsleiter,Joachim Wölle,loerrach,2022
+Prof. Dr.  Katarzyna Zukowska-Gagelmann,professor,Katarzyna Zukowska-Gagelmann,loerrach,2022

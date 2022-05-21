@@ -1,98 +1,97 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-"Avella, Prof. Dr. Felice-Alfredo",,Felice-Alfredo Avella,karlsruhe
-"Bauer, Prof. Dr. Michael",,Michael Bauer,karlsruhe
-"Becker, Prof. Dr. Holger",,Holger Becker,karlsruhe
-"Bender, Prof. Dr. Oliver",,Oliver Bender,karlsruhe
-"Berkling, Ph.D., Prof. Kay Margarethe",,Kay Margarethe Berkling,karlsruhe
-"Böhm, Prof. Dr. Dirk",,Dirk Böhm,karlsruhe
-"Borowicz, Prof. Dr. Frank",,Frank Borowicz,karlsruhe
-"Brandstetter,  Christian",akademischer Mitarbeiter im Bereich Entrepreneurial Education,Christian Brandstetter,karlsruhe
-"Braun, Prof. Dr. Heinrich",,Heinrich Braun,karlsruhe
-"Brockmans, Prof. Dr. Sara",,Sara Brockmans,karlsruhe
-"Brunner,  Marina",akademische Mitarbeiterin im Bereich Lerntechnologien und Digitalisierung,Marina Brunner,karlsruhe
-"Buske, Prof. Dr. Antje",,Antje Buske,karlsruhe
-"Dannenmayer, Prof. Bernd",,Bernd Dannenmayer,karlsruhe
-"Detzel, Prof. Dr. Martin",,Martin Detzel,karlsruhe
-"Diehl-Becker, Prof. Dr. Angela",,Angela Diehl-Becker,karlsruhe
-"Dorwarth, Prof. Dr. Ralf",,Ralf Dorwarth,karlsruhe
-"Dreischer, Dr. Anita",,Anita Dreischer,karlsruhe
-"Ehlers, Prof. Dr. Ulf-Daniel",,Ulf-Daniel Ehlers,karlsruhe
-"Eidam, Prof. Dr. Dirk",,Dirk Eidam,karlsruhe
-"Eigbrecht,  Laura",akademische Mitarbeiterin im Bereich „Lerntechnologien und Digitalisierung“,Laura Eigbrecht,karlsruhe
-"Eisenbiegler, Prof. Dr. Jörn",,Jörn Eisenbiegler,karlsruhe
-"Erb, Prof. Dr. Jürgen",,Jürgen Erb,karlsruhe
-"Franken, Prof. Dr. Birgit",,Birgit Franken,karlsruhe
-"Freudenmann, Prof. Dr. Johannes",,Johannes Freudenmann,karlsruhe
-"Freytag, Prof. Dr. Thomas",,Thomas Freytag,karlsruhe
-"Ganninger, Prof. Dr. Aline",,Aline Ganninger,karlsruhe
-"Geier,  Nicole",Akademische Mitarbeiterin (Lerntechnologie und Digitalisierung),Nicole Geier,karlsruhe
-"Grimm, Prof. Klaus",,Klaus Grimm,karlsruhe
-"Grün, Prof. Dr. Markus",,Markus Grün,karlsruhe
-"Haalboom, Prof. Dr. Thomas",,Thomas Haalboom,karlsruhe
-"Haas, Prof. Martin",,Martin Haas,karlsruhe
-"Harms, Prof. Dr. Torsten",,Torsten Harms,karlsruhe
-"Heck,  Regina",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft,Regina Heck,karlsruhe
-"Heinemann,  Sonja",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft,Sonja Heinemann,karlsruhe
-"Heinz,  Aneta","Wissenschaftliche Mitarbeiterin im IPF-Projekt „Weiterbildungsstrategien in der IT-Branche“, Projekt Z",Aneta Heinz,karlsruhe
-"Herold, Prof. Dr. Bernhard",,Bernhard Herold,karlsruhe
-"Junge, Prof. Dr. Karsten",,Karsten Junge,karlsruhe
-"Kauffmann, Prof. Dr. Axel",,Axel Kauffmann,karlsruhe
-"Kaufmann, Dr. Sebastian",,Sebastian Kaufmann,karlsruhe
-"Keller, Prof. Dr. Michael",,Michael Keller,karlsruhe
-"Keyl, Dr. Eberhard",,Eberhard Keyl,karlsruhe
-"Kirsch, Prof. Dr. Monika",,Monika Kirsch,karlsruhe
-"Klink, Prof. Dr. Stefan",,Stefan Klink,karlsruhe
-"Kolb, Prof. Dr. Stefan",,Stefan Kolb,karlsruhe
-"Kopra-Schäfer, Prof. Dr. Monika",,Monika Kopra-Schäfer,karlsruhe
-"Korbmann,  Monika",Aakademische Mitarbeiterin im Projekt 3D-ThermoCell,Monika Korbmann,karlsruhe
-"Kühn, Prof. Dr.-Ing. Ralf",,Ralf Kühn,karlsruhe
-"Küstermann, Prof. Dr. Roland",,Roland Küstermann,karlsruhe
-"Landwehr-Zloch, Prof. Dr. Sabine",,Sabine Landwehr-Zloch,karlsruhe
-"Lauer, Prof. Dr. Silvia",,Silvia Lauer,karlsruhe
-"Lausen, Prof. Dr. Ralph",,Ralph Lausen,karlsruhe
-"Lautenschlager,  Evelyn",Akademische Mitarbeiterin im Fachbereich Gesundheit,Evelyn Lautenschlager,karlsruhe
-"Lee, Prof. Dr. Andrew",,Andrew Lee,karlsruhe
-"Lennerts, Prof. Dr. Silke",,Silke Lennerts,karlsruhe
-"Li, Prof. Nuo",,Nuo Li,karlsruhe
-"Marschall,  Tanja",Akademische Mitarbeiterin im Fachbereich Gesundheit,Tanja Marschall,karlsruhe
-"Möbius, Prof. Dr. Christian",,Christian Möbius,karlsruhe
-"Müller, Prof. Dr. Margitte",,Margitte Müller,karlsruhe
-"Nick, Prof. Dr. Albrecht",,Albrecht Nick,karlsruhe
-"Oberschmidt, Prof. Dr.-Ing. Gerald",,Gerald Oberschmidt,karlsruhe
-"Paulsen, Prof. Dr. Pay-Uwe",,Pay-Uwe Paulsen,karlsruhe
-"Pfannenschwarz, Prof. Dr. Armin",,Armin Pfannenschwarz,karlsruhe
-"Pohl, Prof. Dr. Philipp",,Philipp Pohl,karlsruhe
-"Rasch, Prof. Dr. Steffen",,Steffen Rasch,karlsruhe
-"Ratz, Prof. Dr. Dietmar",,Dietmar Ratz,karlsruhe
-"Reinhard,  Stefan",Akademischer Mitarbeiter im Projekt,Stefan Reinhard,karlsruhe
-"Reitze, Prof. Dr. Clemens",,Clemens Reitze,karlsruhe
-"Rettig, Dr. Oliver",,Oliver Rettig,karlsruhe
-"Rösch, Prof. Dr. Esther",,Esther Rösch,karlsruhe
-"Röthig, Prof. Dr. Jürgen",,Jürgen Röthig,karlsruhe
-"Schäfer, Prof. Dr. Karin",,Karin Schäfer,karlsruhe
-"Schäfer, Prof. Dr. Rüdiger",,Rüdiger Schäfer,karlsruhe
-"Scheffler, Dr. Ekkehard",,Ekkehard Scheffler,karlsruhe
-"Schenkel, Prof. Dr.-Ing. Stephan",,Stephan Schenkel,karlsruhe
-"Schindler, Prof. Dr. Darius",,Darius Schindler,karlsruhe
-"Schmitt,  Wibke",akademische Mitarbeiterin im Projekt BioPCM,Wibke Schmitt,karlsruhe
-"Schorr, Prof. Dr. Dietmar",,Dietmar Schorr,karlsruhe
-"Schreiber, Dr. Anne (in Elternzeit)",,Anne (in Elternzeit) Schreiber,karlsruhe
-"Schwär,  Florian",wissenschaftlicher Mitarbeiter bei Herrn Prof. Kauffmann,Florian Schwär,karlsruhe
-"Strand, Prof. Dr. Marcus",,Marcus Strand,karlsruhe
-"Tittelbach-Helmrich, Prof. Dr. Dietlind",,Dietlind Tittelbach-Helmrich,karlsruhe
-"Tometten-Iseke, Prof. Dr. Anneliese",,Anneliese Tometten-Iseke,karlsruhe
-"Valkama, Prof. Dr. Jukka-Pekka",,Jukka-Pekka Valkama,karlsruhe
-"Volkmann,  Anna",Akademische Mitarbeiterin im Studiengang Angewandte Hebammenwissenschaft,Anna Volkmann,karlsruhe
-"Vollmer, Prof. Dr. Jürgen",,Jürgen Vollmer,karlsruhe
-"von Stehlik, Prof. Dr. iur. Jeanine",,Jeanine von Stehlik,karlsruhe
-"Wallrath, Prof. Dr. Mechtild",,Mechtild Wallrath,karlsruhe
-"Walter,  Lukas",als akademischer Mitarbeiter im Projekt PolyProg bei Herrn Prof. Kauffmann,Lukas Walter,karlsruhe
-"Weber, Prof. Dr. Andreas",,Andreas Weber,karlsruhe
-"Weiland, Prof. Dr. Christiane",,Christiane Weiland,karlsruhe
-"Weinmann, Prof. Dr. Martin",,Martin Weinmann,karlsruhe
-"Wengler, Prof. Dr. Katja",,Katja Wengler,karlsruhe
-"Wigger, Dr.-Ing. Stefan",,Stefan Wigger,karlsruhe
-"Wuttke-Hilke,  Iris",Akademische Mitarbeiterin Fakultät Wirtschaft - Industrie,Iris Wuttke-Hilke,karlsruhe
-"Zeller,  Tanja",Akademische Mitarbeiterin im Studiengang Physician Assistant,Tanja Zeller,karlsruhe
-"Zimmerman, Prof. Dr. Eric",,Eric Zimmerman,karlsruhe
-"Zimmermann, Prof. Dr. Ruth-Caroline",,Ruth-Caroline Zimmermann,karlsruhe
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+"Avella, Prof. Dr. Felice-Alfredo",professor,Felice-Alfredo Avella,karlsruhe,2022
+"Bauer, Prof. Dr. Michael",prof.,Michael Bauer,karlsruhe,2022
+"Becker, Prof. Dr. Holger",prof.,Holger Becker,karlsruhe,2022
+"Bender, Prof. Dr. Oliver",prof.,Oliver Bender,karlsruhe,2022
+"Berkling, Ph.D., Prof. Kay Margarethe",prof.,Kay Margarethe Berkling,karlsruhe,2022
+"Böhm, Prof. Dr. Dirk",prof.,Dirk Böhm,karlsruhe,2022
+"Borowicz, Prof. Dr. Frank",prof.,Frank Borowicz,karlsruhe,2022
+"Brandstetter,  Christian",akademisch,Christian Brandstetter,karlsruhe,2022
+"Braun, Prof. Dr. Heinrich",wissenschaftlich,Heinrich Braun,karlsruhe,2022
+"Brockmans, Prof. Dr. Sara",prof.,Sara Brockmans,karlsruhe,2022
+"Brunner,  Marina",akademisch,Marina Brunner,karlsruhe,2022
+"Buske, Prof. Dr. Antje",professor,Antje Buske,karlsruhe,2022
+"Dannenmayer, Prof. Bernd",professor,Bernd Dannenmayer,karlsruhe,2022
+"Detzel, Prof. Dr. Martin",prof.,Martin Detzel,karlsruhe,2022
+"Diehl-Becker, Prof. Dr. Angela",prof.,Angela Diehl-Becker,karlsruhe,2022
+"Dorwarth, Prof. Dr. Ralf",prof.,Ralf Dorwarth,karlsruhe,2022
+"Dreischer, Dr. Anita",dr.,Anita Dreischer,karlsruhe,2022
+"Ehlers, Prof. Dr. Ulf-Daniel",professor,Ulf-Daniel Ehlers,karlsruhe,2022
+"Eidam, Prof. Dr. Dirk",prof.,Dirk Eidam,karlsruhe,2022
+"Eigbrecht,  Laura",akademisch,Laura Eigbrecht,karlsruhe,2022
+"Eisenbiegler, Prof. Dr. Jörn",prof.,Jörn Eisenbiegler,karlsruhe,2022
+"Erb, Prof. Dr. Jürgen",professor,Jürgen Erb,karlsruhe,2022
+"Franken, Prof. Dr. Birgit",professor,Birgit Franken,karlsruhe,2022
+"Freudenmann, Prof. Dr. Johannes",prof.,Johannes Freudenmann,karlsruhe,2022
+"Freytag, Prof. Dr. Thomas",professor,Thomas Freytag,karlsruhe,2022
+"Ganninger, Prof. Dr. Aline",professor,Aline Ganninger,karlsruhe,2022
+"Geier,  Nicole",akademisch,Nicole Geier,karlsruhe,2022
+"Grün, Prof. Dr. Markus",professor,Markus Grün,karlsruhe,2022
+"Haalboom, Prof. Dr. Thomas",prof.,Thomas Haalboom,karlsruhe,2022
+"Haas, Prof. Martin",professor,Martin Haas,karlsruhe,2022
+"Harms, Prof. Dr. Torsten",professor,Torsten Harms,karlsruhe,2022
+"Heck,  Regina",akademisch,Regina Heck,karlsruhe,2022
+"Heinemann,  Sonja",akademisch,Sonja Heinemann,karlsruhe,2022
+"Heinz,  Aneta",wissenschaftlich,Aneta Heinz,karlsruhe,2022
+"Herold, Prof. Dr. Bernhard",prof.,Bernhard Herold,karlsruhe,2022
+"Junge, Prof. Dr. Karsten",prof.,Karsten Junge,karlsruhe,2022
+"Kauffmann, Prof. Dr. Axel",prof.,Axel Kauffmann,karlsruhe,2022
+"Keller, Prof. Dr. Michael",prof.,Michael Keller,karlsruhe,2022
+"Kirsch, Prof. Dr. Monika",professor,Monika Kirsch,karlsruhe,2022
+"Klink, Prof. Dr. Stefan",professor,Stefan Klink,karlsruhe,2022
+"Kolb, Prof. Dr. Stefan",prof.,Stefan Kolb,karlsruhe,2022
+"Kopra-Schäfer, Prof. Dr. Monika",professor,Monika Kopra-Schäfer,karlsruhe,2022
+"Korbmann,  Monika",akademisch,Monika Korbmann,karlsruhe,2022
+"Kühn, Prof. Dr.-Ing. Ralf",professor,Ralf Kühn,karlsruhe,2022
+"Küstermann, Prof. Dr. Roland",prof.,Roland Küstermann,karlsruhe,2022
+"Landwehr-Zloch, Prof. Dr. Sabine",professor,Sabine Landwehr-Zloch,karlsruhe,2022
+"Lauer, Prof. Dr. Silvia",professor,Silvia Lauer,karlsruhe,2022
+"Lausen, Prof. Dr. Ralph",professor,Ralph Lausen,karlsruhe,2022
+"Lautenschlager,  Evelyn",akademisch,Evelyn Lautenschlager,karlsruhe,2022
+"Lee, Prof. Dr. Andrew",professor,Andrew Lee,karlsruhe,2022
+"Lennerts, Prof. Dr. Silke",professor,Silke Lennerts,karlsruhe,2022
+"Li, Prof. Nuo",professor,Nuo Li,karlsruhe,2022
+"Loose, Prof. Dr. Tobias",professor,Tobias Loose,karlsruhe,2022
+"Marschall,  Tanja",akademisch,Tanja Marschall,karlsruhe,2022
+"Meyer, Prof. Dr. Liane",professor,Liane Meyer,karlsruhe,2022
+"Möbius, Prof. Dr. Christian",professor,Christian Möbius,karlsruhe,2022
+"Müller, Prof. Dr. Margitte",studiengangsleiter,Margitte Müller,karlsruhe,2022
+"Nick, Prof. Dr. Albrecht",wissenschaftlich,Albrecht Nick,karlsruhe,2022
+"Oberschmidt, Prof. Dr.-Ing. Gerald",professor,Gerald Oberschmidt,karlsruhe,2022
+"Paulsen, Prof. Dr. Pay-Uwe",professor,Pay-Uwe Paulsen,karlsruhe,2022
+"Pfannenschwarz, Prof. Dr. Armin",prof.,Armin Pfannenschwarz,karlsruhe,2022
+"Pohl, Prof. Dr. Philipp",prof.,Philipp Pohl,karlsruhe,2022
+"Rasch, Prof. Dr. Steffen",prof.,Steffen Rasch,karlsruhe,2022
+"Ratz, Prof. Dr. Dietmar",prof.,Dietmar Ratz,karlsruhe,2022
+"Reinhard,  Stefan",akademisch,Stefan Reinhard,karlsruhe,2022
+"Reitze, Prof. Dr. Clemens",professor,Clemens Reitze,karlsruhe,2022
+"Rettig, Dr. Oliver",dr.,Oliver Rettig,karlsruhe,2022
+"Rösch, Prof. Dr. Esther",prof.,Esther Rösch,karlsruhe,2022
+"Röthig, Prof. Dr. Jürgen",professor,Jürgen Röthig,karlsruhe,2022
+"Schäfer, Prof. Dr. Karin",prof.,Karin Schäfer,karlsruhe,2022
+"Schäfer, Prof. Dr. Rüdiger",prof.,Rüdiger Schäfer,karlsruhe,2022
+"Scheffler, Dr. Ekkehard",dr.,Ekkehard Scheffler,karlsruhe,2022
+"Schenkel, Prof. Dr.-Ing. Stephan",prof.,Stephan Schenkel,karlsruhe,2022
+"Schindler, Prof. Dr. Darius",professor,Darius Schindler,karlsruhe,2022
+"Schmidbauer,  Fiona",akademisch,Fiona Schmidbauer,karlsruhe,2022
+"Schmitt,  Wibke",akademisch,Wibke Schmitt,karlsruhe,2022
+"Schorr, Prof. Dr. Dietmar",wissenschaftlich,Dietmar Schorr,karlsruhe,2022
+"Schreiber, Dr. Anne (in Elternzeit)",dr.,Anne (in Elternzeit) Schreiber,karlsruhe,2022
+"Schwär,  Florian",wissenschaftlich,Florian Schwär,karlsruhe,2022
+"Strand, Prof. Dr. Marcus",prof.,Marcus Strand,karlsruhe,2022
+"Tittelbach-Helmrich, Prof. Dr. Dietlind",prof.,Dietlind Tittelbach-Helmrich,karlsruhe,2022
+"Tometten-Iseke, Prof. Dr. Anneliese",professor,Anneliese Tometten-Iseke,karlsruhe,2022
+"Valkama, Prof. Dr. Jukka-Pekka",prof.,Jukka-Pekka Valkama,karlsruhe,2022
+"Vollmer, Prof. Dr. Jürgen",prof.,Jürgen Vollmer,karlsruhe,2022
+"von Stehlik, Prof. Dr. iur. Jeanine",prof.,Jeanine von Stehlik,karlsruhe,2022
+"Wallrath, Prof. Dr. Mechtild",prof.,Mechtild Wallrath,karlsruhe,2022
+"Walter,  Lukas",akademisch,Lukas Walter,karlsruhe,2022
+"Weber, Prof. Dr. Andreas",professor,Andreas Weber,karlsruhe,2022
+"Weiland, Prof. Dr. Christiane",prof.,Christiane Weiland,karlsruhe,2022
+"Weinmann, Prof. Dr. Martin",prof.,Martin Weinmann,karlsruhe,2022
+"Wengler, Prof. Dr. Katja",prof.,Katja Wengler,karlsruhe,2022
+"Wigger, Dr.-Ing. Stefan",dr.,Stefan Wigger,karlsruhe,2022
+"Wuttke-Hilke,  Iris",akademisch,Iris Wuttke-Hilke,karlsruhe,2022
+"Zeller,  Tanja",akademisch,Tanja Zeller,karlsruhe,2022
+"Zimmerman, Prof. Dr. Eric",professor,Eric Zimmerman,karlsruhe,2022
+"Zimmermann, Prof. Dr. Ruth-Caroline",prof.,Ruth-Caroline Zimmermann,karlsruhe,2022

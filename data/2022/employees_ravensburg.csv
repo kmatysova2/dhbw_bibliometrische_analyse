@@ -1,116 +1,117 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-"Al-Tameemi, Atheer, Dr.-Eng.",Akademischer Mitarbeiter,Atheer Al-Tameemi,ravensburg
-"Asche, Thomas, Prof. Dr.",Studiengangsleiter,Thomas Asche,ravensburg
-"Baar, Franziska, M. A.",Akademische Mitarbeiterin,Franziska Baar,ravensburg
-"Bächle, Michael, Prof. Dr.",Professor,Michael Bächle,ravensburg
-"Bauer, Thomas, Prof. Dr.",Studiengangsleiter,Thomas Bauer,ravensburg
-"Bergmann, Michaela, Dipl.-Wirt.-Inf. (BA)",Wissenschaftliche Hilfskraft,Michaela Bergmann,ravensburg
-"Besemer, Simone, Prof. Dr.",Studiengangsleiterin,Simone Besemer,ravensburg
-"Bihler, Wolfgang, Prof. Dr.",Studiengangsleiter,Wolfgang Bihler,ravensburg
-"Birk, Klaus, Prof. Dr.",Studiengangsleiter,Klaus Birk,ravensburg
-"Brath, Jürgen, Prof. Dr.-Ing.",Studiengangsleiter,Jürgen Brath,ravensburg
-"Brehm, Carsten, Prof. Dr.",Professor,Carsten Brehm,ravensburg
-"Brittner-Widmann, Anja, Prof. Dr.",Studiengangsleiterin,Anja Brittner-Widmann,ravensburg
-"Buckel, Peter",Akademischer Mitarbeiter,Peter Buckel,ravensburg
-"Burkhardt, Jan, M. Sc.",Akademischer Mitarbeiter,Jan Burkhardt,ravensburg
-"Cai, Wenzheng",Akademischer Mitarbeiter,Wenzheng Cai,ravensburg
-"Daurer, Stephan, Prof. Dr.",Studiengangsleiter,Stephan Daurer,ravensburg
-"Dendorfer-Ditges, Renate, Prof. Dr.",Professorin,Renate Dendorfer-Ditges,ravensburg
-"Deuer, Ernst, Prof. Dr.",Professor BWL - Industrie,Ernst Deuer,ravensburg
-"Deutmeyer, Melanie, Prof. Dr.",Studiengangsleiterin,Melanie Deutmeyer,ravensburg
-"Dharmana, Bhagyaraj, M. Sc.",Akademischer Mitarbeiter,Bhagyaraj Dharmana,ravensburg
-"Dietmüller, Thomas, Prof. Dr.",Professor,Thomas Dietmüller,ravensburg
-"Dingeldey, Alexander, Prof. Dr.",Studiengangsleiter,Alexander Dingeldey,ravensburg
-"Dobbelstein, Thomas, Prof. Dr.",Professor,Thomas Dobbelstein,ravensburg
-"Dreher, Herbert, Prof. Dr.-Ing.",Rektor,Herbert Dreher,ravensburg
-"Dudek, Heinz-Leo, Prof. Dr.",Prorektor,Heinz-Leo Dudek,ravensburg
-"Engelbart, Vera",Akademische Mitarbeiterin,Vera Engelbart,ravensburg
-"Engelking, Stephan, Prof. Dr.",Studiengangsleiter,Stephan Engelking,ravensburg
-"Fischer, Peter, Prof. Dr.",Professor,Peter Fischer,ravensburg
-"Fischer, Stefan, Prof. Dr.",Studiengangsleiter,Stefan Fischer,ravensburg
-"Frank, Tobias, Prof. Dr.",Professor,Tobias Frank,ravensburg
-"Fritz, Olaf, Prof. DBA",Professor,Olaf Fritz,ravensburg
-"Fuchs, Wolfgang, Prof. Dr.",Studiengangsleiter,Wolfgang Fuchs,ravensburg
-"Geringer, Viktor, Dr. (VAK Moskau)",Laboringenieur,Viktor Geringer,ravensburg
-"Gerstung, Valeska, Dr.",Akademische Mitarbeiterin,Valeska Gerstung,ravensburg
-"Gieger, Patrick, M. Sc.",Wissenschaftlicher Mitarbeiter,Patrick Gieger,ravensburg
-"Grandhi, Chaitanya, M. Sc.",Akademischer Mitarbeiter,Chaitanya Grandhi,ravensburg
-"Grieb, Markus, Prof. Dr.-Ing.",Professor,Markus Grieb,ravensburg
-"Güntzel, Joachim, Prof. Dr.",Professor,Joachim Güntzel,ravensburg
-"Hackl, Benedikt, Prof. Dr.",Professor,Benedikt Hackl,ravensburg
-"Hassenstein, Mathias, Prof.",Professor,Mathias Hassenstein,ravensburg
-"Hellstern, Gerhard, Prof. Dr.",Professor,Gerhard Hellstern,ravensburg
-"Hennig, Andrea, Prof. Dipl.-Des.",Professorin,Andrea Hennig,ravensburg
-"Hilgers, Bodo, Prof. Dr.",Professor,Bodo Hilgers,ravensburg
-"Hoff, Axel, Prof. Dr.",Professor,Axel Hoff,ravensburg
-"Hopf, Gregor, Prof. Dr.",Studiengangsleiter,Gregor Hopf,ravensburg
-"Judt, Andreas, Prof. Dr.-Ing.",Studiengangsleiter,Andreas Judt,ravensburg
-"Kallur Krishnamoorthy, Rajesh, M. Sc.","Wissenschaftlicher Mitarbeiter, gefördert von der Zeppelin-Stiftung",Rajesh Kallur Krishnamoorthy,ravensburg
-"Kasher, John-Dean, M. Sc.",Akademischer Mitarbeiter,John-Dean Kasher,ravensburg
-"Kever, Thorsten, Prof. Dr.",Studiengangsleiter,Thorsten Kever,ravensburg
-"Kibler, Thomas, Prof. Dr.-Ing.",Studiengangsleiter,Thomas Kibler,ravensburg
-"Kirchberg, Paul, Prof. Dr.",Professor,Paul Kirchberg,ravensburg
-"Klaiber, Udo, Prof. Dr.",Professor,Udo Klaiber,ravensburg
-"Krafft, Rainer, Prof. Dr.",Professor,Rainer Krafft,ravensburg
-"Krämer, Philipp, Prof. Dr.-Ing.","Stiftungsprofessur Luft- und Raumfahrttechnik, gefördert von der Zeppelin-Stiftung",Philipp Krämer,ravensburg
-"Kroflin, Petra, Prof. Dr.",Studiengangsleiterin,Petra Kroflin,ravensburg
-"Krohn, Tobias, Prof. Dr. (derzeit nicht im Hause)",Studiengangsleiter,Tobias Krohn,ravensburg
-"Krumm, Christina, Prof. Dr.",Professorin,Christina Krumm,ravensburg
-"Lehmann, Frank, Prof. Dr.",Studiengangsleiter,Frank Lehmann,ravensburg
-"Leitner-Fischer, Florian, Prof. Dr.",Professor,Florian Leitner-Fischer,ravensburg
-"Lembach, Claudia, Dr.",Studienreferentin,Claudia Lembach,ravensburg
-"Linkohr, Albrecht, Prof. Dr.",Professor,Albrecht Linkohr,ravensburg
-"Lund, Holger, Prof. Dr.",Professor,Holger Lund,ravensburg
-"Luppold, Stefan, Prof.",Studiengangsleiter,Stefan Luppold,ravensburg
-"Mannchen, Thomas, Prof. Dr.-Ing.",Studiengangsleiter,Thomas Mannchen,ravensburg
-"Mayer-Bonde, Conny, Prof. Dr.",Professorin,Conny Mayer-Bonde,ravensburg
-"Moser, Christoph, Prof. Dr.",Professor,Christoph Moser,ravensburg
-"Moser, Herbert, Prof.",Studiengangsleiter,Herbert Moser,ravensburg
-"Möslein-Tröppner, Bodo, Prof. Dr.",Professor,Bodo Möslein-Tröppner,ravensburg
-"Müller, Maren, Dr.",Studiengangsleiterin (kommissarisch),Maren Müller,ravensburg
-"Neef, Christoph, Prof. Dr.",Studiengangsleiter,Christoph Neef,ravensburg
-"Nickel, Thomas, Prof. Dr.",Professor,Thomas Nickel,ravensburg
-"Nölte, Uwe, Prof. Dr.",Professor,Uwe Nölte,ravensburg
-"Nübling, Michaela, Prof. Dr.",Professorin,Michaela Nübling,ravensburg
-"Nutzmann, Marc, Prof. Dr.",Studiengangsleiter,Marc Nutzmann,ravensburg
-"Ottler, Alexandra, Dipl.-Kffr.",Akademische Mitarbeiterin BWL - Bank und BWL - Finanzdienstleistungen,Alexandra Ottler,ravensburg
-"Ottler, Simon, Prof. Dr.",Prorektor,Simon Ottler,ravensburg
-"Pfab, Harald, Prof.",Vorsitzender des Vorstandes,Harald Pfab,ravensburg
-"Pooe, Boitumelo",Akademische Mitarbeiterin,Boitumelo Pooe,ravensburg
-"Purol, Holger, Prof. Dr.-Ing.",Studiengangsleiter,Holger Purol,ravensburg
-"Putnoki, Hans, Prof. Dr.",Professor,Hans Putnoki,ravensburg
-"Radke, Petra, Prof. Dr.",Studiengangsleiterin,Petra Radke,ravensburg
-"Radke, Volker, Prof. Dr.",Professor,Volker Radke,ravensburg
-"Radtke, Bernd, Prof. Dr.",Studiengangsleiter,Bernd Radtke,ravensburg
-"Ranabhatt, Nehalben, M. Eng.",Akademische Mitarbeiterin,Nehalben Ranabhatt,ravensburg
-"Rathgeb, Markus, Prof. Dr.",Studiengangsleiter,Markus Rathgeb,ravensburg
-"Reif, Konrad, Prof. Dr.-Ing.",Studiengangsleiter,Konrad Reif,ravensburg
-"Reinhard, Karin, Prof. Dr.",Studiengangsleiterin,Karin Reinhard,ravensburg
-"Riedle, Simon",Akademischer Mitarbeiter,Simon Riedle,ravensburg
-"Rieger, Bernd, Prof. Dr.",Professor,Bernd Rieger,ravensburg
-"Roßmann, Patrick, Prof. Dr.",Studiengangsleiter,Patrick Roßmann,ravensburg
-"Ruckdeschel, Wilhelm, Prof. Dr.-Ing.",Professor,Wilhelm Ruckdeschel,ravensburg
-"Ruhbach, Lars, Prof. Dr.-Ing.",Studiengangsleiter,Lars Ruhbach,ravensburg
-"Sardarabady, Navid",Akademischer Mitarbeiter,Navid Sardarabady,ravensburg
-"Sauer, Thorsten, Prof. Dr.-Ing.",Professor,Thorsten Sauer,ravensburg
-"Sauter, Stephan, Prof. Dr.",Professor,Stephan Sauter,ravensburg
-"Schandl, Susanne, Prof. Dr.",Professorin,Susanne Schandl,ravensburg
-"Schatz, Markus, Prof. Dr.",Professor,Markus Schatz,ravensburg
-"Schertler-Rock, Manfred, Prof. Dr.",Professor,Manfred Schertler-Rock,ravensburg
-"Schilling, Andreas, Prof. Dr.",Professor,Andreas Schilling,ravensburg
-"Schneider, Jürgen, Prof. Dr.",Professor,Jürgen Schneider,ravensburg
-"Schwadorf, Heike, Prof. Dr.",Professorin,Heike Schwadorf,ravensburg
-"Schwenke, Frederike, Prof. Dr.",Professorin / Justiziarin,Frederike Schwenke,ravensburg
-"Seemann, Thomas, Prof. Dr.",Professor,Thomas Seemann,ravensburg
-"Specht, Jan, Prof. Dr.",Studiengangsleiter,Jan Specht,ravensburg
-"Sprink, Joachim, Prof. Dr.",Studiengangsleiter,Joachim Sprink,ravensburg
-"Stahl, Heike, Prof. Dr.",Studiengangsleiterin,Heike Stahl,ravensburg
-"Steinbach, Almut, Prof. Dr.",Studiengangsleiterin,Almut Steinbach,ravensburg
-"Streich, Michael, Prof. Dr.",Professor,Michael Streich,ravensburg
-"Suchy, Günther, Prof. Dr.",Professor,Günther Suchy,ravensburg
-"Tennagen, Ulrike, Prof. Dr.",Professorin,Ulrike Tennagen,ravensburg
-"Then Bergh, Friedrich, Prof. Dr.",Studiengangsleiter (kommissarisch),Friedrich Then Bergh,ravensburg
-"Timmermann, Jens, Prof. Dr.-Ing.",Studiengangsleiter,Jens Timmermann,ravensburg
-"Widmann, Torsten, Prof. Dr.",Studiengangsleiter,Torsten Widmann,ravensburg
-"Zaefferer, Martin, Prof. Dr.",Professor,Martin Zaefferer,ravensburg
-"Zink, Stefan, Prof. Dr.",Professor,Stefan Zink,ravensburg
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+"Al-Tameemi, Atheer, Dr.-Eng.",akademisch,Atheer Al-Tameemi,ravensburg,2022
+"Asche, Thomas, Prof. Dr.",studiengangsleiter,Thomas Asche,ravensburg,2022
+"Baar, Franziska, M. A.",akademisch,Franziska Baar,ravensburg,2022
+"Bächle, Michael, Prof. Dr.",professor,Michael Bächle,ravensburg,2022
+"Bauer, Thomas, Prof. Dr.",studiengangsleiter,Thomas Bauer,ravensburg,2022
+"Bergmann, Michaela, Dipl.-Wirt.-Inf. (BA)",wissenschaftlich,Michaela Bergmann,ravensburg,2022
+"Besemer, Simone, Prof. Dr.",studiengangsleiter,Simone Besemer,ravensburg,2022
+"Bihler, Wolfgang, Prof. Dr.",studiengangsleiter,Wolfgang Bihler,ravensburg,2022
+"Birk, Klaus, Prof. Dr.",studiengangsleiter,Klaus Birk,ravensburg,2022
+"Brath, Jürgen, Prof. Dr.-Ing.",studiengangsleiter,Jürgen Brath,ravensburg,2022
+"Brehm, Carsten, Prof. Dr.",professor,Carsten Brehm,ravensburg,2022
+"Brittner-Widmann, Anja, Prof. Dr.",studiengangsleiter,Anja Brittner-Widmann,ravensburg,2022
+"Buckel, Peter",akademisch,Peter Buckel,ravensburg,2022
+"Burkhardt, Jan, M. Sc.",akademisch,Jan Burkhardt,ravensburg,2022
+"Cai, Wenzheng",akademisch,Wenzheng Cai,ravensburg,2022
+"Daurer, Stephan, Prof. Dr.",studiengangsleiter,Stephan Daurer,ravensburg,2022
+"Dendorfer-Ditges, Renate, Prof. Dr.",professor,Renate Dendorfer-Ditges,ravensburg,2022
+"Deuer, Ernst, Prof. Dr.",professor,Ernst Deuer,ravensburg,2022
+"Deutmeyer, Melanie, Prof. Dr.",studiengangsleiter,Melanie Deutmeyer,ravensburg,2022
+"Dharmana, Bhagyaraj, M. Sc.",akademisch,Bhagyaraj Dharmana,ravensburg,2022
+"Dietmüller, Thomas, Prof. Dr.",professor,Thomas Dietmüller,ravensburg,2022
+"Dingeldey, Alexander, Prof. Dr.",studiengangsleiter,Alexander Dingeldey,ravensburg,2022
+"Dobbelstein, Thomas, Prof. Dr.",professor,Thomas Dobbelstein,ravensburg,2022
+"Dreher, Herbert, Prof. Dr.-Ing.",prof.,Herbert Dreher,ravensburg,2022
+"Dudek, Heinz-Leo, Prof. Dr.",prof.,Heinz-Leo Dudek,ravensburg,2022
+"Engelbart, Vera",akademisch,Vera Engelbart,ravensburg,2022
+"Engelking, Stephan, Prof. Dr.",studiengangsleiter,Stephan Engelking,ravensburg,2022
+"Fischer, Peter, Prof. Dr.",professor,Peter Fischer,ravensburg,2022
+"Fischer, Stefan, Prof. Dr.",studiengangsleiter,Stefan Fischer,ravensburg,2022
+"Frank, Tobias, Prof. Dr.",professor,Tobias Frank,ravensburg,2022
+"Fritz, Olaf, Prof. DBA",professor,Olaf Fritz,ravensburg,2022
+"Fuchs, Wolfgang, Prof. Dr.",studiengangsleiter,Wolfgang Fuchs,ravensburg,2022
+"Geringer, Viktor, Dr. (VAK Moskau)",dr.,Viktor Geringer,ravensburg,2022
+"Gerstung-Jungherr, Valeska, Dr.",akademisch,Valeska Gerstung-Jungherr,ravensburg,2022
+"Gieger, Patrick, M. Sc.",wissenschaftlich,Patrick Gieger,ravensburg,2022
+"Grandhi, Chaitanya, M. Sc.",akademisch,Chaitanya Grandhi,ravensburg,2022
+"Grieb, Markus, Prof. Dr.-Ing.",professor,Markus Grieb,ravensburg,2022
+"Güntzel, Joachim, Prof. Dr.",professor,Joachim Güntzel,ravensburg,2022
+"Hackl, Benedikt, Prof. Dr.",professor,Benedikt Hackl,ravensburg,2022
+"Hassenstein, Mathias, Prof.",professor,Mathias Hassenstein,ravensburg,2022
+"Hechelmann, Adrian",akademisch,Adrian Hechelmann,ravensburg,2022
+"Hellstern, Gerhard, Prof. Dr.",professor,Gerhard Hellstern,ravensburg,2022
+"Hennig, Andrea, Prof. Dipl.-Des.",professor,Andrea Hennig,ravensburg,2022
+"Hilgers, Bodo, Prof. Dr.",professor,Bodo Hilgers,ravensburg,2022
+"Hoff, Axel, Prof. Dr.",professor,Axel Hoff,ravensburg,2022
+"Hopf, Gregor, Prof. Dr.",studiengangsleiter,Gregor Hopf,ravensburg,2022
+"Judt, Andreas, Prof. Dr.-Ing.",studiengangsleiter,Andreas Judt,ravensburg,2022
+"Kallur Krishnamoorthy, Rajesh, M. Sc.",wissenschaftlich,Rajesh Kallur Krishnamoorthy,ravensburg,2022
+"Kasher, John-Dean, M. Sc.",akademisch,John-Dean Kasher,ravensburg,2022
+"Kever, Thorsten, Prof. Dr.",studiengangsleiter,Thorsten Kever,ravensburg,2022
+"Kibler, Thomas, Prof. Dr.-Ing.",studiengangsleiter,Thomas Kibler,ravensburg,2022
+"Kirchberg, Paul, Prof. Dr.",professor,Paul Kirchberg,ravensburg,2022
+"Klaiber, Udo, Prof. Dr.",professor,Udo Klaiber,ravensburg,2022
+"Krafft, Rainer, Prof. Dr.",professor,Rainer Krafft,ravensburg,2022
+"Krämer, Philipp, Prof. Dr.-Ing.",prof.,Philipp Krämer,ravensburg,2022
+"Kroflin, Petra, Prof. Dr.",studiengangsleiter,Petra Kroflin,ravensburg,2022
+"Krohn, Tobias, Prof. Dr. (derzeit nicht im Hause)",studiengangsleiter,Tobias Krohn,ravensburg,2022
+"Krumm, Christina, Prof. Dr.",professor,Christina Krumm,ravensburg,2022
+"Lehmann, Frank, Prof. Dr.",studiengangsleiter,Frank Lehmann,ravensburg,2022
+"Leitner-Fischer, Florian, Prof. Dr.",professor,Florian Leitner-Fischer,ravensburg,2022
+"Lembach, Claudia, Dr.",dr.,Claudia Lembach,ravensburg,2022
+"Linkohr, Albrecht, Prof. Dr.",professor,Albrecht Linkohr,ravensburg,2022
+"Lund, Holger, Prof. Dr.",professor,Holger Lund,ravensburg,2022
+"Luppold, Stefan, Prof.",studiengangsleiter,Stefan Luppold,ravensburg,2022
+"Mannchen, Thomas, Prof. Dr.-Ing.",studiengangsleiter,Thomas Mannchen,ravensburg,2022
+"Mayer-Bonde, Conny, Prof. Dr.",professor,Conny Mayer-Bonde,ravensburg,2022
+"Moser, Christoph, Prof. Dr.",professor,Christoph Moser,ravensburg,2022
+"Moser, Herbert, Prof.",studiengangsleiter,Herbert Moser,ravensburg,2022
+"Möslein-Tröppner, Bodo, Prof. Dr.",professor,Bodo Möslein-Tröppner,ravensburg,2022
+"Müller, Maren, Dr.",studiengangsleiter,Maren Müller,ravensburg,2022
+"Neef, Christoph, Prof. Dr.",studiengangsleiter,Christoph Neef,ravensburg,2022
+"Nickel, Thomas, Prof. Dr.",professor,Thomas Nickel,ravensburg,2022
+"Nölte, Uwe, Prof. Dr.",professor,Uwe Nölte,ravensburg,2022
+"Nübling, Michaela, Prof. Dr.",studiengangsleiter,Michaela Nübling,ravensburg,2022
+"Nutzmann, Marc, Prof. Dr.",studiengangsleiter,Marc Nutzmann,ravensburg,2022
+"Ottler, Alexandra, Dipl.-Kffr.",akademisch,Alexandra Ottler,ravensburg,2022
+"Ottler, Simon, Prof. Dr.",wissenschaftlich,Simon Ottler,ravensburg,2022
+"Pfab, Harald, Prof.",prof.,Harald Pfab,ravensburg,2022
+"Pooe, Boitumelo",akademisch,Boitumelo Pooe,ravensburg,2022
+"Purol, Holger, Prof. Dr.-Ing.",studiengangsleiter,Holger Purol,ravensburg,2022
+"Putnoki, Hans, Prof. Dr.",professor,Hans Putnoki,ravensburg,2022
+"Radke, Petra, Prof. Dr.",studiengangsleiter,Petra Radke,ravensburg,2022
+"Radke, Volker, Prof. Dr.",professor,Volker Radke,ravensburg,2022
+"Radtke, Bernd, Prof. Dr.",studiengangsleiter,Bernd Radtke,ravensburg,2022
+"Ranabhatt, Nehalben, M. Eng.",akademisch,Nehalben Ranabhatt,ravensburg,2022
+"Rathgeb, Markus, Prof. Dr.",studiengangsleiter,Markus Rathgeb,ravensburg,2022
+"Reif, Konrad, Prof. Dr.-Ing.",studiengangsleiter,Konrad Reif,ravensburg,2022
+"Reinhard, Karin, Prof. Dr.",studiengangsleiter,Karin Reinhard,ravensburg,2022
+"Riedle, Simon",akademisch,Simon Riedle,ravensburg,2022
+"Rieger, Bernd, Prof. Dr.",professor,Bernd Rieger,ravensburg,2022
+"Roßmann, Patrick, Prof. Dr.",studiengangsleiter,Patrick Roßmann,ravensburg,2022
+"Ruckdeschel, Wilhelm, Prof. Dr.-Ing.",professor,Wilhelm Ruckdeschel,ravensburg,2022
+"Ruhbach, Lars, Prof. Dr.-Ing.",studiengangsleiter,Lars Ruhbach,ravensburg,2022
+"Sardarabady, Navid",akademisch,Navid Sardarabady,ravensburg,2022
+"Sauer, Thorsten, Prof. Dr.-Ing.",professor,Thorsten Sauer,ravensburg,2022
+"Sauter, Stephan, Prof. Dr.",professor,Stephan Sauter,ravensburg,2022
+"Schandl, Susanne, Prof. Dr.",professor,Susanne Schandl,ravensburg,2022
+"Schatz, Markus, Prof. Dr.",professor,Markus Schatz,ravensburg,2022
+"Schertler-Rock, Manfred, Prof. Dr.",professor,Manfred Schertler-Rock,ravensburg,2022
+"Schilling, Andreas, Prof. Dr.",professor,Andreas Schilling,ravensburg,2022
+"Schneider, Jürgen, Prof. Dr.",professor,Jürgen Schneider,ravensburg,2022
+"Schwadorf, Heike, Prof. Dr.",professor,Heike Schwadorf,ravensburg,2022
+"Schwenke, Frederike, Prof. Dr.",professor,Frederike Schwenke,ravensburg,2022
+"Seemann, Thomas, Prof. Dr.",professor,Thomas Seemann,ravensburg,2022
+"Specht, Jan, Prof. Dr.",studiengangsleiter,Jan Specht,ravensburg,2022
+"Sprink, Joachim, Prof. Dr.",studiengangsleiter,Joachim Sprink,ravensburg,2022
+"Stahl, Heike, Prof. Dr.",studiengangsleiter,Heike Stahl,ravensburg,2022
+"Steinbach, Almut, Prof. Dr.",studiengangsleiter,Almut Steinbach,ravensburg,2022
+"Streich, Michael, Prof. Dr.",professor,Michael Streich,ravensburg,2022
+"Suchy, Günther, Prof. Dr.",professor,Günther Suchy,ravensburg,2022
+"Tennagen, Ulrike, Prof. Dr.",professor,Ulrike Tennagen,ravensburg,2022
+"Then Bergh, Friedrich, Prof. Dr.",studiengangsleiter,Friedrich Then Bergh,ravensburg,2022
+"Timmermann, Jens, Prof. Dr.-Ing.",studiengangsleiter,Jens Timmermann,ravensburg,2022
+"Widmann, Torsten, Prof. Dr.",studiengangsleiter,Torsten Widmann,ravensburg,2022
+"Zaefferer, Martin, Prof. Dr.",professor,Martin Zaefferer,ravensburg,2022
+"Zink, Stefan, Prof. Dr.",professor,Stefan Zink,ravensburg,2022

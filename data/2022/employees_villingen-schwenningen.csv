@@ -1,91 +1,88 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-Prof. Dr. Ulrich Kotthaus,Rektor,Ulrich Kotthaus,villingen-schwenningen
-Prof. Dr. Gert Heinrich,Prorektor und Dekan der Fakultät Wirtschaft,Gert Heinrich,villingen-schwenningen
-Prof. Dr. Steffen Arnold,Prodekan,Steffen Arnold,villingen-schwenningen
-Prof. Dr. Andreas Polutta,Studiendekan,Andreas Polutta,villingen-schwenningen
-Prof. Dr. Matthias Brungs,Studiengangsleiter Soziale Arbeit - Bildung und Beruf,Matthias Brungs,villingen-schwenningen
-Prof. Dr. Andreas Polutta,"Studiendekan Soziale Arbeit und Studiengangsleiter Soziale Arbeit - Jugend-, Familien- und Sozialhilfe",Andreas Polutta,villingen-schwenningen
-Prof. Dr. Barbara Schramkowski,"Studiengangsleiterin Soziale Arbeit - Jugend-, Familien- und Sozialhilfe",Barbara Schramkowski,villingen-schwenningen
-Prof. Dr. Christina Plafky,Studiengangsleiterin Soziale Arbeit – Menschen mit Behinderungen,Christina Plafky,villingen-schwenningen
-Prof. Dr. Anja Teubert,Studiengangsleiterin Soziale Arbeit – Menschen mit Behinderung,Anja Teubert,villingen-schwenningen
-Prof. Dr. Süleyman Gögercin,Studiengangsleiter Soziale Arbeit - Netzwerk- und Sozialraumarbeit,Süleyman Gögercin,villingen-schwenningen
-Prof. Dr. Tobias Staiger,Studiengangsleiter Soziale Arbeit - Psychische Gesundheit und Sucht,Tobias Staiger,villingen-schwenningen
-Prof. Dr. Martina Wanner,Studiengangsleiterin Soziale Arbeit im Gesundheitswesen,Martina Wanner,villingen-schwenningen
-Prof. Dr. Beate Blank,Professorin für Soziale Arbeit,Beate Blank,villingen-schwenningen
-Prof. Dr. Matthias Brungs,Studiengangsleiter Soziale Arbeit - Bildung und Beruf,Matthias Brungs,villingen-schwenningen
-Prof. Dr. Süleyman Gögercin,Studiengangsleiter Soziale Arbeit - Netzwerk- und Sozialraumarbeit,Süleyman Gögercin,villingen-schwenningen
-Prof. Dr. Rahel Gugel,"Professorin für Recht der Sozialen Arbeit, Fakultät für Sozialwesen",Rahel Gugel,villingen-schwenningen
-Dr. Andreas Gut,Vertretungsprofessor,Andreas Gut,villingen-schwenningen
-Prof. Dr. Christina Plafky,Studiengangsleiterin Soziale Arbeit – Menschen mit Behinderungen,Christina Plafky,villingen-schwenningen
-Prof. Dr. Andreas Polutta,"Studiendekan Soziale Arbeit und Studiengangsleiter Soziale Arbeit - Jugend-, Familien- und Sozialhilfe",Andreas Polutta,villingen-schwenningen
-Prof. Dr. Karin E. Sauer,"Professor*in für Soziale Arbeit, Fakultät für Sozialwesen",Karin Sauer,villingen-schwenningen
-Prof. Dr. rer. soc. Christoph Schneider,Professor für Sozialwissenschaftliche und psychologische Grundlagen Sozialer Arbeit,Christoph Schneider,villingen-schwenningen
-Prof. Dr. Barbara Schramkowski,"Studiengangsleiterin Soziale Arbeit - Jugend-, Familien- und Sozialhilfe",Barbara Schramkowski,villingen-schwenningen
-Prof. Dr. Tobias Staiger,Studiengangsleiter Soziale Arbeit - Psychische Gesundheit und Sucht,Tobias Staiger,villingen-schwenningen
-Prof. Dr. Daniela Steenkamp,Professorin für Soziale Arbeit,Daniela Steenkamp,villingen-schwenningen
-Prof. Dr. Anja Teubert,Studiengangsleiterin Soziale Arbeit – Menschen mit Behinderung,Anja Teubert,villingen-schwenningen
-Prof. Dr. Martina Wanner,Studiengangsleiterin Soziale Arbeit im Gesundheitswesen,Martina Wanner,villingen-schwenningen
-Elke Börnard,Akademische Mitarbeiterin im Theorie-Praxis-Transfer - Wissenschaftliches Arbeiten,Elke Börnard,villingen-schwenningen
-Angelika Köhnlein-Welte,Akademische Mitarbeiterin im Theorie-Praxis-Transfer - Wissenschaftliches Arbeiten,Angelika Köhnlein-Welte,villingen-schwenningen
-Saskia Wartenberg,Akademische Mitarbeiterin für Transferaufgaben im Studium Soziale Arbeit,Saskia Wartenberg,villingen-schwenningen
-Prof. Dr. Steffen Arnold,Sozialwirtschaft - Studiengangsleitung,Steffen Arnold,villingen-schwenningen
-Prof. Michael Hauser,BWL in der Sozialwirtschaft,Michael Hauser,villingen-schwenningen
-Prof. Dr. Markus Schoor,Recht in der Sozialwirtschaft,Markus Schoor,villingen-schwenningen
-Prof. Dr. Bernd Sommer,Soziale Arbeit,Bernd Sommer,villingen-schwenningen
-Prof. Dr. Gert Heinrich,Prorektor und Dekan der Fakultät Wirtschaft,Gert Heinrich,villingen-schwenningen
-Prof. Dr. Marcus Vögtle,Studiengangsleiter,Marcus Vögtle,villingen-schwenningen
-Prof. Dr. Martin Plag,Studiengangsleiter,Martin Plag,villingen-schwenningen
-Prof. Dr. Vera Döring,Studiengangsleiterin,Vera Döring,villingen-schwenningen
-Prof. Dr. Harry Giesler,Studiengangsleiter,Harry Giesler,villingen-schwenningen
-Prof. Dr. Erich Klaus,Studiengangsleiter,Erich Klaus,villingen-schwenningen
-Prof. Dr. Lothar Wildmann,Studiengangsleiter,Lothar Wildmann,villingen-schwenningen
-Prof. Dr. Clive F. W. Flynn,Studiengangsleiter,Clive Flynn,villingen-schwenningen
-Prof. Dr.-Ing. Olaf Kreyenkamp,Studiengangsleiter,Olaf Kreyenkamp,villingen-schwenningen
-Prof. Dr. Sabrina Kummer,Studiengangsleiterin,Sabrina Kummer,villingen-schwenningen
-Prof. Dr. Clemens Wangler,Studiengangsleiter,Clemens Wangler,villingen-schwenningen
-Prof. Dr. Paula Wellmann,Studiengangsleiterin,Paula Wellmann,villingen-schwenningen
-Prof. Dr. Gunter Heeb,Studiengangsleiter,Gunter Heeb,villingen-schwenningen
-Prof. Dr. Martin Kimmig,Studiengangsleiter,Martin Kimmig,villingen-schwenningen
-Prof. Dr. Stefan Stoll,Studiengangsleiter,Stefan Stoll,villingen-schwenningen
-Prof. Dr. Christina Bark,Internes und Externes Rechnungswesen,Christina Bark,villingen-schwenningen
-Prof. Dr. Ludwig M. Bauer,Internes und Externes Rechnungswesen,Ludwig Bauer,villingen-schwenningen
-Prof. Dr. Nils Bedke,Bankbetriebslehre  (insb. Private Banking),Nils Bedke,villingen-schwenningen
-Prof. Dr. Michael Birk,Betriebswirtschaftslehre  (insb. Betriebswirtschaftliche Steuerlehre),Michael Birk,villingen-schwenningen
-Prof. Jürgen Bleicher,BWL-Industrie,Jürgen Bleicher,villingen-schwenningen
-Prof. Dr. Michael Bungert,Marketing,Michael Bungert,villingen-schwenningen
-Prof. Dr. Markus Cordes,Materialwirtschaft und Logistik,Markus Cordes,villingen-schwenningen
-Prof. Dr. Wolfgang Disch,Banking und Finance,Wolfgang Disch,villingen-schwenningen
-Prof. Dr. Petra Findeisen,Strateg. Management / Innovationsmanagement,Petra Findeisen,villingen-schwenningen
-Prof. Dr. Wolfgang Funk,Informatik,Wolfgang Funk,villingen-schwenningen
-Prof. Dr. Alexander Götz,Corporate Finance und Entrepreneurship,Alexander Götz,villingen-schwenningen
-Prof. Dr. Aaron Leander Haußmann,BWL – insbesondere Marketing und Vertrieb,Aaron Leander Haußmann,villingen-schwenningen
-Prof. Dr. Thomas Häring,Volkswirtschaftslehre,Thomas Häring,villingen-schwenningen
-Prof. Michael Hauser,BWL und VWL,Michael Hauser,villingen-schwenningen
-Prof. Dr. Wolfgang Hirschberger,Betriebswirtschaftslehre,Wolfgang Hirschberger,villingen-schwenningen
-Prof. Dr. Michael Hudetzka,Professor für BWL – insbesondere Personalmanagement,Michael Hudetzka,villingen-schwenningen
-Prof. Dr. Bernd Kaltenhäuser,Technik Grundlagen,Bernd Kaltenhäuser,villingen-schwenningen
-Prof. Dr. Norbert Kratz,BWL insb. Finanz- und Rechnungswesen,Norbert Kratz,villingen-schwenningen
-Prof. Dr. André Kuck,Quantitative Methoden in der Finanzwirtschaft,André Kuck,villingen-schwenningen
-Prof. Dr. Martin Lachmair,Professor für Wirtschaftsinformatik,Martin Lachmair,villingen-schwenningen
-Prof. Dr. Martina Menne,Betriebswirtschaftslehre,Martina Menne,villingen-schwenningen
-Prof. Dr. Anette Renz,Internes und Externes Rechnungswesen,Anette Renz,villingen-schwenningen
-Prof. Dr. Simone Riedmiller,Produktion und Logistik,Simone Riedmiller,villingen-schwenningen
-Marcella Rosenberger,"Akademische Mitarbeiterin / Projektmitglied ""Urban Mobility Lab""",Marcella Rosenberger,villingen-schwenningen
-Prof. Dr. Michael Rueß,BWL - International Business,Michael Rueß,villingen-schwenningen
-Prof. Dr. Jens Siebert,Betriebswirtschaftliche Steuerlehre,Jens Siebert,villingen-schwenningen
-Prof. Dr. Peter Stebel,Controlling,Peter Stebel,villingen-schwenningen
-Prof. Dr. Petra Stellmach,Controlling,Petra Stellmach,villingen-schwenningen
-Prof. Dr. Jens Siebert,Wiss. Leiter Wirtschaft,Jens Siebert,villingen-schwenningen
-Prof. Dr. Martin Kimmig,Leitung,Martin Kimmig,villingen-schwenningen
-Prof. Dr. Martina Menne,Gleichstellungsbeauftragte,Martina Menne,villingen-schwenningen
-Prof. Dr. Sabrina Kummer,Stv. Gleichstellungsbeauftragte,Sabrina Kummer,villingen-schwenningen
-Prof. Dr. Paula Wellmann,Stv. Gleichstellungsbeauftragte,Paula Wellmann,villingen-schwenningen
-Prof. Dr. Beate Blank,Zentrale Gleichstellungsbeauftragte,Beate Blank,villingen-schwenningen
-Prof. Dr. Markus Schoor,Prüfungsbeauftragter,Markus Schoor,villingen-schwenningen
-Prof. Dr. Markus Schoor,Prüfungsbeauftragter,Markus Schoor,villingen-schwenningen
-Dr. Stephanie Ashford,Englisch,Stephanie Ashford,villingen-schwenningen
-Prof. Dr. Gunter Heeb,Mitglieder,Gunter Heeb,villingen-schwenningen
-Prof. Dr. Wolfgang Hirschberger,Mitglieder,Wolfgang Hirschberger,villingen-schwenningen
-Prof. Dr. Andreas Polutta,Mitglieder,Andreas Polutta,villingen-schwenningen
-Prof. Dr. Stefan Stoll,Mitglieder,Stefan Stoll,villingen-schwenningen
-Prof. Dr. Markus Schoor,Justitiar,Markus Schoor,villingen-schwenningen
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+Prof. Dr. Ulrich Kotthaus,prof.,Ulrich Kotthaus,villingen-schwenningen,2022
+Prof. Dr. Gert Heinrich,prof.,Gert Heinrich,villingen-schwenningen,2022
+Prof. Dr. Steffen Arnold,prof.,Steffen Arnold,villingen-schwenningen,2022
+Prof. Dr. Matthias Brungs,studiengangsleiter,Matthias Brungs,villingen-schwenningen,2022
+Dr. Andreas Gut,studiengangsleiter,Andreas Gut,villingen-schwenningen,2022
+Prof. Dr. Barbara Schramkowski,studiengangsleiter,Barbara Schramkowski,villingen-schwenningen,2022
+Prof. Dr. Anja Teubert,studiengangsleiter,Anja Teubert,villingen-schwenningen,2022
+Prof. Dr. Daniela Steenkamp,studiengangsleiter,Daniela Steenkamp,villingen-schwenningen,2022
+Prof. Dr. Tobias Staiger,studiengangsleiter,Tobias Staiger,villingen-schwenningen,2022
+Prof. Dr. Martina Wanner,studiengangsleiter,Martina Wanner,villingen-schwenningen,2022
+Prof. Dr. Beate Blank,professor,Beate Blank,villingen-schwenningen,2022
+Prof. Dr. Matthias Brungs,studiengangsleiter,Matthias Brungs,villingen-schwenningen,2022
+Prof. Dr. Boris Duru,professor,Boris Duru,villingen-schwenningen,2022
+Prof. Dr. Rahel Gugel,professor,Rahel Gugel,villingen-schwenningen,2022
+Dr. Andreas Gut,professor,Andreas Gut,villingen-schwenningen,2022
+Prof. Dr. Karin E. Sauer,professor,Karin Sauer,villingen-schwenningen,2022
+Prof. Dr. rer. soc. Christoph Schneider,professor,Christoph Schneider,villingen-schwenningen,2022
+Prof. Dr. Barbara Schramkowski,studiengangsleiter,Barbara Schramkowski,villingen-schwenningen,2022
+Prof. Dr. Tobias Staiger,studiengangsleiter,Tobias Staiger,villingen-schwenningen,2022
+Prof. Dr. Anja Teubert,studiengangsleiter,Anja Teubert,villingen-schwenningen,2022
+Prof. Dr. Martina Wanner,studiengangsleiter,Martina Wanner,villingen-schwenningen,2022
+Elke Börnard,akademisch,Elke Börnard,villingen-schwenningen,2022
+Angelika Köhnlein-Welte,akademisch,Angelika Köhnlein-Welte,villingen-schwenningen,2022
+Ivon Madžar,akademisch,Ivon Madžar,villingen-schwenningen,2022
+Saskia Wartenberg,akademisch,Saskia Wartenberg,villingen-schwenningen,2022
+Johannes Gnauck,akademisch,Johannes Gnauck,villingen-schwenningen,2022
+Sina Schneble,akademisch,Sina Schneble,villingen-schwenningen,2022
+Prof. Dr. Steffen Arnold,studiengangsleitung,Steffen Arnold,villingen-schwenningen,2022
+Prof. Michael Hauser,prof.,Michael Hauser,villingen-schwenningen,2022
+Prof. Dr. Markus Schoor,prof.,Markus Schoor,villingen-schwenningen,2022
+Prof. Dr. Bernd Sommer,prof.,Bernd Sommer,villingen-schwenningen,2022
+Prof. Dr. Gert Heinrich,prof.,Gert Heinrich,villingen-schwenningen,2022
+Prof. Dr. Marcus Vögtle,studiengangsleiter,Marcus Vögtle,villingen-schwenningen,2022
+Prof. Dr. Martin Plag,studiengangsleiter,Martin Plag,villingen-schwenningen,2022
+Prof. Dr. Vera Döring,studiengangsleiter,Vera Döring,villingen-schwenningen,2022
+Prof. Dr. Harry Giesler,studiengangsleiter,Harry Giesler,villingen-schwenningen,2022
+Prof. Dr. Erich Klaus,studiengangsleiter,Erich Klaus,villingen-schwenningen,2022
+Prof. Dr. Lothar Wildmann,studiengangsleiter,Lothar Wildmann,villingen-schwenningen,2022
+Prof. Dr. Clive F. W. Flynn,studiengangsleiter,Clive Flynn,villingen-schwenningen,2022
+Prof. Dr.-Ing. Olaf Kreyenkamp,studiengangsleiter,Olaf Kreyenkamp,villingen-schwenningen,2022
+Prof. Dr. Sabrina Kummer,studiengangsleiter,Sabrina Kummer,villingen-schwenningen,2022
+Prof. Dr. Clemens Wangler,studiengangsleiter,Clemens Wangler,villingen-schwenningen,2022
+Prof. Dr. Paula Wellmann,studiengangsleiter,Paula Wellmann,villingen-schwenningen,2022
+Prof. Dr. Gunter Heeb,studiengangsleiter,Gunter Heeb,villingen-schwenningen,2022
+Prof. Dr. Martin Kimmig,studiengangsleiter,Martin Kimmig,villingen-schwenningen,2022
+Prof. Dr. Stefan Stoll,studiengangsleiter,Stefan Stoll,villingen-schwenningen,2022
+Prof. Dr. Christina Bark,prof.,Christina Bark,villingen-schwenningen,2022
+Prof. Dr. Ludwig M. Bauer,prof.,Ludwig Bauer,villingen-schwenningen,2022
+Prof. Dr. Nils Bedke,prof.,Nils Bedke,villingen-schwenningen,2022
+Prof. Dr. Michael Birk,prof.,Michael Birk,villingen-schwenningen,2022
+Prof. Jürgen Bleicher,prof.,Jürgen Bleicher,villingen-schwenningen,2022
+Prof. Dr. Michael Bungert,prof.,Michael Bungert,villingen-schwenningen,2022
+Prof. Dr. Markus Cordes,prof.,Markus Cordes,villingen-schwenningen,2022
+Prof. Dr. Wolfgang Disch,prof.,Wolfgang Disch,villingen-schwenningen,2022
+Prof. Dr. Petra Findeisen,prof.,Petra Findeisen,villingen-schwenningen,2022
+Prof. Dr. Wolfgang Funk,prof.,Wolfgang Funk,villingen-schwenningen,2022
+Prof. Dr. Alexander Götz,prof.,Alexander Götz,villingen-schwenningen,2022
+Prof. Dr. Aaron Leander Haußmann,prof.,Aaron Leander Haußmann,villingen-schwenningen,2022
+Prof. Dr. Thomas Häring,prof.,Thomas Häring,villingen-schwenningen,2022
+Prof. Michael Hauser,prof.,Michael Hauser,villingen-schwenningen,2022
+Prof. Dr. Wolfgang Hirschberger,prof.,Wolfgang Hirschberger,villingen-schwenningen,2022
+Prof. Dr. Michael Hudetzka,professor,Michael Hudetzka,villingen-schwenningen,2022
+Prof. Dr. Bernd Kaltenhäuser,prof.,Bernd Kaltenhäuser,villingen-schwenningen,2022
+Prof. Dr. Norbert Kratz,prof.,Norbert Kratz,villingen-schwenningen,2022
+Prof. Dr. André Kuck,prof.,André Kuck,villingen-schwenningen,2022
+Prof. Dr. Martin Lachmair,professor,Martin Lachmair,villingen-schwenningen,2022
+Prof. Dr. Martina Menne,prof.,Martina Menne,villingen-schwenningen,2022
+Prof. Dr. Anette Renz,prof.,Anette Renz,villingen-schwenningen,2022
+Prof. Dr. Simone Riedmiller,prof.,Simone Riedmiller,villingen-schwenningen,2022
+Marcella Rosenberger,akademisch,Marcella Rosenberger,villingen-schwenningen,2022
+Prof. Dr. Michael Rueß,prof.,Michael Rueß,villingen-schwenningen,2022
+Prof. Dr. Jens Siebert,prof.,Jens Siebert,villingen-schwenningen,2022
+Prof. Dr. Peter Stebel,prof.,Peter Stebel,villingen-schwenningen,2022
+Prof. Dr. Petra Stellmach,prof.,Petra Stellmach,villingen-schwenningen,2022
+Prof. Dr. Jens Siebert,prof.,Jens Siebert,villingen-schwenningen,2022
+Prof. Dr. Martin Kimmig,prof.,Martin Kimmig,villingen-schwenningen,2022
+Prof. Dr. Martina Menne,prof.,Martina Menne,villingen-schwenningen,2022
+Prof. Dr. Sabrina Kummer,prof.,Sabrina Kummer,villingen-schwenningen,2022
+Prof. Dr. Paula Wellmann,prof.,Paula Wellmann,villingen-schwenningen,2022
+Prof. Dr. Beate Blank,prof.,Beate Blank,villingen-schwenningen,2022
+Prof. Dr. Markus Schoor,prof.,Markus Schoor,villingen-schwenningen,2022
+Prof. Dr. Markus Schoor,prof.,Markus Schoor,villingen-schwenningen,2022
+Dr. Stephanie Ashford,dr.,Stephanie Ashford,villingen-schwenningen,2022
+Prof. Dr. Gunter Heeb,prof.,Gunter Heeb,villingen-schwenningen,2022
+Prof. Dr. Wolfgang Hirschberger,prof.,Wolfgang Hirschberger,villingen-schwenningen,2022
+Prof. Dr. Stefan Stoll,prof.,Stefan Stoll,villingen-schwenningen,2022
+Prof. Dr. Markus Schoor,prof.,Markus Schoor,villingen-schwenningen,2022

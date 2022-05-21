@@ -1,177 +1,174 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-"Amelingmeyer, Jenny, Prof., Dr.",,Jenny Amelingmeyer,mannheim
-"Arzberger, Michael, Prof. Dr.",,Michael Arzberger,mannheim
-"Balling, Stephan, Dr.",,Stephan Balling,mannheim
-"Bauer, Jan Owe",Wissenschaftlicher Mitarbeiter,Jan Owe Bauer,mannheim
-"Bauer, Johannes, Prof. Dr.-Ing.",,Johannes Bauer,mannheim
-"Baumgart, Jörg, Prof. Dr.-Ing.",,Jörg Baumgart,mannheim
-"Bay, Katja, Dr.",,Katja Bay,mannheim
-"Bayreuther, Konstantin, Prof. Dr.-Ing.",,Konstantin Bayreuther,mannheim
-"Becher, Kai, Prof. Dr.",,Kai Becher,mannheim
-"Becker, Ralph, Dr.",,Ralph Becker,mannheim
-"Beckmann, Carl-Christian, Prof. Dr.",,Carl-Christian Beckmann,mannheim
-"Bendl, Harald, Prof. Dr.",,Harald Bendl,mannheim
-"Bennemann, Kerstin, Prof. Dr.",,Kerstin Bennemann,mannheim
-"Berthold, Walter, Prof. Dr.",,Walter Berthold,mannheim
-"Beverungen, Johannes, Prof. Dr.",,Johannes Beverungen,mannheim
-"Boll, Michaela, Prof. Dr.",,Michaela Boll,mannheim
-"Bordt, Marcel",Akademischer Mitarbeiter BWL - Gesundheitsmanagement,Marcel Bordt,mannheim
-"Botz, Martin, Prof. Dr.",,Martin Botz,mannheim
-"Bozkurt, Hulusi, Prof. Dr.",,Hulusi Bozkurt,mannheim
-"Brandenburger, Markus, Prof. Dr.",,Markus Brandenburger,mannheim
-"Brumby, Lennart, Prof. Dr.",,Lennart Brumby,mannheim
-"Buhleier, Marianne, Prof. Dr.",,Marianne Buhleier,mannheim
-"Bühler, Denise, Dipl.-Verww. (FH)","Personalwesen Professor*innen Wirtschaft L-Z, Teamleitung Arbeitszeit - Fachbereich Personal",Denise Bühler,mannheim
-"Chadwick, Eric",Akademischer Mitarbeiter Maschinenbau,Eric Chadwick,mannheim
-"Chammout, Aiman, Prof. Dr.",,Aiman Chammout,mannheim
-"Corsten, Martina, Prof. Dr.",,Martina Corsten,mannheim
-"Daum, Ralf, Prof. Dr.",,Ralf Daum,mannheim
-"Diehl, Fee","Administration, Sachbearbeitung studentische und wissenschaftliche Hilfskräfte, Teamassistenz - Fachbereich Personal",Fee Diehl,mannheim
-"Dinkel, Michael, Prof. Dr.",,Michael Dinkel,mannheim
-"Drabant, Bernhard, Prof. Dr.",,Bernhard Drabant,mannheim
-"Dunz, Alexandra, Prof. Dr.",,Alexandra Dunz,mannheim
-"Ebeling, Frank, Prof. Dr.",,Frank Ebeling,mannheim
-"Ermschel, Ulrich, Prof. Dr.",,Ulrich Ermschel,mannheim
-"Ewald, Michael",Akademischer Mitarbeiter Education Support Center,Michael Ewald,mannheim
-"Finkel, Ariana, Prof. Dr.",,Ariana Finkel,mannheim
-"Focke, Kai, Prof. Dr.",,Kai Focke,mannheim
-"Führer, Christian, Prof. Dr.",,Christian Führer,mannheim
-"Gamber, Thilo, Prof. Dr.",,Thilo Gamber,mannheim
-"Gerhards, Holger, Prof. Dr.",,Holger Gerhards,mannheim
-"Gerhards, Ralf, Prof. Dr.",,Ralf Gerhards,mannheim
-"Gölz-Weis, Hanna, Dr.",,Hanna Gölz-Weis,mannheim
-"Günther, Tobias, Prof. Dr.",,Tobias Günther,mannheim
-"Gutiérrez Landa, Izaskun, Prof. Dr.",,Izaskun Gutiérrez Landa,mannheim
-"Hansch, Julia, Prof. Dr.",,Julia Hansch,mannheim
-"Harbrücker, Ulrich, Prof. Dr.",,Ulrich Harbrücker,mannheim
-"Hartmann, Harald, Prof. Dr.",,Harald Hartmann,mannheim
-"Heilig, Clemens, Prof. Dr.",,Clemens Heilig,mannheim
-"Heinrich, Roman",Akademischer Mitarbeiter,Roman Heinrich,mannheim
-"Heintz, Rüdiger, Prof. Dr.",,Rüdiger Heintz,mannheim
-"Heng, Stefan, Prof. Dr.",,Stefan Heng,mannheim
-"Hennig, Alexander, Prof. Dr.",,Alexander Hennig,mannheim
-"Hermann-Schölles, Angela",Akademische Mitarbeiterin Chemische Technik,Angela Hermann-Schölles,mannheim
-"Hilbert, Stefan, Prof.",,Stefan Hilbert,mannheim
-"Hoch, Rainer, Prof. Dr.",,Rainer Hoch,mannheim
-"Hofmann, Holger, Prof. Dr.",,Holger Hofmann,mannheim
-"Hohenstein, Nils-Ole, Prof. Dr.",,Nils-Ole Hohenstein,mannheim
-"Holey, Thomas, Prof. Dr.",,Thomas Holey,mannheim
-"Holschuh, Kai, Prof. Dr.",,Kai Holschuh,mannheim
-"Honal, Andrea, Prof. Dr.",,Andrea Honal,mannheim
-"Hörer, Oliver, Prof. Dr.",,Oliver Hörer,mannheim
-"Hubert, Frank, Prof. Dr.",,Frank Hubert,mannheim
-"Hübl, Reinhold, Prof. Dr.",,Reinhold Hübl,mannheim
-"Huckenbeck, Ulrich, Dr.",,Ulrich Huckenbeck,mannheim
-"Hümmer, Matthias, Prof. Dr.",,Matthias Hümmer,mannheim
-"Jacobsen, Hendrik, Prof. Dr.",,Hendrik Jacobsen,mannheim
-"Jedem-Kury, Ulrike, Prof., Dr.",,Ulrike Jedem-Kury,mannheim
-"Jeske, Klaus-Jürgen, Prof. Dr.",,Klaus-Jürgen Jeske,mannheim
-"Jonen, Andreas, Prof. Dr.",,Andreas Jonen,mannheim
-"Jordan-Kunert, Jennifer, Prof. Dr.",,Jennifer Jordan-Kunert,mannheim
-"Kastor, Michael, Prof. Dr.",,Michael Kastor,mannheim
-"Kilthau, Andreas, Prof. Dr.",,Andreas Kilthau,mannheim
-"Klein, Werner, Prof. Dr.",,Werner Klein,mannheim
-"Klenk, Thomas, Prof. Dr.",,Thomas Klenk,mannheim
-"Kölbl, Kathrin, Prof.",,Kathrin Kölbl,mannheim
-"König, Verena, Prof. Dr.",,Verena König,mannheim
-"König, Verena, Prof. Dr.",,Verena König,mannheim
-"Kornmayer, Harald, Prof. Dr.",,Harald Kornmayer,mannheim
-"Kornmeier, Martin, Prof. Dr.",,Martin Kornmeier,mannheim
-"Koslowski, Frank, Prof. Dr.",,Frank Koslowski,mannheim
-"Krcal, Hans-Christian, Prof. Dr.",,Hans-Christian Krcal,mannheim
-"Krug, Simone, Prof. Dr.",,Simone Krug,mannheim
-"Kruse, Eckhard, Prof. Dr.",,Eckhard Kruse,mannheim
-"Kubach, René",Akademischer Mitarbeiter BWL - Öffentliche Wirtschaft/Verwaltungswirtschaft,René Kubach,mannheim
-"Kuhlmann, Thorsten, B.A.","Personalwesen Professor*innen Wirtschaft A-K, Stellenbewertung - Fachbereich Personal",Thorsten Kuhlmann,mannheim
-"Kwasniok, Sascha, Prof. Dr.",,Sascha Kwasniok,mannheim
-"Lamek-Creutz, Bozena, Prof. Dr.-Ing.",,Bozena Lamek-Creutz,mannheim
-"Land, Beate, Prof. Dr.",,Beate Land,mannheim
-"Lanninger, Volker, Prof. Dr.",,Volker Lanninger,mannheim
-"Lembke, Gerald, Prof. Dr.",,Gerald Lembke,mannheim
-"Litzenberger, Rolf, Prof. Dr.",,Rolf Litzenberger,mannheim
-"Mahn, Bernd, Prof. Dr.",,Bernd Mahn,mannheim
-"Maier, Björn, Prof. Dr.",,Björn Maier,mannheim
-"Malinski, Peter, Prof. Dr.",,Peter Malinski,mannheim
-"Martin, Helena",Akademische Mitarbeiterin ZEEB,Helena Martin,mannheim
-"Martin, Clemens, Prof. Dr.-Ing.",,Clemens Martin,mannheim
-"Matt, Michael, Prof. Dr.",,Michael Matt,mannheim
-"Meier, Alexander, Prof. Dr.",,Alexander Meier,mannheim
-"Meier, Victor, Prof. Dr.",,Victor Meier,mannheim
-"Meissner, Hans, Prof. Dr.",,Hans Meissner,mannheim
-"Melzer-Ridinger, Ruth, Prof. Dr.",,Ruth Melzer-Ridinger,mannheim
-"Mkrtchyan, Lilit, Prof. Dr.",,Lilit Mkrtchyan,mannheim
-"Möhring, Nicole, Prof. Dr.",,Nicole Möhring,mannheim
-"Moroff, Gerhard, Prof. Dr.",,Gerhard Moroff,mannheim
-"Mroczek, Eva, Dr.",,Eva Mroczek,mannheim
-"Mühlhan, Claus, Prof. Dr.-Ing.",,Claus Mühlhan,mannheim
-"Müller, Alisa",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Alisa Müller,mannheim
-"Nagler, Georg, Prof. Dr.",,Georg Nagler,mannheim
-"Nehm, Alexander, Prof. Dr.",,Alexander Nehm,mannheim
-"Nitsch, Harald, Prof. Dr.",,Harald Nitsch,mannheim
-"Nolte, Cornelius, Prof. Dr.",,Cornelius Nolte,mannheim
-"Obermayr, David",Akademischer Mitarbeiter ZeMath,David Obermayr,mannheim
-"Ostermayer, Dirk, Prof. Dr.-Ing.",,Dirk Ostermayer,mannheim
-"Pagnia, Nicole",Akademische Mitarbeiterin ZEEB,Nicole Pagnia,mannheim
-"Pagnia, Hans-Henning, Prof. Dr.",,Hans-Henning Pagnia,mannheim
-"Paul, Christopher, Prof. Dr.",,Christopher Paul,mannheim
-"Peterfi, Marc",Akademischer Mitarbeiter ZeMath,Marc Peterfi,mannheim
-"Pfisterer, Dennis, Prof. Dr.-Ing.",,Dennis Pfisterer,mannheim
-"Pock, von, Michael, Prof. Dr.",,von Pock,mannheim
-"Preiser, Konrad, Prof. Dr.",,Konrad Preiser,mannheim
-"Priesnitz, Joachim, Prof. Dr.",,Joachim Priesnitz,mannheim
-"Rech, Nicole","Personalwesen Angestellte Bibliothek und Hochschulkommunikation, Professor*innen Fakultät Technik, Team Arbeitszeit - techn. Systembetreuung - Fachbereich Personal",Nicole Rech,mannheim
-"Redelius, Jürgen, Prof. Dr.",,Jürgen Redelius,mannheim
-"Reitermann, Tanja","Administration, Sachbearbeitung studentische und wissenschaftliche Hilfskräfte, Teamassistenz - Fachbereich Personal",Tanja Reitermann,mannheim
-"Reker, Christoph, Prof. Dr.",,Christoph Reker,mannheim
-"Ritterbusch, Sebastian, Prof. Dr.",,Sebastian Ritterbusch,mannheim
-"Rutesic, Petko, M.Sc.",Wissenschaftlicher Mitarbeiter,Petko Rutesic,mannheim
-"Sauter, Lisa",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Lisa Sauter,mannheim
-"Schael, Arndt-Erik, Prof. Dr.",,Arndt-Erik Schael,mannheim
-"Schäfer, Christian Hans, Prof. Dr.",,Christian Hans Schäfer,mannheim
-"Scheel, Michael, Prof. Dr.",,Michael Scheel,mannheim
-"Scherer, Maximilian, Prof. Dr.",,Maximilian Scherer,mannheim
-"Schief, Markus, Prof. Dr.",,Markus Schief,mannheim
-"Schirl, Thomas, Prof. Dr.",,Thomas Schirl,mannheim
-"Schlottmann, Norbert, Prof.",,Norbert Schlottmann,mannheim
-"Schmitz, Sven, Prof. Dr.",,Sven Schmitz,mannheim
-"Schneider, Christoffer, Prof. Dr.",,Christoffer Schneider,mannheim
-"Schneider, Michael, Prof. Dr.",,Michael Schneider,mannheim
-"Schneider, Willy, Prof. Dr.",,Willy Schneider,mannheim
-"Schneider, Julia",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Julia Schneider,mannheim
-"Schorer, Linda, M. Eng.",Akademische Mitarbeiterin,Linda Schorer,mannheim
-"Schröder, Michael, Prof. Dr.",,Michael Schröder,mannheim
-"Schröer, Carsten, Prof. Dr.",,Carsten Schröer,mannheim
-"Schubert, Lars, Prof. Dr.",,Lars Schubert,mannheim
-"Schulz, Volker, Prof. Dr.",,Volker Schulz,mannheim
-"Schumacher, Kira, Prof. Dr.",,Kira Schumacher,mannheim
-"Schuster, Thomas, Prof. Dr.",,Thomas Schuster,mannheim
-"Seidel, Carsten, Prof. Dr.",,Carsten Seidel,mannheim
-"Sendler-Kortenkamp, Liliana, Dr.",,Liliana Sendler-Kortenkamp,mannheim
-"Sobirey, Frank, Prof. Dr.",,Frank Sobirey,mannheim
-"Stanske, Christian, Prof.",,Christian Stanske,mannheim
-"Staub, Sarah, Prof. Dr.-Ing.",,Sarah Staub,mannheim
-"Stepanel, Natalja",Akademische Mitarbeiterin WI - E-Health,Natalja Stepanel,mannheim
-"Steurer, Vivian",Akademische Mitarbeiterin WI - E-Health,Vivian Steurer,mannheim
-"Stroetmann, Karl, Prof. Dr.",,Karl Stroetmann,mannheim
-"Stützer, Michael, Prof. Dr.",,Michael Stützer,mannheim
-"Sudermann-Merx, Nathan, Prof. Dr.",,Nathan Sudermann-Merx,mannheim
-"Teichmann, Michael, Prof. Dr.",,Michael Teichmann,mannheim
-"Thalmeier, Petra, Prof. Dr.",,Petra Thalmeier,mannheim
-"Tornow, Kai",Akademischer Mitarbeiter Elektromobilität,Kai Tornow,mannheim
-"Toth, Alexandra",Akademische Mitarbeiterin Education Support Center,Alexandra Toth,mannheim
-"Ullmann, Michael, Prof. Dr.",,Michael Ullmann,mannheim
-"Vesali, Alireza, Prof. Dr.-Ing.",,Alireza Vesali,mannheim
-"Vogt, Jan Günther, Prof. Dr.-Ing.",,Jan Günther Vogt,mannheim
-"Vogt, Jonas, Prof. Dr.",,Jonas Vogt,mannheim
-"Voigt, Sebastian, Dr.",,Sebastian Voigt,mannheim
-"Voß, Markus, Prof. Dr.",,Markus Voß,mannheim
-"Vranckx, Christian, Prof. Dr.",,Christian Vranckx,mannheim
-"Vu, Bernhard, Dr.",,Bernhard Vu,mannheim
-"Wannenwetsch, Helmut, Prof. Dr.",,Helmut Wannenwetsch,mannheim
-"Weigel, Miriam, Dr.",,Miriam Weigel,mannheim
-"Weinland, Lothar, Prof. Dr.",,Lothar Weinland,mannheim
-"Werling, Stefan, Prof. Dr.",,Stefan Werling,mannheim
-"Werner, Bernd, Prof. Dr.",,Bernd Werner,mannheim
-"Wiedemann, Armin, Prof. Dr.",,Armin Wiedemann,mannheim
-"Wolf, Bernhard, Prof.",,Bernhard Wolf,mannheim
-"Wolff, Frank, Prof. Dr.",,Frank Wolff,mannheim
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+"Amelingmeyer, Jenny, Prof., Dr.",professor,Jenny Amelingmeyer,mannheim,2022
+"Arzberger, Michael, Prof. Dr.",professor,Michael Arzberger,mannheim,2022
+"Balling, Stephan, Dr.",professor,Stephan Balling,mannheim,2022
+"Bauer, Jan Owe",wissenschaftlich,Jan Owe Bauer,mannheim,2022
+"Bauer, Johannes, Prof. Dr.-Ing.",professor,Johannes Bauer,mannheim,2022
+"Baumgart, Jörg, Prof. Dr.-Ing.",professor,Jörg Baumgart,mannheim,2022
+"Bay, Katja, Dr.",dr.,Katja Bay,mannheim,2022
+"Bayer, Emanuel, Prof. Dr.",professor,Emanuel Bayer,mannheim,2022
+"Bayreuther, Konstantin, Prof. Dr.-Ing.",professor,Konstantin Bayreuther,mannheim,2022
+"Becher, Kai, Prof. Dr.",professor,Kai Becher,mannheim,2022
+"Becker, Ralph, Dr.",professor,Ralph Becker,mannheim,2022
+"Beckmann, Carl-Christian, Prof. Dr.",professor,Carl-Christian Beckmann,mannheim,2022
+"Bendl, Harald, Prof. Dr.",professor,Harald Bendl,mannheim,2022
+"Bennemann, Kerstin, Prof. Dr.",wissenschaftlich,Kerstin Bennemann,mannheim,2022
+"Berthold, Walter, Prof. Dr.",professor,Walter Berthold,mannheim,2022
+"Beverungen, Johannes, Prof. Dr.",professor,Johannes Beverungen,mannheim,2022
+"Boll, Michaela, Prof. Dr.",professor,Michaela Boll,mannheim,2022
+"Bordt, Marcel",akademisch,Marcel Bordt,mannheim,2022
+"Botz, Martin, Prof. Dr.",professor,Martin Botz,mannheim,2022
+"Bozkurt, Hulusi, Prof. Dr.",professor,Hulusi Bozkurt,mannheim,2022
+"Brandenburger, Markus, Prof. Dr.",professor,Markus Brandenburger,mannheim,2022
+"Brumby, Lennart, Prof. Dr.",studiengangsleiter,Lennart Brumby,mannheim,2022
+"Buhleier, Marianne, Prof. Dr.",professor,Marianne Buhleier,mannheim,2022
+"Bühler, Denise, Dipl.-Verww. (FH)",professor,Denise Bühler,mannheim,2022
+"Chadwick, Eric",akademisch,Eric Chadwick,mannheim,2022
+"Chammout, Aiman, Prof. Dr.",professor,Aiman Chammout,mannheim,2022
+"Corsten, Martina, Prof. Dr.",professor,Martina Corsten,mannheim,2022
+"Daum, Ralf, Prof. Dr.",professor,Ralf Daum,mannheim,2022
+"Diehl, Fee",wissenschaftlich,Fee Diehl,mannheim,2022
+"Dinkel, Michael, Prof. Dr.",professor,Michael Dinkel,mannheim,2022
+"Drabant, Bernhard, Prof. Dr.",professor,Bernhard Drabant,mannheim,2022
+"Dunz, Alexandra, Prof. Dr.",professor,Alexandra Dunz,mannheim,2022
+"Ebeling, Frank, Prof. Dr.",professor,Frank Ebeling,mannheim,2022
+"Ermschel, Ulrich, Prof. Dr.",professor,Ulrich Ermschel,mannheim,2022
+"Finkel, Ariana, Prof. Dr.",professor,Ariana Finkel,mannheim,2022
+"Focke, Kai, Prof. Dr.",professor,Kai Focke,mannheim,2022
+"Führer, Christian, Prof. Dr.",professor,Christian Führer,mannheim,2022
+"Gamber, Thilo, Prof. Dr.",professor,Thilo Gamber,mannheim,2022
+"Gerhards, Holger, Prof. Dr.",professor,Holger Gerhards,mannheim,2022
+"Gerhards, Ralf, Prof. Dr.",professor,Ralf Gerhards,mannheim,2022
+"Gölz-Weis, Hanna, Dr.",dr.,Hanna Gölz-Weis,mannheim,2022
+"Günther, Tobias, Prof. Dr.",professor,Tobias Günther,mannheim,2022
+"Gutiérrez Landa, Izaskun, Prof. Dr.",professor,Izaskun Gutiérrez Landa,mannheim,2022
+"Hansch, Julia, Prof. Dr.",professor,Julia Hansch,mannheim,2022
+"Harbrücker, Ulrich, Prof. Dr.",professor,Ulrich Harbrücker,mannheim,2022
+"Hartmann, Harald, Prof. Dr.",professor,Harald Hartmann,mannheim,2022
+"Heilig, Clemens, Prof. Dr.",professor,Clemens Heilig,mannheim,2022
+"Heinrich, Roman",akademisch,Roman Heinrich,mannheim,2022
+"Heintz, Rüdiger, Prof. Dr.",professor,Rüdiger Heintz,mannheim,2022
+"Heng, Stefan, Prof. Dr.",professor,Stefan Heng,mannheim,2022
+"Hennig, Alexander, Prof. Dr.",professor,Alexander Hennig,mannheim,2022
+"Hermann-Schölles, Angela",akademisch,Angela Hermann-Schölles,mannheim,2022
+"Hilbert, Stefan, Prof.",professor,Stefan Hilbert,mannheim,2022
+"Hoch, Rainer, Prof. Dr.",professor,Rainer Hoch,mannheim,2022
+"Hofmann, Holger, Prof. Dr.",professor,Holger Hofmann,mannheim,2022
+"Hohenstein, Nils-Ole, Prof. Dr.",professor,Nils-Ole Hohenstein,mannheim,2022
+"Holey, Thomas, Prof. Dr.",professor,Thomas Holey,mannheim,2022
+"Holschuh, Kai, Prof. Dr.",professor,Kai Holschuh,mannheim,2022
+"Honal, Andrea, Prof. Dr.",professor,Andrea Honal,mannheim,2022
+"Hörer, Oliver, Prof. Dr.",professor,Oliver Hörer,mannheim,2022
+"Hubert, Frank, Prof. Dr.",professor,Frank Hubert,mannheim,2022
+"Hübl, Reinhold, Prof. Dr.",professor,Reinhold Hübl,mannheim,2022
+"Hümmer, Matthias, Prof. Dr.",professor,Matthias Hümmer,mannheim,2022
+"Jacobsen, Hendrik, Prof. Dr.",professor,Hendrik Jacobsen,mannheim,2022
+"Jedem-Kury, Ulrike, Prof., Dr.",professor,Ulrike Jedem-Kury,mannheim,2022
+"Jeske, Klaus-Jürgen, Prof. Dr.",professor,Klaus-Jürgen Jeske,mannheim,2022
+"Jonen, Andreas, Prof. Dr.",professor,Andreas Jonen,mannheim,2022
+"Jordan-Kunert, Jennifer, Prof. Dr.",professor,Jennifer Jordan-Kunert,mannheim,2022
+"Kastor, Michael, Prof. Dr.",professor,Michael Kastor,mannheim,2022
+"Kilthau, Andreas, Prof. Dr.",professor,Andreas Kilthau,mannheim,2022
+"Klein, Werner, Prof. Dr.",professor,Werner Klein,mannheim,2022
+"Klenk, Thomas, Prof. Dr.",professor,Thomas Klenk,mannheim,2022
+"Kölbl, Kathrin, Prof.",professor,Kathrin Kölbl,mannheim,2022
+"König, Verena, Prof. Dr.",akademisch,Verena König,mannheim,2022
+"König, Verena, Prof. Dr.",akademisch,Verena König,mannheim,2022
+"Kornmayer, Harald, Prof. Dr.",professor,Harald Kornmayer,mannheim,2022
+"Kornmeier, Martin, Prof. Dr.",professor,Martin Kornmeier,mannheim,2022
+"Koslowski, Frank, Prof. Dr.",professor,Frank Koslowski,mannheim,2022
+"Krcal, Hans-Christian, Prof. Dr.",professor,Hans-Christian Krcal,mannheim,2022
+"Krug, Simone, Prof. Dr.",professor,Simone Krug,mannheim,2022
+"Kruse, Eckhard, Prof. Dr.",professor,Eckhard Kruse,mannheim,2022
+"Kubach, René",akademisch,René Kubach,mannheim,2022
+"Kuhlmann, Thorsten, B.A.",professor,Thorsten Kuhlmann,mannheim,2022
+"Kwasniok, Sascha, Prof. Dr.",professor,Sascha Kwasniok,mannheim,2022
+"Lamek-Creutz, Bozena, Prof. Dr.-Ing.",professor,Bozena Lamek-Creutz,mannheim,2022
+"Land, Beate, Prof. Dr.",professor,Beate Land,mannheim,2022
+"Lanninger, Volker, Prof. Dr.",professor,Volker Lanninger,mannheim,2022
+"Lembke, Gerald, Prof. Dr.",professor,Gerald Lembke,mannheim,2022
+"Litzenberger, Rolf, Prof. Dr.",professor,Rolf Litzenberger,mannheim,2022
+"Mahn, Bernd, Prof. Dr.",professor,Bernd Mahn,mannheim,2022
+"Maier, Björn, Prof. Dr.",professor,Björn Maier,mannheim,2022
+"Malinski, Peter, Prof. Dr.",professor,Peter Malinski,mannheim,2022
+"Martin, Helena",akademisch,Helena Martin,mannheim,2022
+"Martin, Clemens, Prof. Dr.-Ing.",professor,Clemens Martin,mannheim,2022
+"Matt, Michael, Prof. Dr.",professor,Michael Matt,mannheim,2022
+"Meier, Alexander, Prof. Dr.",professor,Alexander Meier,mannheim,2022
+"Meier, Victor, Prof. Dr.",professor,Victor Meier,mannheim,2022
+"Meissner, Hans, Prof. Dr.",professor,Hans Meissner,mannheim,2022
+"Mkrtchyan, Lilit, Prof. Dr.",professor,Lilit Mkrtchyan,mannheim,2022
+"Moessinger, Marc-Daniel, Prof. Dr.",professor,Marc-Daniel Moessinger,mannheim,2022
+"Möhring, Nicole, Prof. Dr.",professor,Nicole Möhring,mannheim,2022
+"Moroff, Gerhard, Prof. Dr.",professor,Gerhard Moroff,mannheim,2022
+"Mroczek, Eva, Dr.",dr.,Eva Mroczek,mannheim,2022
+"Mühlhan, Claus, Prof. Dr.-Ing.",professor,Claus Mühlhan,mannheim,2022
+"Müller, Alisa",akademisch,Alisa Müller,mannheim,2022
+"Nagler, Georg, Prof. Dr.",prof.,Georg Nagler,mannheim,2022
+"Nehm, Alexander, Prof. Dr.",professor,Alexander Nehm,mannheim,2022
+"Nitsch, Harald, Prof. Dr.",professor,Harald Nitsch,mannheim,2022
+"Nolte, Cornelius, Prof. Dr.",professor,Cornelius Nolte,mannheim,2022
+"Obermayr, David",akademisch,David Obermayr,mannheim,2022
+"Ostermayer, Dirk, Prof. Dr.-Ing.",professor,Dirk Ostermayer,mannheim,2022
+"Pagnia, Nicole",akademisch,Nicole Pagnia,mannheim,2022
+"Pagnia, Hans-Henning, Prof. Dr.",professor,Hans-Henning Pagnia,mannheim,2022
+"Paul, Christopher, Prof. Dr.",professor,Christopher Paul,mannheim,2022
+"Peterfi, Marc",akademisch,Marc Peterfi,mannheim,2022
+"Pfisterer, Dennis, Prof. Dr.-Ing.",professor,Dennis Pfisterer,mannheim,2022
+"Pock, von, Michael, Prof. Dr.",professor,von Pock,mannheim,2022
+"Preiser, Konrad, Prof. Dr.",professor,Konrad Preiser,mannheim,2022
+"Priesnitz, Joachim, Prof. Dr.",professor,Joachim Priesnitz,mannheim,2022
+"Rech, Nicole",professor,Nicole Rech,mannheim,2022
+"Redelius, Jürgen, Prof. Dr.",professor,Jürgen Redelius,mannheim,2022
+"Reitermann, Tanja",wissenschaftlich,Tanja Reitermann,mannheim,2022
+"Reker, Christoph, Prof. Dr.",professor,Christoph Reker,mannheim,2022
+"Ritterbusch, Sebastian, Prof. Dr.",professor,Sebastian Ritterbusch,mannheim,2022
+"Rutesic, Petko, M.Sc.",wissenschaftlich,Petko Rutesic,mannheim,2022
+"Sauter, Lisa",akademisch,Lisa Sauter,mannheim,2022
+"Schael, Arndt-Erik, Prof. Dr.",professor,Arndt-Erik Schael,mannheim,2022
+"Schäfer, Christian Hans, Prof. Dr.",professor,Christian Hans Schäfer,mannheim,2022
+"Scheel, Michael, Prof. Dr.",professor,Michael Scheel,mannheim,2022
+"Scherer, Maximilian, Prof. Dr.",professor,Maximilian Scherer,mannheim,2022
+"Schief, Markus, Prof. Dr.",professor,Markus Schief,mannheim,2022
+"Schirl, Thomas, Prof. Dr.",professor,Thomas Schirl,mannheim,2022
+"Schlottmann, Norbert, Prof.",professor,Norbert Schlottmann,mannheim,2022
+"Schmitz, Sven, Prof. Dr.",professor,Sven Schmitz,mannheim,2022
+"Schneider, Christoffer, Prof. Dr.",professor,Christoffer Schneider,mannheim,2022
+"Schneider, Michael, Prof. Dr.",professor,Michael Schneider,mannheim,2022
+"Schneider, Willy, Prof. Dr.",professor,Willy Schneider,mannheim,2022
+"Schorer, Linda, M. Eng.",akademisch,Linda Schorer,mannheim,2022
+"Schröder, Michael, Prof. Dr.",professor,Michael Schröder,mannheim,2022
+"Schröer, Carsten, Prof. Dr.",professor,Carsten Schröer,mannheim,2022
+"Schubert, Lars, Prof. Dr.",professor,Lars Schubert,mannheim,2022
+"Schulz, Volker, Prof. Dr.",professor,Volker Schulz,mannheim,2022
+"Schumacher, Kira, Prof. Dr.",professor,Kira Schumacher,mannheim,2022
+"Schuster, Thomas, Prof. Dr.",professor,Thomas Schuster,mannheim,2022
+"Seidel, Carsten, Prof. Dr.",professor,Carsten Seidel,mannheim,2022
+"Sendler-Kortenkamp, Liliana, Dr.",dr.,Liliana Sendler-Kortenkamp,mannheim,2022
+"Sobirey, Frank, Prof. Dr.",professor,Frank Sobirey,mannheim,2022
+"Stanske, Christian, Prof.",professor,Christian Stanske,mannheim,2022
+"Staub, Sarah, Prof. Dr.-Ing.",professor,Sarah Staub,mannheim,2022
+"Stepanel, Natalja",akademisch,Natalja Stepanel,mannheim,2022
+"Steurer, Vivian",akademisch,Vivian Steurer,mannheim,2022
+"Stroetmann, Karl, Prof. Dr.",professor,Karl Stroetmann,mannheim,2022
+"Stützer, Michael, Prof. Dr.",professor,Michael Stützer,mannheim,2022
+"Sudermann-Merx, Nathan, Prof. Dr.",professor,Nathan Sudermann-Merx,mannheim,2022
+"Teichmann, Michael, Prof. Dr.",professor,Michael Teichmann,mannheim,2022
+"Thalmeier, Petra, Prof. Dr.",professor,Petra Thalmeier,mannheim,2022
+"Tornow, Kai",akademisch,Kai Tornow,mannheim,2022
+"Ullmann, Michael, Prof. Dr.",professor,Michael Ullmann,mannheim,2022
+"Vesali, Alireza, Prof. Dr.-Ing.",professor,Alireza Vesali,mannheim,2022
+"Vogt, Jan Günther, Prof. Dr.-Ing.",professor,Jan Günther Vogt,mannheim,2022
+"Vogt, Jonas, Prof. Dr.",professor,Jonas Vogt,mannheim,2022
+"Voigt, Sebastian, Dr.",dr.,Sebastian Voigt,mannheim,2022
+"Voß, Markus, Prof. Dr.",professor,Markus Voß,mannheim,2022
+"Vranckx, Christian, Prof. Dr.",professor,Christian Vranckx,mannheim,2022
+"Vu, Bernhard, Dr.",dr.,Bernhard Vu,mannheim,2022
+"Wannenwetsch, Helmut, Prof. Dr.",professor,Helmut Wannenwetsch,mannheim,2022
+"Weigel, Miriam, Dr.",akademisch,Miriam Weigel,mannheim,2022
+"Weinland, Lothar, Prof. Dr.",professor,Lothar Weinland,mannheim,2022
+"Werling, Stefan, Prof. Dr.",professor,Stefan Werling,mannheim,2022
+"Werner, Bernd, Prof. Dr.",professor,Bernd Werner,mannheim,2022
+"Wiedemann, Armin, Prof. Dr.",professor,Armin Wiedemann,mannheim,2022
+"Wolf, Bernhard, Prof.",professor,Bernhard Wolf,mannheim,2022
+"Wolff, Frank, Prof. Dr.",professor,Frank Wolff,mannheim,2022

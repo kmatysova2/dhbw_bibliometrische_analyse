@@ -1,88 +1,89 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-"Adamy, Kevin",Akademischer Mitarbeiter BWL - Digital Business Management,Kevin Adamy,heidenheim
-"Aldinger, Lothar, Prof. Dr.-Ing.","BWL - Spedition, Transport & Logistik",Lothar Aldinger,heidenheim
-"Amerein, Bärbel, Prof. Dr.",Professorin Studiengang Kinder- und Jugendhilfe,Bärbel Amerein,heidenheim
-"Assfalg, Rolf, Prof. Dr.",Studiengangsleiter Informatik,Rolf Assfalg,heidenheim
-"Baltromejus, Marisa, Prof. Dr. oec.",BWL - Versicherung,Marisa Baltromejus,heidenheim
-"Bärwald, Andreas, Prof. Dr.",Studiengangsleiter BWL - Digital Business Management,Andreas Bärwald,heidenheim
-"Batz, Michael, Prof. Dr.",Studiengangsleiter Sozialmanagement,Michael Batz,heidenheim
-"Bendele, Léa",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen,Léa Bendele,heidenheim
-"Berninger, Sabine, Dr. -Ing.",Professorin im Studiengang Informatik,Sabine Berninger,heidenheim
-"Bierer, Martin, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau,Martin Bierer,heidenheim
-"Blessing, Nico, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau,Nico Blessing,heidenheim
-"Bombe, Sandra, Prof. Dr.",BWL - Industrie,Sandra Bombe,heidenheim
-"Bormann, Petra, Prof. Dr.-Ing.",Maschinenbau,Petra Bormann,heidenheim
-"Büchele, Stefanie",Akademische Mitarbeiterin Case Management im Sozial- und Gesundheitswesen,Stefanie Büchele,heidenheim
-"Burmeister, Jürgen, Prof. Dr.","Studiengangsleiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe",Jürgen Burmeister,heidenheim
-"Eisinger, Bernd, Prof. Dr.",Studiengangsleiter BWL - Handel,Bernd Eisinger,heidenheim
-"Falterbaum, Johannes, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe,Johannes Falterbaum,heidenheim
-"Feldt, Jochen, Prof. Dr.",BWL - Bank,Jochen Feldt,heidenheim
-"Folger, Mirjam, Dr.","Forschung, Innovation und Transfer",Mirjam Folger,heidenheim
-"Froböse, Michael, Prof. Dr.",Studiengangsleiter BWL - Marketing Management,Michael Froböse,heidenheim
-"Gramlich, Dieter, Prof. Dr.",Studiengangsleiter BWL - Bank / Head of Banking Department,Dieter Gramlich,heidenheim
-"Grinblat, Roman, Prof. Dr.",Professor Studiengang Sozialmanagement,Roman Grinblat,heidenheim
-"Gründer, René, Prof. Dr.",Soziale Arbeit,René Gründer,heidenheim
-"Hänisch, Till, Prof. Dipl.-Phys.",Studiengangsleiter Informatik,Till Hänisch,heidenheim
-"Hascher, Hansgert, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen,Hansgert Hascher,heidenheim
-"Hebestreit, Carsten, Prof. Dr.",BWL - Handel,Carsten Hebestreit,heidenheim
-"Helmer-Denzel, Andrea, Prof. Dr.",Studiengangsleiterin Case Management im Sozial- und Gesundheitswesen,Andrea Helmer-Denzel,heidenheim
-"Henle, Ramona Lucy",Akademische Mitarbeiterin Wirtschaftsingenieurwesen,Ramona Lucy Henle,heidenheim
-"Hilp, Jürgen, Prof. Dr.",Studiengangsleiter BWL - Versicherung,Jürgen Hilp,heidenheim
-"Hoffmann, Elvira, Prof. Dr.",Studiengangsleiterin Angewandte Hebammenwissenschaft,Elvira Hoffmann,heidenheim
-"Hoffmann, Marcus, Prof. Dr.",Prorektor,Marcus Hoffmann,heidenheim
-"Hofweber, Peter, Prof. Dr.",Studiengangsleiter BWL - Industrie,Peter Hofweber,heidenheim
-"Höger, Stephanie, Prof. Dr.",Sozialmanagement,Stephanie Höger,heidenheim
-"Holz, Rüdiger, Dr.",Professurvertretung,Rüdiger Holz,heidenheim
-"Huestegge, Sujata, Prof. Dr. rer. nat.",Studiengangsleiterin Interprofessionelle Gesundheitsversorgung,Sujata Huestegge,heidenheim
-"Jozsa, Anita",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Anita Jozsa,heidenheim
-"Jusic, Hanifa, Prof. Dr.",Studiengangsleiterin BWL - Industrie,Hanifa Jusic,heidenheim
-"Kiesel, Rainer, Prof. Dr.-Ing.",Maschinenbau,Rainer Kiesel,heidenheim
-"Klisch, Sina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Sina Klisch,heidenheim
-"Kolb, Alexander, Prof. Dr.-Ing.",Professor Fakultät Wirtschaft,Alexander Kolb,heidenheim
-"Kühlmuß, Bernd, Prof. Dr.",Professor für Gesundheitswissenschaften,Bernd Kühlmuß,heidenheim
-"Leykauf, Gerhard, Prof. Dr.",Studiengangsleiter BWL - Handel,Gerhard Leykauf,heidenheim
-"Lohmann, Florian, Prof. Dr.",Studiengangsleiter BWL - Bank,Florian Lohmann,heidenheim
-"Löhr, Karsten, Prof. Dr.",Wirtschaftsingenieurwesen,Karsten Löhr,heidenheim
-"Mahr, Andreas, Prof. Dr.",Prorektor,Andreas Mahr,heidenheim
-"Maier, Simone, Prof. Dr.",Studiengangsleiterin BWL - International Business,Simone Maier,heidenheim
-"Martinez Marquez, Luis Roberto",Akademischer Mitarbeiter Projekt ZIM - DARC 1000,Luis Roberto Martinez Marquez,heidenheim
-"Minges, Roland, Prof. Dr.-Ing.",Studiengangsleiter Maschinenbau,Roland Minges,heidenheim
-"Möbs, Sabine, Prof. Dr.",BWL - Digital Business Management,Sabine Möbs,heidenheim
-"Nandi, Gerrit, Prof. Dr.",Studiengangsleiter Wirtschaftsingenieurwesen,Gerrit Nandi,heidenheim
-"Neidlinger, Thomas, Prof. Dr.-Ing.",Informatik,Thomas Neidlinger,heidenheim
-"Oberle, Christina",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Christina Oberle,heidenheim
-"Piechnik, Lara, B. Sc.",Akademische Mitarbeiterin Studienfeld Gesundheit,Lara Piechnik,heidenheim
-"Przybilla, Rüdiger, Prof. Dr.",BWL - Industrie,Rüdiger Przybilla,heidenheim
-"Przywara, Rainer, Prof. Dr.-Ing. Dr.",Rektor,Rainer Przywara,heidenheim
-"Reichstein, Christopher, Dr.",Referent des Rektorats,Christopher Reichstein,heidenheim
-"Reiff, Georg","Akademischer Mitarbeiter Soziale Dienste der Jugend-, Sozial- und Familienhilfe",Georg Reiff,heidenheim
-"Rief, Alexander, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik",Alexander Rief,heidenheim
-"Romanowski-Kirchner, Christopher, Prof. Dr.",Studiengangsleiter Kinder- und Jugendhilfe,Christopher Romanowski-Kirchner,heidenheim
-"Rupp, Klaus-Dieter, Prof. Dr.-Ing.",Studiengangsleiter Wirtschaftsingenieurwesen,Klaus-Dieter Rupp,heidenheim
-"Sager, Britta",Akademische Mitarbeiterin Angewandte Hebammenwissenschaft,Britta Sager,heidenheim
-"Sailer, Marcel, Prof. Dr.",Studiengangsleiter Angewandte Gesundheits- und Pflegewissenschaften,Marcel Sailer,heidenheim
-"Sakowski, Klaus, Prof. Dr.",Professor BWL - Marketing Management,Klaus Sakowski,heidenheim
-"Schenk, Gerald, Prof. Dr.",Studiengangsleiter BWL - Industrie,Gerald Schenk,heidenheim
-"Schiess, Holger Florian, Prof. Dr.",BWL - Handel,Holger Florian Schiess,heidenheim
-"Schinko, Norbert, Prof. Dr.-Ing.",Maschinenbau,Norbert Schinko,heidenheim
-"Schliewe, Jana, Dr.",Leiterin Servicezentrum für Studium und Lehre,Jana Schliewe,heidenheim
-"Schlund, Manfred, Prof. Dr.",Professor Studiengang Sozialmanagement,Manfred Schlund,heidenheim
-"Schütz, Franziska",Akademische Mitarbeiterin Informatik,Franziska Schütz,heidenheim
-"Schweim, Dirk, Prof. Dr.",Professor Studiengang Wirtschaftsinformatik,Dirk Schweim,heidenheim
-"Seitz, Jürgen, Prof. Dr.",Studiengangsleiter Wirtschaftsinformatik,Jürgen Seitz,heidenheim
-"Shidende, Deogratias",Akademischer Mitarbeiter BWL - Digital Business Management,Deogratias Shidende,heidenheim
-"Sinn, Juliane, Dr.",Professurvertretung,Juliane Sinn,heidenheim
-"Speer, Sigrid",Akademische Mitarbeiterin BWL - Digital Business Management,Sigrid Speer,heidenheim
-"Steiner, Barbara, Prof. Dr.",Studiengang Soziale Arbeit,Barbara Steiner,heidenheim
-"Stötter, Stephan",Akademischer Mitarbeiter,Stephan Stötter,heidenheim
-"Thomisch, Marco, Prof. Dr.-Ing.",Professor Studiengang Wirtschaftsingenieurwesen,Marco Thomisch,heidenheim
-"Thurm, Manuela, Prof. Dr.",BWL - Handel,Manuela Thurm,heidenheim
-"Träger, Manfred, Prof.",Geschäftsführer des Fördervereins der DHBW Heidenheim e.V.,Manfred Träger,heidenheim
-"van Meegen, Sven, Prof. Dr. PhDr.",Dekan der Fakultät Sozialwesen,Sven van Meegen,heidenheim
-"Wander, Carsten, Prof. Dr.","Studiengangsleiter BWL - Spedition, Transport & Logistik",Carsten Wander,heidenheim
-"Weber, Petra, Dr.","Forschung, Innovation und Transfer",Petra Weber,heidenheim
-"Weber, Sonja",Akademische Mitarbeiterin BWL - Marketing Management,Sonja Weber,heidenheim
-"Weidemann, Wolfgang, Prof. Dr.",Studiengangsleiter Medizintechnische Wissenschaften,Wolfgang Weidemann,heidenheim
-"Wind, Tanja","Akademische Mitarbeiterin Soziale Dienste der Jugend-, Sozial- und Familienhilfe",Tanja Wind,heidenheim
-"Witt, Alexander",Akademischer Mitarbeiter Sozialmanagement,Alexander Witt,heidenheim
-"Wunsch, Matthias, Prof. Dr.-Ing.",Wirtschaftsingenieurwesen,Matthias Wunsch,heidenheim
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+"Adamy, Kevin",akademisch,Kevin Adamy,heidenheim,2022
+"Aldinger, Lothar, Prof. Dr.-Ing.",prof.,Lothar Aldinger,heidenheim,2022
+"Amerein, Bärbel, Prof. Dr.",professor,Bärbel Amerein,heidenheim,2022
+"Assfalg, Rolf, Prof. Dr.",studiengangsleiter,Rolf Assfalg,heidenheim,2022
+"Baltromejus, Marisa, Prof. Dr. oec.",prof.,Marisa Baltromejus,heidenheim,2022
+"Bärwald, Andreas, Prof. Dr.",studiengangsleiter,Andreas Bärwald,heidenheim,2022
+"Batz, Michael, Prof. Dr.",studiengangsleiter,Michael Batz,heidenheim,2022
+"Bendele, Léa",akademisch,Léa Bendele,heidenheim,2022
+"Berninger, Sabine, Dr. -Ing.",professor,Sabine Berninger,heidenheim,2022
+"Bierer, Martin, Prof. Dr.-Ing.",studiengangsleiter,Martin Bierer,heidenheim,2022
+"Blessing, Nico, Prof. Dr.-Ing.",studiengangsleiter,Nico Blessing,heidenheim,2022
+"Bombe, Sandra, Prof. Dr.",prof.,Sandra Bombe,heidenheim,2022
+"Bormann, Petra, Prof. Dr.-Ing.",prof.,Petra Bormann,heidenheim,2022
+"Büchele, Stefanie",akademisch,Stefanie Büchele,heidenheim,2022
+"Burmeister, Jürgen, Prof. Dr.",studiengangsleiter,Jürgen Burmeister,heidenheim,2022
+"Eisinger, Bernd, Prof. Dr.",studiengangsleiter,Bernd Eisinger,heidenheim,2022
+"Falterbaum, Johannes, Prof. Dr.",studiengangsleiter,Johannes Falterbaum,heidenheim,2022
+"Feldt, Jochen, Prof. Dr.",prof.,Jochen Feldt,heidenheim,2022
+"Folger, Mirjam, Dr.",dr.,Mirjam Folger,heidenheim,2022
+"Froböse, Michael, Prof. Dr.",studiengangsleiter,Michael Froböse,heidenheim,2022
+"Gramlich, Dieter, Prof. Dr.",studiengangsleiter,Dieter Gramlich,heidenheim,2022
+"Grinblat, Roman, Prof. Dr.",professor,Roman Grinblat,heidenheim,2022
+"Gründer, René, Prof. Dr.",prof.,René Gründer,heidenheim,2022
+"Hänisch, Till, Prof. Dipl.-Phys.",studiengangsleiter,Till Hänisch,heidenheim,2022
+"Hascher, Hansgert, Prof. Dr.-Ing.",studiengangsleiter,Hansgert Hascher,heidenheim,2022
+"Hebestreit, Carsten, Prof. Dr.",prof.,Carsten Hebestreit,heidenheim,2022
+"Helmer-Denzel, Andrea, Prof. Dr.",studiengangsleiter,Andrea Helmer-Denzel,heidenheim,2022
+"Henle, Ramona Lucy",akademisch,Ramona Lucy Henle,heidenheim,2022
+"Hilp, Jürgen, Prof. Dr.",studiengangsleiter,Jürgen Hilp,heidenheim,2022
+"Hoffmann, Elvira, Prof. Dr.",studiengangsleiter,Elvira Hoffmann,heidenheim,2022
+"Hoffmann, Marcus, Prof. Dr.",prof.,Marcus Hoffmann,heidenheim,2022
+"Höger, Stephanie, Prof. Dr.",prof.,Stephanie Höger,heidenheim,2022
+"Holz, Rüdiger, Dr.",dr.,Rüdiger Holz,heidenheim,2022
+"Huestegge, Sujata, Prof. Dr. rer. nat.",studiengangsleiter,Sujata Huestegge,heidenheim,2022
+"Jozsa, Anita",akademisch,Anita Jozsa,heidenheim,2022
+"Jusic, Hanifa, Prof. Dr.",studiengangsleiter,Hanifa Jusic,heidenheim,2022
+"Kazmaier, Ina",akademisch,Ina Kazmaier,heidenheim,2022
+"Kiesel, Rainer, Prof. Dr.-Ing.",prof.,Rainer Kiesel,heidenheim,2022
+"Klisch, Sina",akademisch,Sina Klisch,heidenheim,2022
+"Kolb, Alexander, Prof. Dr.-Ing.",professor,Alexander Kolb,heidenheim,2022
+"Kühlmuß, Bernd, Prof. Dr.",professor,Bernd Kühlmuß,heidenheim,2022
+"Leykauf, Gerhard, Prof. Dr.",studiengangsleiter,Gerhard Leykauf,heidenheim,2022
+"Lindner-Pfleghar, Beate",akademisch,Beate Lindner-Pfleghar,heidenheim,2022
+"Lohmann, Florian, Prof. Dr.",studiengangsleiter,Florian Lohmann,heidenheim,2022
+"Löhr, Karsten, Prof. Dr.",prof.,Karsten Löhr,heidenheim,2022
+"Mahr, Andreas, Prof. Dr.",prof.,Andreas Mahr,heidenheim,2022
+"Maier, Simone, Prof. Dr.",studiengangsleiter,Simone Maier,heidenheim,2022
+"Martinez Marquez, Luis Roberto",akademisch,Luis Roberto Martinez Marquez,heidenheim,2022
+"Minges, Roland, Prof. Dr.-Ing.",studiengangsleiter,Roland Minges,heidenheim,2022
+"Möbs, Sabine, Prof. Dr.",prof.,Sabine Möbs,heidenheim,2022
+"Nandi, Gerrit, Prof. Dr.",studiengangsleiter,Gerrit Nandi,heidenheim,2022
+"Neidlinger, Thomas, Prof. Dr.-Ing.",prof.,Thomas Neidlinger,heidenheim,2022
+"Oberle, Christina",akademisch,Christina Oberle,heidenheim,2022
+"Piechnik, Lara, B. Sc.",akademisch,Lara Piechnik,heidenheim,2022
+"Przybilla, Rüdiger, Prof. Dr.",prof.,Rüdiger Przybilla,heidenheim,2022
+"Przywara, Rainer, Prof. Dr.-Ing. Dr.",prof.,Rainer Przywara,heidenheim,2022
+"Reichstein, Christopher, Dr.",dr.,Christopher Reichstein,heidenheim,2022
+"Reiff, Georg",akademisch,Georg Reiff,heidenheim,2022
+"Rief, Alexander, Prof. Dr.",studiengangsleiter,Alexander Rief,heidenheim,2022
+"Romanowski-Kirchner, Christopher, Prof. Dr.",studiengangsleiter,Christopher Romanowski-Kirchner,heidenheim,2022
+"Rupp, Klaus-Dieter, Prof. Dr.-Ing.",studiengangsleiter,Klaus-Dieter Rupp,heidenheim,2022
+"Sager, Britta",akademisch,Britta Sager,heidenheim,2022
+"Sailer, Marcel, Prof. Dr.",studiengangsleiter,Marcel Sailer,heidenheim,2022
+"Sakowski, Klaus, Prof. Dr.",professor,Klaus Sakowski,heidenheim,2022
+"Schenk, Gerald, Prof. Dr.",studiengangsleiter,Gerald Schenk,heidenheim,2022
+"Schiess, Holger Florian, Prof. Dr.",prof.,Holger Florian Schiess,heidenheim,2022
+"Schinko, Norbert, Prof. Dr.-Ing.",prof.,Norbert Schinko,heidenheim,2022
+"Schliewe, Jana, Dr.",dr.,Jana Schliewe,heidenheim,2022
+"Schlund, Manfred, Prof. Dr.",professor,Manfred Schlund,heidenheim,2022
+"Schütz, Franziska",akademisch,Franziska Schütz,heidenheim,2022
+"Schweim, Dirk, Prof. Dr.",professor,Dirk Schweim,heidenheim,2022
+"Seitz, Jürgen, Prof. Dr.",studiengangsleiter,Jürgen Seitz,heidenheim,2022
+"Shidende, Deogratias",akademisch,Deogratias Shidende,heidenheim,2022
+"Sinn, Juliane, Dr.",dr.,Juliane Sinn,heidenheim,2022
+"Speer, Sigrid",akademisch,Sigrid Speer,heidenheim,2022
+"Steiner, Barbara, Prof. Dr.",prof.,Barbara Steiner,heidenheim,2022
+"Stötter, Stephan",akademisch,Stephan Stötter,heidenheim,2022
+"Thomisch, Marco, Prof. Dr.-Ing.",professor,Marco Thomisch,heidenheim,2022
+"Thurm, Manuela, Prof. Dr.",prof.,Manuela Thurm,heidenheim,2022
+"Träger, Manfred, Prof.",prof.,Manfred Träger,heidenheim,2022
+"van Meegen, Sven, Prof. Dr. PhDr.",prof.,Sven van Meegen,heidenheim,2022
+"Wander, Carsten, Prof. Dr.",studiengangsleiter,Carsten Wander,heidenheim,2022
+"Weber, Petra, Dr.",dr.,Petra Weber,heidenheim,2022
+"Weber, Sonja",akademisch,Sonja Weber,heidenheim,2022
+"Weidemann, Wolfgang, Prof. Dr.",studiengangsleiter,Wolfgang Weidemann,heidenheim,2022
+"Wind, Tanja",akademisch,Tanja Wind,heidenheim,2022
+"Witt, Alexander",akademisch,Alexander Witt,heidenheim,2022
+"Wunsch, Matthias, Prof. Dr.-Ing.",prof.,Matthias Wunsch,heidenheim,2022

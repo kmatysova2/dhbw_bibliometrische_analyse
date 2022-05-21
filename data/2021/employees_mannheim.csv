@@ -1,164 +1,164 @@
-employee_name,first_matched_job_title,employee_name_clean,location
-"Amelingmeyer, Jenny, Prof., Dr.",Professorin Wirtschaftsingenieurwesen,Jenny Amelingmeyer,mannheim
-"Arzberger, Michael, Prof. Dr.",Professor Elektrotechnik,Michael Arzberger,mannheim
-"Balling, Stephan, Dr.",Vertretungsprofessor BWL - Gesundheitsmanagement,Stephan Balling,mannheim
-"Bauer, Jan Owe",Wissenschaftlicher Mitarbeiter,Jan Owe Bauer,mannheim
-"Baumgart, Jörg, Prof. Dr.-Ing.","Studiengangsleiter, Professor WI - E-Government",Jörg Baumgart,mannheim
-"Bayreuther, Konstantin, Prof. Dr.-Ing.","Studiengangsleiter, Professor Informatik",Konstantin Bayreuther,mannheim
-"Becher, Kai, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Kai Becher,mannheim
-"Becker, Ralph, Dr.",Vertretungsprofessor BWL - Gesundheitsmanagement,Ralph Becker,mannheim
-"Beckmann, Carl-Christian, Prof. Dr.",Professor BWL - Öffentliche Wirtschaft,Carl-Christian Beckmann,mannheim
-"Bendl, Harald, Prof. Dr.","Studiengangsleiter, Professor WI - International Management for Business and Information Technology",Harald Bendl,mannheim
-"Bennemann, Kerstin, Prof. Dr.",Wissenschaftliche Leiterin Prüfungsamt,Kerstin Bennemann,mannheim
-"Berthold, Walter, Prof. Dr.",Professor Elektrotechnik,Walter Berthold,mannheim
-"Beverungen, Johannes, Prof. Dr.",Professor Kooperative Forschung im Bereich International Trade,Johannes Beverungen,mannheim
-"Boll, Michaela, Prof. Dr.",Professorin BWL - Immobilienwirtschaft,Michaela Boll,mannheim
-"Bordt, Marcel",Akademischer Mitarbeiter BWL - Gesundheitsmanagement,Marcel Bordt,mannheim
-"Botz, Martin, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Martin Botz,mannheim
-"Bozkurt, Hulusi, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor Maschinenbau",Hulusi Bozkurt,mannheim
-"Brandenburger, Markus, Prof. Dr.","Studiengangsleiter, Professor WI - Application Management",Markus Brandenburger,mannheim
-"Brumby, Lennart, Prof. Dr.",Studiengangsleiter Integrated Engineering,Lennart Brumby,mannheim
-"Buhleier, Marianne, Prof. Dr.",Professorin BWL - Handel,Marianne Buhleier,mannheim
-"Bühler, Denise, Dipl.-Verww. (FH)","Personalwesen Professor*innen Wirtschaft L-Z, Teamleitung Arbeitszeit - Fachbereich Personal",Denise Bühler,mannheim
-"Chadwick, Eric",Akademischer Mitarbeiter Maschinenbau,Eric Chadwick,mannheim
-"Chammout, Aiman, Prof. Dr.",Professor BWL - Industrie,Aiman Chammout,mannheim
-"Corsten, Martina, Prof. Dr.","Studiengangsleiterin, Professorin RSW - Steuern und Prüfungswesen",Martina Corsten,mannheim
-"Daum, Ralf, Prof. Dr.","Studiengangsleiter, Professor BWL - Öffentliche Wirtschaft/Versorgungswirtschaft",Ralf Daum,mannheim
-"Dinkel, Michael, Prof. Dr.","Studiengangsleiter, Professor BWL - Messe-, Kongress- und Eventmanagement",Michael Dinkel,mannheim
-"Drabant, Bernhard, Prof. Dr.","Studiengangsleiter, Professor WI - Data Science",Bernhard Drabant,mannheim
-"Dunz, Alexandra, Prof. Dr.",Professorin Maschinenbau,Alexandra Dunz,mannheim
-"Ebeling, Frank, Prof. Dr.","Studiengangsleiter, Professor BWL - Bank",Frank Ebeling,mannheim
-"Ermschel, Ulrich, Prof. Dr.","Studiengangsleiter, Professor",Ulrich Ermschel,mannheim
-"Ewald, Michael",Akademischer Mitarbeiter EdCon,Michael Ewald,mannheim
-"Finkel, Ariana, Prof. Dr.",Professorin BWL - Marketing Management,Ariana Finkel,mannheim
-"Focke, Kai, Prof. Dr.",Professor BWL - Industrie,Kai Focke,mannheim
-"Führer, Christian, Prof. Dr.","Studiengangsleiter, Professor BWL - Marketing Management",Christian Führer,mannheim
-"Gamber, Thilo, Prof. Dr.","Studiengangsleiter, Professor Wirtschaftsingenieurwesen",Thilo Gamber,mannheim
-"Gerhards, Holger, Prof. Dr.",Professor Informatik,Holger Gerhards,mannheim
-"Gerhards, Ralf, Prof. Dr.",Professor RSW - Accounting & Controlling,Ralf Gerhards,mannheim
-"Günther, Tobias, Prof. Dr.",Professor Wirtschaftsinformatik,Tobias Günther,mannheim
-"Gutiérrez Landa, Izaskun, Prof. Dr.",Professorin Chemische Technik,Izaskun Gutiérrez Landa,mannheim
-"Hansch, Julia, Prof. Dr.","Studiengangsleiterin, Professorin BWL - Spedition, Transport und Logistik",Julia Hansch,mannheim
-"Harbrücker, Ulrich, Prof. Dr.","Studiengangsleiter, Professor RSW - Steuern und Prüfungswesen",Ulrich Harbrücker,mannheim
-"Hartmann, Harald, Prof. Dr.","Studiendekan Internationales Management und Logistik, Studiengangsleiter, Professor BWL - Spedition, Transport und Logistik",Harald Hartmann,mannheim
-"Heilig, Clemens, Prof. Dr.","Studiengangsleiter, Professor Wirtschaftsingenieurwesen",Clemens Heilig,mannheim
-"Heinrich, Roman",Akademischer Mitarbeiter,Roman Heinrich,mannheim
-"Heintz, Rüdiger, Prof. Dr.",Professor Elektrotechnik,Rüdiger Heintz,mannheim
-"Heng, Stefan, Prof. Dr.",Professor ME - Digitale Medien,Stefan Heng,mannheim
-"Hennig, Alexander, Prof. Dr.","Studiengangsleiter, Professor BWL - Digital Commerce Management",Alexander Hennig,mannheim
-"Hermann-Schölles, Angela",Akademische Mitarbeiterin Chemische Technik,Angela Hermann-Schölles,mannheim
-"Hilbert, Stefan, Prof.","Studiendekan Finanzdienstleistungen, Studiengangsleiter, Professor BWL - Finanzdienstleistungen",Stefan Hilbert,mannheim
-"Hoch, Rainer, Prof. Dr.","Studiengangsleiter, Professor WI - International Management for Business and Information Technology",Rainer Hoch,mannheim
-"Hofmann, Holger, Prof. Dr.","Studiendekan Studiengangsleiter, Professor Informatik",Holger Hofmann,mannheim
-"Hohenstein, Nils-Ole, Prof. Dr.","Professor BWL - Spedition, Transport und Logistik",Nils-Ole Hohenstein,mannheim
-"Holey, Thomas, Prof. Dr.","Studiengangsleiter, Professor WI - Software Engineering",Thomas Holey,mannheim
-"Holschuh, Kai, Prof. Dr.",Professor BWL - International Business,Kai Holschuh,mannheim
-"Honal, Andrea, Prof. Dr.","Professorin BWL - Spedition, Transport und Logistik",Andrea Honal,mannheim
-"Hörer, Oliver, Prof. Dr.",Professor Integrated Engineering,Oliver Hörer,mannheim
-"Hubert, Frank, Prof. Dr.",Professor Wirtschaftsinformatik,Frank Hubert,mannheim
-"Hübl, Reinhold, Prof. Dr.","Studiengangsleiter (komm.), Professor Informatik",Reinhold Hübl,mannheim
-"Huckenbeck, Ulrich, Dr.",Akademischer Mitarbeiter ZeMath,Ulrich Huckenbeck,mannheim
-"Hümmer, Matthias, Prof. Dr.",Professor Integrated Engineering,Matthias Hümmer,mannheim
-"Jacobsen, Hendrik, Prof. Dr.","Studiengangsleiter, Professor RSW - Accounting & Controlling",Hendrik Jacobsen,mannheim
-"Jedem-Kury, Ulrike, Prof., Dr.",Professorin BWL - Immobilienwirtschaft,Ulrike Jedem-Kury,mannheim
-"Jeske, Klaus-Jürgen, Prof. Dr.","Studiengangsleiter, Professor BWL - Versicherung",Klaus-Jürgen Jeske,mannheim
-"Jonen, Andreas, Prof. Dr.",Professor RSW - Accounting & Controlling,Andreas Jonen,mannheim
-"Jordan-Kunert, Jennifer, Prof. Dr.",Professorin BWL - Marketing Management,Jennifer Jordan-Kunert,mannheim
-"Kastor, Michael, Prof. Dr.",Professor BWL - Industrie,Michael Kastor,mannheim
-"Kilthau, Andreas, Prof. Dr.",Professor Elektrotechnik,Andreas Kilthau,mannheim
-"Klein, Werner, Prof. Dr.",Professor Maschinenbau,Werner Klein,mannheim
-"Klenk, Thomas, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Thomas Klenk,mannheim
-"Kölbl, Kathrin, Prof.",Professorin BWL - Marketing Management,Kathrin Kölbl,mannheim
-"König, Verena, Prof. Dr.",Studiengangsleiterin Immobilienwirtschaft,Verena König,mannheim
-"König, Verena, Prof. Dr.",Wissenschaftliche Leitung Partnermarketing,Verena König,mannheim
-"Kornmayer, Harald, Prof. Dr.",Professor Informatik,Harald Kornmayer,mannheim
-"Kornmeier, Martin, Prof. Dr.","Studiengangsleiter, Professor BWL - International Business binational (Double Degree)",Martin Kornmeier,mannheim
-"Koslowski, Frank, Prof. Dr.","Studiengangsleiter, Professor WI - Sales & Consulting",Frank Koslowski,mannheim
-"Krcal, Hans-Christian, Prof. Dr.","Studiengangsleiter, Professor BWL - Industrie",Hans-Christian Krcal,mannheim
-"Krug, Simone, Prof. Dr.",Professorin WI - International Management for Business and Information Technology,Simone Krug,mannheim
-"Kruse, Eckhard, Prof. Dr.",Professor Informatik,Eckhard Kruse,mannheim
-"Kubach, René",Akademischer Mitarbeiter BWL - Öffentliche Wirtschaft/Verwaltungswirtschaft,René Kubach,mannheim
-"Kuhlmann, Thorsten, B.A.","Personalwesen Professor*innen Wirtschaft A-K, Stellenbewertung - Fachbereich Personal",Thorsten Kuhlmann,mannheim
-"Kwasniok, Sascha, Prof. Dr.","Studiengangsleiter, Professor BWL - Versicherung",Sascha Kwasniok,mannheim
-"Lamek-Creutz, Bozena, Prof. Dr.-Ing.",Professorin Elektrotechnik,Bozena Lamek-Creutz,mannheim
-"Land, Beate, Prof. Dr.","Studiengangsleiterin, Professorin Angewandte Gesundheits- und Pflegewissenschaften",Beate Land,mannheim
-"Lembke, Gerald, Prof. Dr.","Studiengangsleiter, Professor ME - Digitale Medien/Medienmanagement und Kommunikation",Gerald Lembke,mannheim
-"Litzenberger, Rolf, Prof. Dr.","Studiengangsleiter, Professor Mechatronik",Rolf Litzenberger,mannheim
-"Mahn, Bernd, Prof. Dr.",Professor Wirtschaftsingenieurwesen,Bernd Mahn,mannheim
-"Maier, Björn, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor BWL - Gesundheitsmanagement",Björn Maier,mannheim
-"Malinski, Peter, Prof. Dr.",Professor BWL - Industrie,Peter Malinski,mannheim
-"Martin, Clemens, Prof. Dr.-Ing.","Studiendekan, Studiengangsleiter, Professor WI - Sales & Consulting",Clemens Martin,mannheim
-"Matt, Michael, Prof. Dr.","Studiengangsleiter, Professor WI - Application Management",Michael Matt,mannheim
-"Meier, Alexander, Prof. Dr.","Studiengangsleiter, Professor BWL - Digital Business Management",Alexander Meier,mannheim
-"Meier, Victor, Prof. Dr.","Studiengangsleiter, Professor BWL - Industrie",Victor Meier,mannheim
-"Meissner, Hans, Prof. Dr.","Studiengangsleiter, Professor BWL - Versicherung",Hans Meissner,mannheim
-"Melzer-Ridinger, Ruth, Prof. Dr.","Studiengangsleiterin, Professorin Wirtschaftsingenieurwesen",Ruth Melzer-Ridinger,mannheim
-"Mkrtchyan, Lilit, Prof. Dr.","Studiengangsleiterin, Professorin Integrated Engineering",Lilit Mkrtchyan,mannheim
-"Möhring, Nicole, Prof. Dr.","Studiengangsleiterin, Professorin Elektrotechnik",Nicole Möhring,mannheim
-"Moroff, Gerhard, Prof. Dr.","Studiengangsleiter, Professor BWL - Industrie",Gerhard Moroff,mannheim
-"Mühlhan, Claus, Prof. Dr.-Ing.","Studiengangsleiter, Professor Maschinenbau",Claus Mühlhan,mannheim
-"Müller, Alisa",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Alisa Müller,mannheim
-"Nehm, Alexander, Prof. Dr.","Professor BWL - Spedition, Transport und Logistik",Alexander Nehm,mannheim
-"Nitsch, Harald, Prof. Dr.","Studiengangsleiter, Professor BWL - Immobilienwirtschaft",Harald Nitsch,mannheim
-"Nolte, Cornelius, Prof. Dr.",Professor BWL - Industrie,Cornelius Nolte,mannheim
-"Obermayr, David",Akademischer Mitarbeiter ZeMath,David Obermayr,mannheim
-"Ostermayer, Dirk, Prof. Dr.-Ing.",Professor Wirtschaftsingenieurwesen,Dirk Ostermayer,mannheim
-"Pagnia, Nicole",Akademische Mitarbeiterin BWL - International Business,Nicole Pagnia,mannheim
-"Pagnia, Hans-Henning, Prof. Dr.",Professor Wirtschaftsinformatik,Hans-Henning Pagnia,mannheim
-"Paul, Christopher, Prof. Dr.",Professor BWL - Industrie,Christopher Paul,mannheim
-"Peterfi, Marc",Akademischer Mitarbeiter ZeMath,Marc Peterfi,mannheim
-"Pfisterer, Dennis, Prof. Dr.-Ing.","Studiengangsleiter, Professor WI - Data Science",Dennis Pfisterer,mannheim
-"Pock, von, Michael, Prof. Dr.","Studiengangsleiter, Professor RSW - Accounting & Controlling",von Pock,mannheim
-"Preiser, Konrad, Prof. Dr.",Professor Wirtschaftsinformatik,Konrad Preiser,mannheim
-"Priesnitz, Joachim, Prof. Dr.","Studiengangsleiter, Professor Elektrotechnik",Joachim Priesnitz,mannheim
-"Rausch, Jasmin","Administration, Sachbearbeitung studentische und wissenschaftliche Hilfskräfte, Teamassistenz - Fachbereich Personal",Jasmin Rausch,mannheim
-"Rech, Nicole","Personalwesen Professor*innen Technik, Rektorat, Stabsstellen, zentrale Einrichtungen, Team Arbeitszeit - Fachbereich Personal",Nicole Rech,mannheim
-"Redelius, Jürgen, Prof. Dr.","Studiengangsleiter, Professor ME - Digitale Medien/Mediapublishing und Gestaltung",Jürgen Redelius,mannheim
-"Reitermann, Tanja","Administration, Sachbearbeitung studentische und wissenschaftliche Hilfskräfte, Teamassistenz - Fachbereich Personal",Tanja Reitermann,mannheim
-"Reker, Christoph, Prof. Dr.",Professor Wirtschaftsinformatik,Christoph Reker,mannheim
-"Ritterbusch, Sebastian, Prof. Dr.",Professor WI - Data Science,Sebastian Ritterbusch,mannheim
-"Rutesic, Petko, M.Sc.",Wissenschaftlicher Mitarbeiter,Petko Rutesic,mannheim
-"Sauter, Lisa",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Lisa Sauter,mannheim
-"Schael, Arndt-Erik, Prof. Dr.","Studiengangsleiter, Professor Chemische Technik",Arndt-Erik Schael,mannheim
-"Schäfer, Christian Hans, Prof. Dr.",Professor BWL - Versicherung,Christian Hans Schäfer,mannheim
-"Scheel, Michael, Prof. Dr.",Professor RSW - Steuern und Prüfungswesen,Michael Scheel,mannheim
-"Scherer, Maximilian, Prof. Dr.",Professor Wirtschaftsinformatik,Maximilian Scherer,mannheim
-"Schief, Markus, Prof. Dr.",Professor BWL - Digital Business Management,Markus Schief,mannheim
-"Schirl, Thomas, Prof. Dr.","Studiengangsleiter, Professor Elektrotechnik",Thomas Schirl,mannheim
-"Schlottmann, Norbert, Prof.",Professor BWL - Bank,Norbert Schlottmann,mannheim
-"Schmitz, Sven, Prof. Dr.","Studiengangsleiter, Professor Mechatronik",Sven Schmitz,mannheim
-"Schneider, Christoffer, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor BWL - Digital Business Management",Christoffer Schneider,mannheim
-"Schneider, Michael, Prof. Dr.","Studiengangsleiter, Professor Wirtschaftsingenieurwesen",Michael Schneider,mannheim
-"Schneider, Willy, Prof. Dr.","Studiengangsleiter, Professor BWL - Handel",Willy Schneider,mannheim
-"Schneider, Julia",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Julia Schneider,mannheim
-"Schorer, Linda, M. Eng.",Akademische Mitarbeiterin,Linda Schorer,mannheim
-"Schröder, Michael, Prof. Dr.","Professor BWL - Spedition, Transport und Logistik",Michael Schröder,mannheim
-"Schröer, Carsten, Prof. Dr.","Professor BWL - Messe-, Kongress- und Eventmanagement",Carsten Schröer,mannheim
-"Schubert, Lars, Prof. Dr.","Studiengangsleiter, Professor BWL - Spedition, Transport und Logistik",Lars Schubert,mannheim
-"Schulz, Volker, Prof. Dr.",Professor Maschinenbau,Volker Schulz,mannheim
-"Schuster, Thomas, Prof. Dr.",Professor BWL - International Business,Thomas Schuster,mannheim
-"Seidel, Carsten, Prof. Dr.","Studiengangsleiter, Professor Integrated Engineering",Carsten Seidel,mannheim
-"Sobirey, Frank, Prof. Dr.","Studiengangsleiter, Professor BWL - Bank",Frank Sobirey,mannheim
-"Stanske, Christian, Prof.","Studiengangsleiter, Professor Maschinenbau",Christian Stanske,mannheim
-"Staub, Sarah, Prof. Dr.-Ing.",Professorin Maschinenbau,Sarah Staub,mannheim
-"Stepanel, Natalja",Akademische Mitarbeiterin WI - E-Health,Natalja Stepanel,mannheim
-"Steurer, Vivian",Akademische Mitarbeiterin WI - E-Health,Vivian Steurer,mannheim
-"Stroetmann, Karl, Prof. Dr.",Professor Informatik,Karl Stroetmann,mannheim
-"Stützer, Michael, Prof. Dr.",Professor BWL - Industrie,Michael Stützer,mannheim
-"Sudermann-Merx, Nathan, Prof. Dr.",Professor Informatik,Nathan Sudermann-Merx,mannheim
-"Teichmann, Michael, Prof. Dr.",Professor BWL - Industrie,Michael Teichmann,mannheim
-"Thalmeier, Petra, Prof. Dr.","Professorin BWL - Messe-, Kongress- und Eventmanagement",Petra Thalmeier,mannheim
-"Tornow, Kai",Akademischer Mitarbeiter Elektromobilität,Kai Tornow,mannheim
-"Ullmann, Michael, Prof. Dr.","Studiengangsleiter, Professor Elektrotechnik",Michael Ullmann,mannheim
-"Vogt, Jan Günther, Prof. Dr.-Ing.",Professor Maschinenbau,Jan Günther Vogt,mannheim
-"Vogt, Jonas, Prof. Dr.",Professor BWL - Finanzdienstleistungen,Jonas Vogt,mannheim
-"Voß, Markus, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Markus Voß,mannheim
-"Vranckx, Christian, Prof. Dr.","Studiengangsleiter, Professor BWL - Handel",Christian Vranckx,mannheim
-"Wannenwetsch, Helmut, Prof. Dr.",Professor BWL - Industrie,Helmut Wannenwetsch,mannheim
-"Weigel, Miriam, Dr.",Akademische Mitarbeiterin ZeMath,Miriam Weigel,mannheim
-"Weinland, Lothar, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor BWL - Marketing Management",Lothar Weinland,mannheim
-"Werling, Stefan, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor Mechatronik",Stefan Werling,mannheim
-"Werner, Bernd, Prof. Dr.","Studiengangsleiter, Professor BWL - Öffentliche Wirtschaft/Wirtschaftsförderung",Bernd Werner,mannheim
-"Wiedemann, Armin, Prof. Dr.",Professor Wirtschaftsinformatik,Armin Wiedemann,mannheim
-"Wolf, Bernhard, Prof.",Professor BWL - Handel,Bernhard Wolf,mannheim
-"Wolff, Frank, Prof. Dr.","Studiengangsleiter, Professor WI - Application Management",Frank Wolff,mannheim
+employee_name,first_matched_job_title,employee_name_clean,location,year_stored
+"Amelingmeyer, Jenny, Prof., Dr.",Professorin Wirtschaftsingenieurwesen,Jenny Amelingmeyer,mannheim,2021
+"Arzberger, Michael, Prof. Dr.",Professor Elektrotechnik,Michael Arzberger,mannheim,2021
+"Balling, Stephan, Dr.",Vertretungsprofessor BWL - Gesundheitsmanagement,Stephan Balling,mannheim,2021
+"Bauer, Jan Owe",Wissenschaftlicher Mitarbeiter,Jan Owe Bauer,mannheim,2021
+"Baumgart, Jörg, Prof. Dr.-Ing.","Studiengangsleiter, Professor WI - E-Government",Jörg Baumgart,mannheim,2021
+"Bayreuther, Konstantin, Prof. Dr.-Ing.","Studiengangsleiter, Professor Informatik",Konstantin Bayreuther,mannheim,2021
+"Becher, Kai, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Kai Becher,mannheim,2021
+"Becker, Ralph, Dr.",Vertretungsprofessor BWL - Gesundheitsmanagement,Ralph Becker,mannheim,2021
+"Beckmann, Carl-Christian, Prof. Dr.",Professor BWL - Öffentliche Wirtschaft,Carl-Christian Beckmann,mannheim,2021
+"Bendl, Harald, Prof. Dr.","Studiengangsleiter, Professor WI - International Management for Business and Information Technology",Harald Bendl,mannheim,2021
+"Bennemann, Kerstin, Prof. Dr.",Wissenschaftliche Leiterin Prüfungsamt,Kerstin Bennemann,mannheim,2021
+"Berthold, Walter, Prof. Dr.",Professor Elektrotechnik,Walter Berthold,mannheim,2021
+"Beverungen, Johannes, Prof. Dr.",Professor Kooperative Forschung im Bereich International Trade,Johannes Beverungen,mannheim,2021
+"Boll, Michaela, Prof. Dr.",Professorin BWL - Immobilienwirtschaft,Michaela Boll,mannheim,2021
+"Bordt, Marcel",Akademischer Mitarbeiter BWL - Gesundheitsmanagement,Marcel Bordt,mannheim,2021
+"Botz, Martin, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Martin Botz,mannheim,2021
+"Bozkurt, Hulusi, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor Maschinenbau",Hulusi Bozkurt,mannheim,2021
+"Brandenburger, Markus, Prof. Dr.","Studiengangsleiter, Professor WI - Application Management",Markus Brandenburger,mannheim,2021
+"Brumby, Lennart, Prof. Dr.",Studiengangsleiter Integrated Engineering,Lennart Brumby,mannheim,2021
+"Buhleier, Marianne, Prof. Dr.",Professorin BWL - Handel,Marianne Buhleier,mannheim,2021
+"Bühler, Denise, Dipl.-Verww. (FH)","Personalwesen Professor*innen Wirtschaft L-Z, Teamleitung Arbeitszeit - Fachbereich Personal",Denise Bühler,mannheim,2021
+"Chadwick, Eric",Akademischer Mitarbeiter Maschinenbau,Eric Chadwick,mannheim,2021
+"Chammout, Aiman, Prof. Dr.",Professor BWL - Industrie,Aiman Chammout,mannheim,2021
+"Corsten, Martina, Prof. Dr.","Studiengangsleiterin, Professorin RSW - Steuern und Prüfungswesen",Martina Corsten,mannheim,2021
+"Daum, Ralf, Prof. Dr.","Studiengangsleiter, Professor BWL - Öffentliche Wirtschaft/Versorgungswirtschaft",Ralf Daum,mannheim,2021
+"Dinkel, Michael, Prof. Dr.","Studiengangsleiter, Professor BWL - Messe-, Kongress- und Eventmanagement",Michael Dinkel,mannheim,2021
+"Drabant, Bernhard, Prof. Dr.","Studiengangsleiter, Professor WI - Data Science",Bernhard Drabant,mannheim,2021
+"Dunz, Alexandra, Prof. Dr.",Professorin Maschinenbau,Alexandra Dunz,mannheim,2021
+"Ebeling, Frank, Prof. Dr.","Studiengangsleiter, Professor BWL - Bank",Frank Ebeling,mannheim,2021
+"Ermschel, Ulrich, Prof. Dr.","Studiengangsleiter, Professor",Ulrich Ermschel,mannheim,2021
+"Ewald, Michael",Akademischer Mitarbeiter EdCon,Michael Ewald,mannheim,2021
+"Finkel, Ariana, Prof. Dr.",Professorin BWL - Marketing Management,Ariana Finkel,mannheim,2021
+"Focke, Kai, Prof. Dr.",Professor BWL - Industrie,Kai Focke,mannheim,2021
+"Führer, Christian, Prof. Dr.","Studiengangsleiter, Professor BWL - Marketing Management",Christian Führer,mannheim,2021
+"Gamber, Thilo, Prof. Dr.","Studiengangsleiter, Professor Wirtschaftsingenieurwesen",Thilo Gamber,mannheim,2021
+"Gerhards, Holger, Prof. Dr.",Professor Informatik,Holger Gerhards,mannheim,2021
+"Gerhards, Ralf, Prof. Dr.",Professor RSW - Accounting & Controlling,Ralf Gerhards,mannheim,2021
+"Günther, Tobias, Prof. Dr.",Professor Wirtschaftsinformatik,Tobias Günther,mannheim,2021
+"Gutiérrez Landa, Izaskun, Prof. Dr.",Professorin Chemische Technik,Izaskun Gutiérrez Landa,mannheim,2021
+"Hansch, Julia, Prof. Dr.","Studiengangsleiterin, Professorin BWL - Spedition, Transport und Logistik",Julia Hansch,mannheim,2021
+"Harbrücker, Ulrich, Prof. Dr.","Studiengangsleiter, Professor RSW - Steuern und Prüfungswesen",Ulrich Harbrücker,mannheim,2021
+"Hartmann, Harald, Prof. Dr.","Studiendekan Internationales Management und Logistik, Studiengangsleiter, Professor BWL - Spedition, Transport und Logistik",Harald Hartmann,mannheim,2021
+"Heilig, Clemens, Prof. Dr.","Studiengangsleiter, Professor Wirtschaftsingenieurwesen",Clemens Heilig,mannheim,2021
+"Heinrich, Roman",Akademischer Mitarbeiter,Roman Heinrich,mannheim,2021
+"Heintz, Rüdiger, Prof. Dr.",Professor Elektrotechnik,Rüdiger Heintz,mannheim,2021
+"Heng, Stefan, Prof. Dr.",Professor ME - Digitale Medien,Stefan Heng,mannheim,2021
+"Hennig, Alexander, Prof. Dr.","Studiengangsleiter, Professor BWL - Digital Commerce Management",Alexander Hennig,mannheim,2021
+"Hermann-Schölles, Angela",Akademische Mitarbeiterin Chemische Technik,Angela Hermann-Schölles,mannheim,2021
+"Hilbert, Stefan, Prof.","Studiendekan Finanzdienstleistungen, Studiengangsleiter, Professor BWL - Finanzdienstleistungen",Stefan Hilbert,mannheim,2021
+"Hoch, Rainer, Prof. Dr.","Studiengangsleiter, Professor WI - International Management for Business and Information Technology",Rainer Hoch,mannheim,2021
+"Hofmann, Holger, Prof. Dr.","Studiendekan Studiengangsleiter, Professor Informatik",Holger Hofmann,mannheim,2021
+"Hohenstein, Nils-Ole, Prof. Dr.","Professor BWL - Spedition, Transport und Logistik",Nils-Ole Hohenstein,mannheim,2021
+"Holey, Thomas, Prof. Dr.","Studiengangsleiter, Professor WI - Software Engineering",Thomas Holey,mannheim,2021
+"Holschuh, Kai, Prof. Dr.",Professor BWL - International Business,Kai Holschuh,mannheim,2021
+"Honal, Andrea, Prof. Dr.","Professorin BWL - Spedition, Transport und Logistik",Andrea Honal,mannheim,2021
+"Hörer, Oliver, Prof. Dr.",Professor Integrated Engineering,Oliver Hörer,mannheim,2021
+"Hubert, Frank, Prof. Dr.",Professor Wirtschaftsinformatik,Frank Hubert,mannheim,2021
+"Hübl, Reinhold, Prof. Dr.","Studiengangsleiter (komm.), Professor Informatik",Reinhold Hübl,mannheim,2021
+"Huckenbeck, Ulrich, Dr.",Akademischer Mitarbeiter ZeMath,Ulrich Huckenbeck,mannheim,2021
+"Hümmer, Matthias, Prof. Dr.",Professor Integrated Engineering,Matthias Hümmer,mannheim,2021
+"Jacobsen, Hendrik, Prof. Dr.","Studiengangsleiter, Professor RSW - Accounting & Controlling",Hendrik Jacobsen,mannheim,2021
+"Jedem-Kury, Ulrike, Prof., Dr.",Professorin BWL - Immobilienwirtschaft,Ulrike Jedem-Kury,mannheim,2021
+"Jeske, Klaus-Jürgen, Prof. Dr.","Studiengangsleiter, Professor BWL - Versicherung",Klaus-Jürgen Jeske,mannheim,2021
+"Jonen, Andreas, Prof. Dr.",Professor RSW - Accounting & Controlling,Andreas Jonen,mannheim,2021
+"Jordan-Kunert, Jennifer, Prof. Dr.",Professorin BWL - Marketing Management,Jennifer Jordan-Kunert,mannheim,2021
+"Kastor, Michael, Prof. Dr.",Professor BWL - Industrie,Michael Kastor,mannheim,2021
+"Kilthau, Andreas, Prof. Dr.",Professor Elektrotechnik,Andreas Kilthau,mannheim,2021
+"Klein, Werner, Prof. Dr.",Professor Maschinenbau,Werner Klein,mannheim,2021
+"Klenk, Thomas, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Thomas Klenk,mannheim,2021
+"Kölbl, Kathrin, Prof.",Professorin BWL - Marketing Management,Kathrin Kölbl,mannheim,2021
+"König, Verena, Prof. Dr.",Studiengangsleiterin Immobilienwirtschaft,Verena König,mannheim,2021
+"König, Verena, Prof. Dr.",Wissenschaftliche Leitung Partnermarketing,Verena König,mannheim,2021
+"Kornmayer, Harald, Prof. Dr.",Professor Informatik,Harald Kornmayer,mannheim,2021
+"Kornmeier, Martin, Prof. Dr.","Studiengangsleiter, Professor BWL - International Business binational (Double Degree)",Martin Kornmeier,mannheim,2021
+"Koslowski, Frank, Prof. Dr.","Studiengangsleiter, Professor WI - Sales & Consulting",Frank Koslowski,mannheim,2021
+"Krcal, Hans-Christian, Prof. Dr.","Studiengangsleiter, Professor BWL - Industrie",Hans-Christian Krcal,mannheim,2021
+"Krug, Simone, Prof. Dr.",Professorin WI - International Management for Business and Information Technology,Simone Krug,mannheim,2021
+"Kruse, Eckhard, Prof. Dr.",Professor Informatik,Eckhard Kruse,mannheim,2021
+"Kubach, René",Akademischer Mitarbeiter BWL - Öffentliche Wirtschaft/Verwaltungswirtschaft,René Kubach,mannheim,2021
+"Kuhlmann, Thorsten, B.A.","Personalwesen Professor*innen Wirtschaft A-K, Stellenbewertung - Fachbereich Personal",Thorsten Kuhlmann,mannheim,2021
+"Kwasniok, Sascha, Prof. Dr.","Studiengangsleiter, Professor BWL - Versicherung",Sascha Kwasniok,mannheim,2021
+"Lamek-Creutz, Bozena, Prof. Dr.-Ing.",Professorin Elektrotechnik,Bozena Lamek-Creutz,mannheim,2021
+"Land, Beate, Prof. Dr.","Studiengangsleiterin, Professorin Angewandte Gesundheits- und Pflegewissenschaften",Beate Land,mannheim,2021
+"Lembke, Gerald, Prof. Dr.","Studiengangsleiter, Professor ME - Digitale Medien/Medienmanagement und Kommunikation",Gerald Lembke,mannheim,2021
+"Litzenberger, Rolf, Prof. Dr.","Studiengangsleiter, Professor Mechatronik",Rolf Litzenberger,mannheim,2021
+"Mahn, Bernd, Prof. Dr.",Professor Wirtschaftsingenieurwesen,Bernd Mahn,mannheim,2021
+"Maier, Björn, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor BWL - Gesundheitsmanagement",Björn Maier,mannheim,2021
+"Malinski, Peter, Prof. Dr.",Professor BWL - Industrie,Peter Malinski,mannheim,2021
+"Martin, Clemens, Prof. Dr.-Ing.","Studiendekan, Studiengangsleiter, Professor WI - Sales & Consulting",Clemens Martin,mannheim,2021
+"Matt, Michael, Prof. Dr.","Studiengangsleiter, Professor WI - Application Management",Michael Matt,mannheim,2021
+"Meier, Alexander, Prof. Dr.","Studiengangsleiter, Professor BWL - Digital Business Management",Alexander Meier,mannheim,2021
+"Meier, Victor, Prof. Dr.","Studiengangsleiter, Professor BWL - Industrie",Victor Meier,mannheim,2021
+"Meissner, Hans, Prof. Dr.","Studiengangsleiter, Professor BWL - Versicherung",Hans Meissner,mannheim,2021
+"Melzer-Ridinger, Ruth, Prof. Dr.","Studiengangsleiterin, Professorin Wirtschaftsingenieurwesen",Ruth Melzer-Ridinger,mannheim,2021
+"Mkrtchyan, Lilit, Prof. Dr.","Studiengangsleiterin, Professorin Integrated Engineering",Lilit Mkrtchyan,mannheim,2021
+"Möhring, Nicole, Prof. Dr.","Studiengangsleiterin, Professorin Elektrotechnik",Nicole Möhring,mannheim,2021
+"Moroff, Gerhard, Prof. Dr.","Studiengangsleiter, Professor BWL - Industrie",Gerhard Moroff,mannheim,2021
+"Mühlhan, Claus, Prof. Dr.-Ing.","Studiengangsleiter, Professor Maschinenbau",Claus Mühlhan,mannheim,2021
+"Müller, Alisa",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Alisa Müller,mannheim,2021
+"Nehm, Alexander, Prof. Dr.","Professor BWL - Spedition, Transport und Logistik",Alexander Nehm,mannheim,2021
+"Nitsch, Harald, Prof. Dr.","Studiengangsleiter, Professor BWL - Immobilienwirtschaft",Harald Nitsch,mannheim,2021
+"Nolte, Cornelius, Prof. Dr.",Professor BWL - Industrie,Cornelius Nolte,mannheim,2021
+"Obermayr, David",Akademischer Mitarbeiter ZeMath,David Obermayr,mannheim,2021
+"Ostermayer, Dirk, Prof. Dr.-Ing.",Professor Wirtschaftsingenieurwesen,Dirk Ostermayer,mannheim,2021
+"Pagnia, Nicole",Akademische Mitarbeiterin BWL - International Business,Nicole Pagnia,mannheim,2021
+"Pagnia, Hans-Henning, Prof. Dr.",Professor Wirtschaftsinformatik,Hans-Henning Pagnia,mannheim,2021
+"Paul, Christopher, Prof. Dr.",Professor BWL - Industrie,Christopher Paul,mannheim,2021
+"Peterfi, Marc",Akademischer Mitarbeiter ZeMath,Marc Peterfi,mannheim,2021
+"Pfisterer, Dennis, Prof. Dr.-Ing.","Studiengangsleiter, Professor WI - Data Science",Dennis Pfisterer,mannheim,2021
+"Pock, von, Michael, Prof. Dr.","Studiengangsleiter, Professor RSW - Accounting & Controlling",von Pock,mannheim,2021
+"Preiser, Konrad, Prof. Dr.",Professor Wirtschaftsinformatik,Konrad Preiser,mannheim,2021
+"Priesnitz, Joachim, Prof. Dr.","Studiengangsleiter, Professor Elektrotechnik",Joachim Priesnitz,mannheim,2021
+"Rausch, Jasmin","Administration, Sachbearbeitung studentische und wissenschaftliche Hilfskräfte, Teamassistenz - Fachbereich Personal",Jasmin Rausch,mannheim,2021
+"Rech, Nicole","Personalwesen Professor*innen Technik, Rektorat, Stabsstellen, zentrale Einrichtungen, Team Arbeitszeit - Fachbereich Personal",Nicole Rech,mannheim,2021
+"Redelius, Jürgen, Prof. Dr.","Studiengangsleiter, Professor ME - Digitale Medien/Mediapublishing und Gestaltung",Jürgen Redelius,mannheim,2021
+"Reitermann, Tanja","Administration, Sachbearbeitung studentische und wissenschaftliche Hilfskräfte, Teamassistenz - Fachbereich Personal",Tanja Reitermann,mannheim,2021
+"Reker, Christoph, Prof. Dr.",Professor Wirtschaftsinformatik,Christoph Reker,mannheim,2021
+"Ritterbusch, Sebastian, Prof. Dr.",Professor WI - Data Science,Sebastian Ritterbusch,mannheim,2021
+"Rutesic, Petko, M.Sc.",Wissenschaftlicher Mitarbeiter,Petko Rutesic,mannheim,2021
+"Sauter, Lisa",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Lisa Sauter,mannheim,2021
+"Schael, Arndt-Erik, Prof. Dr.","Studiengangsleiter, Professor Chemische Technik",Arndt-Erik Schael,mannheim,2021
+"Schäfer, Christian Hans, Prof. Dr.",Professor BWL - Versicherung,Christian Hans Schäfer,mannheim,2021
+"Scheel, Michael, Prof. Dr.",Professor RSW - Steuern und Prüfungswesen,Michael Scheel,mannheim,2021
+"Scherer, Maximilian, Prof. Dr.",Professor Wirtschaftsinformatik,Maximilian Scherer,mannheim,2021
+"Schief, Markus, Prof. Dr.",Professor BWL - Digital Business Management,Markus Schief,mannheim,2021
+"Schirl, Thomas, Prof. Dr.","Studiengangsleiter, Professor Elektrotechnik",Thomas Schirl,mannheim,2021
+"Schlottmann, Norbert, Prof.",Professor BWL - Bank,Norbert Schlottmann,mannheim,2021
+"Schmitz, Sven, Prof. Dr.","Studiengangsleiter, Professor Mechatronik",Sven Schmitz,mannheim,2021
+"Schneider, Christoffer, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor BWL - Digital Business Management",Christoffer Schneider,mannheim,2021
+"Schneider, Michael, Prof. Dr.","Studiengangsleiter, Professor Wirtschaftsingenieurwesen",Michael Schneider,mannheim,2021
+"Schneider, Willy, Prof. Dr.","Studiengangsleiter, Professor BWL - Handel",Willy Schneider,mannheim,2021
+"Schneider, Julia",Akademische Mitarbeiterin Dual Assessment: Talente finden und fördern (TAFF),Julia Schneider,mannheim,2021
+"Schorer, Linda, M. Eng.",Akademische Mitarbeiterin,Linda Schorer,mannheim,2021
+"Schröder, Michael, Prof. Dr.","Professor BWL - Spedition, Transport und Logistik",Michael Schröder,mannheim,2021
+"Schröer, Carsten, Prof. Dr.","Professor BWL - Messe-, Kongress- und Eventmanagement",Carsten Schröer,mannheim,2021
+"Schubert, Lars, Prof. Dr.","Studiengangsleiter, Professor BWL - Spedition, Transport und Logistik",Lars Schubert,mannheim,2021
+"Schulz, Volker, Prof. Dr.",Professor Maschinenbau,Volker Schulz,mannheim,2021
+"Schuster, Thomas, Prof. Dr.",Professor BWL - International Business,Thomas Schuster,mannheim,2021
+"Seidel, Carsten, Prof. Dr.","Studiengangsleiter, Professor Integrated Engineering",Carsten Seidel,mannheim,2021
+"Sobirey, Frank, Prof. Dr.","Studiengangsleiter, Professor BWL - Bank",Frank Sobirey,mannheim,2021
+"Stanske, Christian, Prof.","Studiengangsleiter, Professor Maschinenbau",Christian Stanske,mannheim,2021
+"Staub, Sarah, Prof. Dr.-Ing.",Professorin Maschinenbau,Sarah Staub,mannheim,2021
+"Stepanel, Natalja",Akademische Mitarbeiterin WI - E-Health,Natalja Stepanel,mannheim,2021
+"Steurer, Vivian",Akademische Mitarbeiterin WI - E-Health,Vivian Steurer,mannheim,2021
+"Stroetmann, Karl, Prof. Dr.",Professor Informatik,Karl Stroetmann,mannheim,2021
+"Stützer, Michael, Prof. Dr.",Professor BWL - Industrie,Michael Stützer,mannheim,2021
+"Sudermann-Merx, Nathan, Prof. Dr.",Professor Informatik,Nathan Sudermann-Merx,mannheim,2021
+"Teichmann, Michael, Prof. Dr.",Professor BWL - Industrie,Michael Teichmann,mannheim,2021
+"Thalmeier, Petra, Prof. Dr.","Professorin BWL - Messe-, Kongress- und Eventmanagement",Petra Thalmeier,mannheim,2021
+"Tornow, Kai",Akademischer Mitarbeiter Elektromobilität,Kai Tornow,mannheim,2021
+"Ullmann, Michael, Prof. Dr.","Studiengangsleiter, Professor Elektrotechnik",Michael Ullmann,mannheim,2021
+"Vogt, Jan Günther, Prof. Dr.-Ing.",Professor Maschinenbau,Jan Günther Vogt,mannheim,2021
+"Vogt, Jonas, Prof. Dr.",Professor BWL - Finanzdienstleistungen,Jonas Vogt,mannheim,2021
+"Voß, Markus, Prof. Dr.","Studiengangsleiter, Professor Maschinenbau",Markus Voß,mannheim,2021
+"Vranckx, Christian, Prof. Dr.","Studiengangsleiter, Professor BWL - Handel",Christian Vranckx,mannheim,2021
+"Wannenwetsch, Helmut, Prof. Dr.",Professor BWL - Industrie,Helmut Wannenwetsch,mannheim,2021
+"Weigel, Miriam, Dr.",Akademische Mitarbeiterin ZeMath,Miriam Weigel,mannheim,2021
+"Weinland, Lothar, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor BWL - Marketing Management",Lothar Weinland,mannheim,2021
+"Werling, Stefan, Prof. Dr.","Studiendekan, Studiengangsleiter, Professor Mechatronik",Stefan Werling,mannheim,2021
+"Werner, Bernd, Prof. Dr.","Studiengangsleiter, Professor BWL - Öffentliche Wirtschaft/Wirtschaftsförderung",Bernd Werner,mannheim,2021
+"Wiedemann, Armin, Prof. Dr.",Professor Wirtschaftsinformatik,Armin Wiedemann,mannheim,2021
+"Wolf, Bernhard, Prof.",Professor BWL - Handel,Bernhard Wolf,mannheim,2021
+"Wolff, Frank, Prof. Dr.","Studiengangsleiter, Professor WI - Application Management",Frank Wolff,mannheim,2021
