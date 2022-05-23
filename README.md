@@ -4,6 +4,7 @@
 <br>
 <br>
 
+
 # Biblometrische Analyse
 
 ## Beschreibung
@@ -17,37 +18,46 @@ weiteren Forschungsleistungen. Diese werden aus Internetquellen gewonnen und vis
 
 ### Abhängigkeiten
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Tableau: Lizenz benötigt
+* Jupyter Notebook
+* Git
 
 ### Installation
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Der Source Code kann von github geklont werden.
+```
+git init
+git clone https://github.com/kmatysova2/dhbw_bibliometrische_analyse.git
+```
+* Die benötigten Bibliotheken sind in der Datei requirements.txt aufgeführt. Diese können mit pip über den folgenden Befehl installiert werden:
+```
+pip install -r requirements.txt
+```
 
 ### Programmausführung
 
+Die Programmausführung ist wegen der langen Laufzeiten in mehrere Schritte unterteilt. Diese sind in der richtigen Reihenfolge auszuführen, wobei der Startpunkt bei einem beliebigen Schritt erfolgen kann.
 
-
+#### 1. Beschaffung der Mitarbeiter
 * How to run the program
 * Step-by-step bullets
-```
-code blocks for commands
-```
+#### 2. Beschaffung der Publikationen
+#### 3. Kombination der Publikationen für einzelne Standorte
+#### 4. Kombination aller Publikationen und Jahre
+#### 5. Nutzung der grafischen Oberfläche
+
+
 
 ## Hilfe
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Bei Risiken und Nebenwirkungen fragen sie ihren Chef oder Informatiker.
 
 ## Autoren
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Mitwirkende an diesem Projekt:
+ 
+[Julian Kaiser](https://github.com/kaiserj)<br>
+[Katerina Matysova](https://github.com/kmatysova2)
 
 ## Versionen
 
