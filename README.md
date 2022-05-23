@@ -3,8 +3,6 @@
 <img align="right" width="250" src="img\1200px-DHBW_Ravensburg.svg.png">
 <br>
 <br>
-<br>
-<br>
 
 # Biblometrische Analyse
 
