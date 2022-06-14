@@ -36,14 +36,25 @@ pip install -r requirements.txt
 
 ### Programmausführung
 
-Die Programmausführung ist wegen der langen Laufzeiten in mehrere Schritte unterteilt. Diese sind in der richtigen Reihenfolge auszuführen, wobei der Startpunkt bei einem beliebigen Schritt erfolgen kann.
+Die Programmausführung ist wegen der langen Laufzeiten in mehrere Schritte unterteilt. Diese sind in der richtigen Reihenfolge auszuführen, wobei der Startpunkt bei einem beliebigen Schritt erfolgen kann.<br>
+Die Jupyter Notebooks zum Ausführen der einzelnen Schritte sind dabei im [src](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src) Ordner zu finden.
 
 #### 1. Beschaffung der Mitarbeiter
 * How to run the program
 * Step-by-step bullets
 #### 2. Beschaffung der Publikationen
+Die Beschaffung der Publikationen muss für jeden Standort einzeln ausgeführt werden, jeweils mit einem Tag Abstand. Dies resultiert aus den bereits erwähnten Abwehrmechanismen der Webseiten für die Vermeidung einer DDOS Attacke.
+* Notebook für [Google Scholar](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/retrieving_author_publications_google_scholar.ipynb)
+* Notebook für [Researchgate](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/retrieving_author_publications_research_gate.ipynb)
+* Standort im Beginn des Notebooks ändern.
+* Notebook komplett auführen.
 #### 3. Kombination der Publikationen für einzelne Standorte
+Die Publikationen der zwei verschiedenen Quellen werden für jeden Standort wiederum in jeweils einer csv-Datei zusammengefasst. Die Identifikation zweier gleicher Publikationen erfolgt hierbei über den Titel.
+* [Notebook für Kombination der Quellen](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/combine_publication_info.ipynb) komplett ausführen.
+
 #### 4. Kombination aller Publikationen und Jahre
+Die Publikationen aller Standorte über alle vorhandenen Jahre werden in einer csv-Datei zusammengefasst, um für die grafische Darstellung verwendet werden zu können. Dies geschieht durch die Hinzunahme der beiden Spalten “YEAR” und “SITE”. Zudem werden in diesem Schritt die Zeitschriftenrankings hinzugefügt.
+* [Notebook für Kombination der Standorte](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/combine_pub_into_one_file.ipynb) komplett ausführen.
 #### 5. Nutzung der grafischen Oberfläche
 
 
