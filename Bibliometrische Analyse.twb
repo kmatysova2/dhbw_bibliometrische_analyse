@@ -3708,8 +3708,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1300' minheight='1300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='51' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98244' id='50' param='vert' type-v2='layout-flow' w='99016' x='492' y='878'>
+            <zone h='100000' id='53' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98244' id='52' param='vert' type-v2='layout-flow' w='99016' x='492' y='878'>
                 <zone fixed-size='280' h='49103' id='3' is-fixed='true' name='Anzahl Publikationen nach Standort und Jahr' w='44182' x='492' y='878'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
