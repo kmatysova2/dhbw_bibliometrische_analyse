@@ -61,7 +61,10 @@ Zur Nutzung der grafischen Oberfläche muss nach der Installation von Tableau un
 
 ## Hilfe
 
-Bei Risiken und Nebenwirkungen fragen sie ihren Chef oder Informatiker.
+Bei Risiken und Nebenwirkungen fragen Sie ihren Chef oder Informatiker.<br>
+Oder sprechen Sie die Autoren direkt an:
+[Julian Kaiser](mailto:matysova@stud.dhbw-ravensburg.de)
+[Katerina Matysova](mailto:lunde@adobe.com)
 
 ## Autoren
 
@@ -70,26 +73,9 @@ Mitwirkende an diesem Projekt:
 [Julian Kaiser](https://github.com/kaiserj)<br>
 [Katerina Matysova](https://github.com/kmatysova2)
 
-## Versionen
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
 ## Lizenz
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
-
-## Anerkennung
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 ## Disclaimer
 
