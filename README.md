@@ -62,9 +62,7 @@ Zur Nutzung der grafischen Oberfläche muss nach der Installation von Tableau un
 ## Hilfe
 
 Bei Risiken und Nebenwirkungen fragen Sie ihren Chef oder Informatiker.<br>
-Oder sprechen Sie die Autoren direkt an:
-[Julian Kaiser](mailto:matysova@stud.dhbw-ravensburg.de)
-[Katerina Matysova](mailto:lunde@adobe.com)
+Oder sprechen Sie die Autoren [Julian Kaiser](mailto:matysova@stud.dhbw-ravensburg.de) und [Katerina Matysova](mailto:lunde@adobe.com) direkt an.
 
 ## Autoren
 
