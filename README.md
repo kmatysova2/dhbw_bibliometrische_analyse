@@ -40,8 +40,8 @@ Die Programmausführung ist wegen der langen Laufzeiten in mehrere Schritte unte
 Die Jupyter Notebooks zum Ausführen der einzelnen Schritte sind dabei im [src](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src) Ordner zu finden.
 
 #### 1. Beschaffung der Mitarbeiter
-* How to run the program
-* Step-by-step bullets
+Die für die bibliometrische Analyse relevanten Mitarbeiter werden über die Liste der Ansprechpersonen von den Websiten der einzelnen Standorte ermittelt. Die relevanten Mitarbeiter werden dabei jeweils für einen Standort und ein Jahr in einer csv-Datei zusammengefasst. Basierend auf diesen csv-Dateien wird eine neue csv-Datei erstellt, die alle Standorte und alle Jahre beinhaltet, damit diese zur grafischen Darstellung verwendet werden kann.
+* [Notebook für Mitarbeiter](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/retrieving_employees.ipynb) komplett ausführen.
 #### 2. Beschaffung der Publikationen
 Die Beschaffung der Publikationen muss für jeden Standort einzeln ausgeführt werden, jeweils mit einem Tag Abstand. Dies resultiert aus den bereits erwähnten Abwehrmechanismen der Webseiten für die Vermeidung einer DDOS Attacke.
 * Notebook für [Google Scholar](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/retrieving_author_publications_google_scholar.ipynb)
@@ -56,7 +56,7 @@ Die Publikationen der zwei verschiedenen Quellen werden für jeden Standort wied
 Die Publikationen aller Standorte über alle vorhandenen Jahre werden in einer csv-Datei zusammengefasst, um für die grafische Darstellung verwendet werden zu können. Dies geschieht durch die Hinzunahme der beiden Spalten “YEAR” und “SITE”. Zudem werden in diesem Schritt die Zeitschriftenrankings hinzugefügt.
 * [Notebook für Kombination der Standorte](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/combine_pub_into_one_file.ipynb) komplett ausführen.
 #### 5. Nutzung der grafischen Oberfläche
-
+Zur Nutzung der grafischen Oberfläche muss nach der Installation von Tableau und dem Klonen des Source Codes die Tableau-Datei [Bibliometrische Analyse](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/Bibliometrische%20Analyse.twb) ausgeführt werden.
 
 
 ## Hilfe
