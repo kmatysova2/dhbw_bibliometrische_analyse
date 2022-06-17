@@ -14,7 +14,7 @@ Jahre.<br>
 Ziel dieses Projekts ist die quantitative Messung von Forschungs‐Output der DHBW über die Auswertung von Publikationen und
 weiteren Forschungsleistungen. Diese werden aus Internetquellen gewonnen und visuell dargestellt.
 
-## Getting Started
+## Einstieg
 
 ### Abhängigkeiten
 
