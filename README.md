@@ -56,13 +56,15 @@ Die Publikationen der zwei verschiedenen Quellen werden für jeden Standort wied
 Die Publikationen aller Standorte über alle vorhandenen Jahre werden in einer csv-Datei zusammengefasst, um für die grafische Darstellung verwendet werden zu können. Dies geschieht durch die Hinzunahme der beiden Spalten “YEAR” und “SITE”. Zudem werden in diesem Schritt die Zeitschriftenrankings hinzugefügt.
 * [Notebook für Kombination der Standorte](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/src/combine_pub_into_one_file.ipynb) komplett ausführen.
 #### 5. Nutzung der grafischen Oberfläche
-Zur Nutzung der grafischen Oberfläche muss nach der Installation von Tableau und dem Klonen des Source Codes die Tableau-Datei [Bibliometrische Analyse](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/Bibliometrische%20Analyse.twb) ausgeführt werden.
+Zur Nutzung der grafischen Oberfläche muss nach der Installation von Tableau und dem Klonen des Source Codes die Tableau-Datei [Bibliometrische Analyse](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/Bibliometrische%20Analyse.twb) ausgeführt werden. Anschließend müssen die Verbindungen zu den Daten angepasst werden sodass die grafische Oberfläche genutzt werden kann.
+* Die Verbindung "publications_all_sites_all_years" muss auf die Datei [publications_all_sites_all_years.csv](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/data/publications_all_sites_all_years.csv) verweisen.
+* Die Verbindung "employees_all_sites_all_years" muss auf die Datei [employees_all_sites_all_years.csv](https://github.com/kmatysova2/dhbw_bibliometrische_analyse/tree/main/data/employees_all_sites_all_years.csv) verweisen.
 
 
 ## Hilfe
 
 Bei Risiken und Nebenwirkungen fragen Sie ihren Chef oder Informatiker.<br>
-Oder sprechen Sie die Autoren [Julian Kaiser](mailto:matysova@stud.dhbw-ravensburg.de) und [Katerina Matysova](mailto:lunde@adobe.com) direkt an.
+Oder sprechen Sie die Autoren [Julian Kaiser](mailto:kaiser.ju@stud.dhbw-ravensburg.de) und [Katerina Matysova](mailto:matysova@stud.dhbw-ravensburg.de) direkt an.
 
 ## Autoren
 
